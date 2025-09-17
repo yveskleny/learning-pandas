@@ -1,0 +1,11 @@
+Data,Produto,Categoria,Preco,Quantidade,Vendedor
+2023-01-05,Teclado,Periféricos,150.00,2,Ana
+2023-01-05,Mouse,Periféricos,50.00,3,Ana
+2023-01-12,Monitor,Monitores,1200.00,1,Carlos
+2023-01-15,Teclado,Periféricos,150.00,1,Beatriz
+2023-01-18,Webcam,Acessórios,250.00,2,Carlos
+2023-02-02,Mouse,Periféricos,50.00,5,Ana
+2023-02-08,Monitor,Monitores,1200.00,2,Beatriz
+2023-02-10,Webcam,Acessórios,250.00,1,Carlos
+2023-02-20,Headset,Acessórios,350.00,3,Ana
+2023-02-25,Teclado,Periféricos,150.00,2,Beatriz
