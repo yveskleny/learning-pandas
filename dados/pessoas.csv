@@ -1,0 +1,5001 @@
+genero,renda,dias_na_plataforma,cidade,compras_realizadas
+M,126895,14.0,San Francisco,0
+M,161474,14.0,Tokyo,0
+M,104723,34.0,London,1
+M,43791,28.0,London,2
+F,132181,26.0,London,2
+M,12315,14.0,New York City,0
+M,51679,30.0,Tokyo,0
+F,53341,43.0,San Francisco,1
+M,129157,23.0,New York City,0
+F,76842,19.0,Tokyo,2
+M,159506,7.0,New York City,0
+M,110343,30.0,San Francisco,1
+M,130521,12.0,London,1
+M,105418,13.0,Miami,0
+M,95060,7.0,Tokyo,1
+F,226249,20.0,Miami,0
+F,51434,18.0,New York City,0
+F,177582,2.0,London,0
+F,260,32.0,San Francisco,0
+F,15174,13.0,Tokyo,1
+M,18300,15.0,Tokyo,1
+M,67623,40.0,New York City,0
+F,39433,36.0,Miami,2
+F,108804,5.0,Tokyo,2
+F,38777,2.0,San Francisco,2
+F,112992,9.0,London,3
+F,24300,34.0,Tokyo,0
+M,12877,18.0,San Francisco,1
+M,44684,15.0,Tokyo,4
+M,70598,15.0,London,2
+M,1070,32.0,New York City,2
+M,25838,15.0,London,1
+M,92621,4.0,New York City,0
+M,19572,39.0,New York City,2
+M,89058,8.0,New York City,1
+F,21646,30.0,London,0
+M,58738,52.0,San Francisco,1
+M,111270,0.0,San Francisco,0
+F,19003,25.0,San Francisco,2
+M,4127,17.0,New York City,2
+M,138533,20.0,New York City,3
+F,37303,30.0,New York City,1
+M,51178,9.0,London,1
+M,52145,79.0,London,0
+M,1062,28.0,Tokyo,2
+M,142495,26.0,Miami,0
+F,37129,29.0,London,0
+M,9866,33.0,London,5
+M,62665,35.0,San Francisco,0
+F,107003,44.0,Tokyo,1
+M,255965,22.0,Tokyo,1
+M,85704,23.0,New York City,4
+F,59313,15.0,New York City,0
+F,95797,29.0,San Francisco,0
+M,229581,50.0,Miami,1
+F,114434,2.0,London,1
+M,53427,59.0,Miami,3
+M,97559,0.0,Tokyo,2
+M,41515,2.0,Miami,1
+F,47260,43.0,Miami,0
+F,177953,71.0,Miami,0
+M,72545,29.0,New York City,0
+F,76525,30.0,Tokyo,0
+M,115977,37.0,Tokyo,1
+M,55581,2.0,Miami,0
+F,10834,22.0,Miami,0
+M,181514,11.0,San Francisco,1
+M,148041,12.0,London,4
+F,54724,25.0,Tokyo,0
+M,117191,12.0,Miami,2
+F,42665,6.0,London,0
+F,76611,8.0,London,0
+M,85827,27.0,San Francisco,0
+F,10174,43.0,London,0
+M,39736,31.0,Tokyo,4
+F,158067,26.0,Miami,0
+F,59422,42.0,London,0
+M,31343,56.0,New York City,0
+F,42850,4.0,San Francisco,0
+M,5041,17.0,Miami,2
+M,38877,23.0,Miami,1
+M,32758,30.0,San Francisco,1
+M,128031,63.0,Tokyo,0
+F,117244,54.0,New York City,1
+M,163307,12.0,New York City,1
+F,39953,14.0,Miami,0
+F,47038,0.0,London,1
+F,29997,3.0,Tokyo,0
+F,101285,36.0,San Francisco,0
+F,8802,15.0,Tokyo,2
+F,162074,55.0,Miami,0
+F,66182,7.0,San Francisco,0
+F,144971,59.0,San Francisco,0
+M,9143,11.0,New York City,0
+M,136740,10.0,London,0
+F,54455,27.0,London,1
+M,279792,36.0,London,4
+M,29338,47.0,New York City,2
+M,39017,37.0,Miami,0
+F,3550,11.0,Tokyo,1
+M,17604,41.0,Tokyo,0
+F,86038,21.0,San Francisco,1
+M,90784,0.0,Tokyo,2
+F,20144,22.0,Tokyo,2
+M,24491,5.0,Tokyo,5
+M,100126,12.0,Miami,3
+M,56859,22.0,New York City,1
+F,114142,10.0,San Francisco,2
+M,76871,9.0,San Francisco,0
+F,185647,10.0,London,0
+F,31178,16.0,Tokyo,1
+F,7982,9.0,Miami,1
+M,111991,18.0,London,0
+F,155979,9.0,Tokyo,2
+F,41138,2.0,San Francisco,0
+M,130458,13.0,San Francisco,0
+M,28146,19.0,Miami,2
+F,756,21.0,San Francisco,4
+M,26825,9.0,Tokyo,1
+F,82928,9.0,San Francisco,1
+M,75743,4.0,London,0
+F,133644,13.0,San Francisco,0
+F,90495,19.0,San Francisco,2
+M,15137,5.0,Miami,0
+M,151420,50.0,San Francisco,0
+M,19170,21.0,Miami,1
+F,17003,4.0,San Francisco,0
+M,6220,36.0,Miami,2
+F,94003,11.0,Miami,2
+M,88453,31.0,London,0
+M,10941,8.0,New York City,0
+M,149643,16.0,Miami,0
+F,94844,31.0,New York City,3
+F,75438,12.0,Tokyo,1
+M,231131,78.0,New York City,2
+M,47626,31.0,Tokyo,0
+F,66226,55.0,San Francisco,0
+F,31279,15.0,San Francisco,0
+M,64889,21.0,New York City,1
+M,62570,1.0,London,0
+M,46470,29.0,Miami,2
+M,130567,40.0,Miami,0
+F,18409,6.0,New York City,5
+F,199128,11.0,Tokyo,2
+M,15078,6.0,San Francisco,2
+M,23834,17.0,London,2
+M,143915,69.0,Miami,0
+M,195904,47.0,Tokyo,4
+M,95196,63.0,London,1
+M,54390,11.0,New York City,0
+M,12539,36.0,Miami,0
+M,30446,37.0,London,1
+M,45020,42.0,San Francisco,0
+F,166254,2.0,San Francisco,1
+M,92582,36.0,San Francisco,0
+F,73993,61.0,San Francisco,0
+F,66887,5.0,Miami,0
+M,177228,4.0,Miami,0
+F,142610,11.0,San Francisco,0
+M,26650,7.0,Miami,1
+M,201813,22.0,New York City,1
+F,202365,34.0,London,4
+F,57256,19.0,New York City,0
+M,110882,54.0,New York City,0
+F,156060,38.0,Miami,1
+F,164730,22.0,Tokyo,0
+M,32204,45.0,London,3
+M,7903,67.0,Tokyo,1
+M,44825,27.0,London,3
+M,9465,27.0,Miami,0
+F,222205,20.0,New York City,1
+M,58152,16.0,San Francisco,2
+M,116918,48.0,London,1
+M,65525,67.0,San Francisco,0
+M,54619,2.0,Tokyo,0
+M,92662,32.0,Tokyo,2
+F,93672,45.0,Miami,3
+F,57929,74.0,Miami,0
+M,116878,6.0,Tokyo,0
+F,81535,35.0,New York City,2
+M,96055,6.0,San Francisco,2
+M,9076,30.0,London,0
+F,118228,16.0,New York City,1
+F,223669,13.0,Tokyo,0
+M,165119,48.0,Miami,0
+M,63724,67.0,New York City,4
+M,91477,45.0,New York City,0
+F,51931,25.0,New York City,1
+F,33888,28.0,Tokyo,4
+M,87521,8.0,San Francisco,2
+F,59732,38.0,Miami,2
+M,1497,40.0,San Francisco,0
+F,53355,35.0,New York City,2
+F,58820,32.0,Miami,0
+F,8528,28.0,Tokyo,0
+M,65742,5.0,Tokyo,0
+F,92148,21.0,Miami,0
+M,95618,1.0,New York City,2
+M,107407,78.0,Miami,2
+F,59834,23.0,New York City,0
+F,309902,51.0,Tokyo,0
+M,13623,6.0,London,1
+F,86803,0.0,Miami,2
+M,18550,7.0,San Francisco,2
+M,104020,23.0,Miami,0
+F,44566,11.0,San Francisco,1
+F,21208,21.0,Miami,0
+M,47767,34.0,New York City,1
+F,9443,19.0,London,0
+M,93917,67.0,New York City,0
+F,81841,26.0,San Francisco,0
+M,107947,8.0,London,0
+M,103234,45.0,Tokyo,1
+F,46751,27.0,Miami,2
+F,180960,20.0,London,0
+M,87026,7.0,San Francisco,0
+F,63933,26.0,Miami,0
+F,117001,17.0,San Francisco,1
+F,162512,32.0,New York City,0
+F,214361,7.0,New York City,0
+F,18746,13.0,Miami,2
+M,176177,19.0,Tokyo,0
+F,72151,19.0,New York City,0
+F,121436,20.0,Miami,1
+M,68863,21.0,New York City,0
+M,58735,16.0,Miami,2
+M,46948,40.0,New York City,1
+M,69553,22.0,San Francisco,2
+M,225512,29.0,London,3
+M,52330,40.0,New York City,0
+M,72162,55.0,Miami,0
+M,33271,5.0,San Francisco,2
+F,113856,0.0,London,1
+M,100904,44.0,Miami,0
+M,129974,26.0,Miami,3
+M,59623,4.0,New York City,1
+F,31939,6.0,Miami,2
+F,109978,13.0,New York City,3
+M,41849,59.0,Miami,3
+F,26458,10.0,London,0
+F,134876,5.0,San Francisco,4
+M,47598,32.0,New York City,2
+F,14414,4.0,Miami,0
+F,9940,20.0,San Francisco,0
+M,43655,12.0,New York City,2
+M,70872,42.0,Tokyo,0
+M,135260,8.0,San Francisco,0
+F,103129,14.0,San Francisco,2
+M,117416,22.0,London,2
+F,265599,58.0,London,1
+M,102207,28.0,San Francisco,1
+F,15994,21.0,London,1
+M,38532,23.0,New York City,0
+F,2806,22.0,Tokyo,4
+M,165761,42.0,San Francisco,2
+F,116481,11.0,Miami,0
+F,34454,49.0,San Francisco,0
+F,151527,87.0,Miami,1
+F,61643,44.0,London,0
+M,193218,19.0,San Francisco,0
+M,117703,67.0,Tokyo,2
+M,91100,13.0,New York City,1
+F,14049,21.0,San Francisco,1
+F,123797,40.0,San Francisco,1
+F,22956,63.0,San Francisco,2
+F,73251,35.0,London,0
+F,118296,6.0,Tokyo,2
+M,24368,3.0,Tokyo,1
+F,8527,50.0,San Francisco,1
+F,136491,11.0,New York City,3
+M,8492,20.0,Miami,0
+M,71369,28.0,San Francisco,0
+F,60457,11.0,San Francisco,2
+M,197033,13.0,London,0
+F,118176,28.0,New York City,0
+F,14399,17.0,San Francisco,0
+M,135846,10.0,New York City,0
+M,118400,36.0,New York City,3
+F,72892,35.0,Tokyo,2
+M,53648,0.0,New York City,0
+F,29293,25.0,New York City,1
+F,107097,24.0,Miami,0
+F,51214,49.0,London,1
+F,95353,14.0,San Francisco,2
+M,166825,16.0,San Francisco,2
+M,128826,13.0,Miami,1
+M,196019,4.0,San Francisco,0
+M,40812,18.0,New York City,0
+M,142414,38.0,Tokyo,0
+M,229541,28.0,New York City,0
+M,70387,37.0,San Francisco,0
+F,126700,22.0,London,1
+F,16968,14.0,San Francisco,0
+M,55754,3.0,Tokyo,2
+F,76339,8.0,Tokyo,0
+M,55774,3.0,Tokyo,2
+F,93440,11.0,London,1
+M,10181,13.0,New York City,0
+F,47546,26.0,Tokyo,3
+F,147687,0.0,San Francisco,2
+F,143031,1.0,Miami,1
+M,222541,24.0,New York City,5
+M,136946,39.0,Tokyo,0
+M,46745,15.0,London,0
+F,109273,26.0,Miami,0
+M,102269,1.0,New York City,1
+M,36351,29.0,London,0
+M,219073,10.0,San Francisco,0
+F,191620,51.0,New York City,3
+M,164043,0.0,Miami,1
+F,67403,25.0,Miami,0
+F,78530,40.0,Miami,2
+F,16574,24.0,Miami,4
+F,116155,31.0,Tokyo,1
+M,43535,29.0,New York City,0
+M,14583,30.0,Tokyo,0
+F,56863,43.0,London,0
+M,62405,11.0,London,1
+F,124711,71.0,San Francisco,1
+F,60096,3.0,New York City,1
+M,127181,8.0,Miami,3
+M,52010,36.0,San Francisco,1
+M,70368,1.0,New York City,0
+M,92534,49.0,Miami,5
+M,142883,25.0,Tokyo,2
+F,49016,8.0,Miami,0
+M,49526,22.0,Miami,0
+F,133043,1.0,Tokyo,2
+F,26568,5.0,San Francisco,0
+F,106406,4.0,New York City,1
+F,19277,11.0,Miami,2
+F,49997,24.0,Tokyo,1
+M,6621,22.0,Miami,0
+F,109924,1.0,Tokyo,0
+F,40738,30.0,Tokyo,1
+F,40367,2.0,New York City,0
+F,127959,21.0,London,1
+M,41229,4.0,London,2
+M,12706,0.0,Tokyo,0
+M,69105,78.0,London,0
+F,171356,6.0,San Francisco,0
+M,68153,48.0,San Francisco,2
+F,89097,42.0,New York City,2
+M,13644,33.0,New York City,0
+F,30375,7.0,New York City,1
+F,46850,14.0,New York City,0
+M,122065,8.0,San Francisco,3
+F,55674,1.0,Tokyo,0
+M,16021,36.0,New York City,2
+M,154170,2.0,New York City,3
+M,84636,42.0,San Francisco,3
+F,42695,63.0,Miami,0
+F,16986,0.0,San Francisco,2
+F,4526,2.0,New York City,2
+F,70705,24.0,San Francisco,1
+M,145418,23.0,New York City,2
+F,44585,15.0,London,2
+M,8193,21.0,Miami,2
+F,121494,1.0,Miami,0
+F,182301,30.0,San Francisco,0
+M,132229,32.0,San Francisco,0
+F,107281,45.0,Tokyo,2
+F,82995,22.0,New York City,2
+M,51093,42.0,San Francisco,1
+F,48212,17.0,London,1
+F,48359,13.0,San Francisco,1
+F,39662,30.0,New York City,0
+M,225174,62.0,New York City,2
+M,106242,16.0,Tokyo,2
+F,120174,14.0,Tokyo,0
+M,16489,8.0,London,0
+M,63377,7.0,New York City,1
+M,41645,22.0,Tokyo,0
+M,41042,6.0,New York City,1
+M,224864,58.0,London,2
+F,126258,29.0,London,1
+M,78731,16.0,Tokyo,0
+M,3940,46.0,Miami,0
+M,51462,22.0,San Francisco,2
+M,58135,17.0,San Francisco,2
+M,18286,56.0,Miami,1
+F,61236,23.0,New York City,1
+F,69239,9.0,Miami,0
+F,27938,24.0,Miami,0
+F,179794,10.0,London,1
+F,76830,17.0,San Francisco,0
+M,92283,37.0,Tokyo,0
+F,89170,7.0,Tokyo,1
+M,40281,23.0,San Francisco,1
+M,31937,29.0,Tokyo,0
+F,33294,35.0,San Francisco,0
+M,27508,0.0,San Francisco,1
+F,69827,36.0,New York City,2
+M,69817,22.0,New York City,1
+M,39487,38.0,Tokyo,2
+M,42296,30.0,New York City,1
+F,71916,7.0,Miami,4
+F,90719,31.0,San Francisco,1
+M,93850,54.0,Miami,1
+F,134452,26.0,San Francisco,1
+M,63731,35.0,San Francisco,1
+F,32823,6.0,Miami,0
+F,237764,12.0,Miami,3
+M,78160,37.0,New York City,0
+M,20232,89.0,San Francisco,0
+M,179046,58.0,Miami,0
+F,66360,0.0,San Francisco,3
+M,14016,32.0,San Francisco,0
+M,146427,1.0,Miami,1
+M,38068,7.0,Miami,0
+M,65481,41.0,San Francisco,2
+M,39237,25.0,Tokyo,0
+F,60688,9.0,New York City,1
+F,62800,53.0,New York City,1
+M,52787,2.0,London,0
+M,133931,28.0,Tokyo,0
+M,19356,0.0,Tokyo,0
+F,170552,16.0,Tokyo,1
+M,27132,6.0,San Francisco,1
+M,103513,45.0,London,2
+M,109813,21.0,Miami,0
+F,118006,6.0,Tokyo,2
+M,19178,19.0,San Francisco,2
+F,263840,49.0,London,0
+M,48084,34.0,London,2
+M,13772,4.0,Tokyo,0
+M,3774,1.0,San Francisco,0
+F,252340,5.0,Miami,1
+F,1722,56.0,London,1
+M,105860,46.0,London,0
+F,50570,26.0,San Francisco,1
+M,141341,6.0,London,0
+F,64812,11.0,Miami,0
+M,9781,19.0,Tokyo,1
+M,43630,17.0,New York City,1
+M,71157,31.0,London,2
+F,150430,14.0,Tokyo,1
+M,107387,21.0,London,2
+F,137796,31.0,San Francisco,4
+M,95735,8.0,London,2
+M,28803,32.0,New York City,0
+M,155813,37.0,San Francisco,3
+M,42544,56.0,Miami,2
+F,26108,36.0,Miami,0
+F,35047,7.0,London,1
+M,236562,4.0,London,2
+F,17246,32.0,Tokyo,2
+M,77084,29.0,Tokyo,1
+F,127380,36.0,San Francisco,1
+M,3152,29.0,Tokyo,1
+M,114026,14.0,London,2
+F,7518,23.0,Tokyo,1
+M,132358,7.0,Tokyo,3
+F,7553,23.0,Miami,0
+M,111270,33.0,San Francisco,1
+M,372813,0.0,Miami,4
+M,5952,12.0,Miami,0
+F,68552,9.0,Miami,4
+F,45042,26.0,Tokyo,0
+M,56425,33.0,London,3
+F,34393,10.0,Miami,2
+F,211522,9.0,San Francisco,0
+F,75745,9.0,Tokyo,0
+F,36337,16.0,Tokyo,0
+F,38407,3.0,Tokyo,2
+M,26204,10.0,Miami,0
+M,172528,7.0,New York City,1
+F,15672,8.0,Miami,1
+M,11015,31.0,San Francisco,0
+F,216308,27.0,Tokyo,1
+F,5837,39.0,Miami,2
+F,70171,3.0,Miami,0
+M,48670,8.0,Miami,0
+M,224376,26.0,New York City,0
+F,42930,26.0,Tokyo,2
+F,34303,10.0,San Francisco,1
+M,241202,32.0,San Francisco,0
+M,70082,23.0,Miami,0
+M,12882,53.0,Tokyo,1
+F,210018,34.0,San Francisco,0
+F,184569,12.0,Miami,0
+F,241417,12.0,Tokyo,1
+M,90765,0.0,London,2
+F,18141,2.0,London,4
+M,55779,44.0,Miami,4
+F,130753,46.0,London,6
+M,174745,9.0,London,5
+F,116027,26.0,Miami,1
+F,86885,40.0,New York City,0
+M,242122,35.0,San Francisco,0
+F,41011,18.0,New York City,0
+F,84362,14.0,London,1
+M,48341,44.0,San Francisco,1
+F,46077,2.0,New York City,1
+F,165877,47.0,Tokyo,1
+M,174054,1.0,Miami,0
+M,5743,13.0,London,0
+M,51563,72.0,San Francisco,1
+F,39860,29.0,San Francisco,0
+M,7475,4.0,London,0
+M,55262,32.0,London,1
+M,138484,20.0,London,0
+F,103353,35.0,Tokyo,1
+M,26634,35.0,London,1
+M,70504,52.0,Tokyo,1
+M,60944,10.0,San Francisco,0
+M,156382,31.0,Tokyo,0
+M,6536,23.0,London,1
+F,29339,5.0,London,0
+M,38872,16.0,New York City,1
+M,7397,57.0,San Francisco,0
+F,129025,68.0,Tokyo,1
+M,65428,3.0,New York City,2
+M,86580,27.0,San Francisco,0
+M,26867,25.0,Miami,4
+M,84225,19.0,London,0
+M,104856,44.0,London,3
+M,244077,26.0,San Francisco,1
+F,41679,2.0,Tokyo,0
+M,12821,7.0,New York City,3
+F,86986,30.0,San Francisco,0
+F,52124,28.0,San Francisco,0
+M,33672,26.0,Tokyo,0
+M,40479,30.0,New York City,1
+F,58079,47.0,London,2
+F,21763,12.0,Miami,0
+F,98451,36.0,San Francisco,1
+M,149712,54.0,Tokyo,1
+M,86520,40.0,New York City,0
+F,120153,17.0,San Francisco,1
+M,61198,14.0,London,0
+F,158433,6.0,New York City,0
+M,36961,46.0,San Francisco,1
+M,31158,37.0,New York City,0
+F,174942,8.0,New York City,2
+F,769,2.0,Miami,2
+M,100787,4.0,London,2
+M,1343,12.0,San Francisco,0
+M,197832,15.0,Miami,2
+F,78516,40.0,Miami,3
+F,144969,83.0,Miami,0
+M,174518,17.0,San Francisco,1
+F,30478,31.0,Tokyo,1
+F,161283,16.0,London,0
+M,70143,81.0,San Francisco,1
+F,184482,7.0,San Francisco,0
+M,59281,1.0,Miami,3
+F,61567,7.0,London,0
+M,45547,13.0,Tokyo,2
+M,78351,47.0,New York City,0
+M,9642,28.0,Tokyo,3
+M,130380,31.0,San Francisco,1
+F,200937,21.0,San Francisco,2
+F,40606,18.0,Miami,1
+M,100959,7.0,Miami,0
+M,33423,15.0,San Francisco,0
+F,6677,3.0,Miami,0
+M,34061,21.0,London,0
+M,129809,6.0,Tokyo,0
+M,95358,10.0,London,0
+M,158214,52.0,Miami,1
+M,159946,33.0,New York City,0
+M,21555,4.0,London,0
+M,29036,4.0,New York City,3
+M,5123,4.0,New York City,1
+M,19865,14.0,Tokyo,4
+F,159529,26.0,Miami,1
+F,47295,48.0,San Francisco,0
+M,34813,12.0,London,2
+M,169156,9.0,Miami,1
+M,160093,9.0,London,1
+F,65150,13.0,Tokyo,0
+M,136320,0.0,San Francisco,2
+M,22409,9.0,London,0
+M,77833,46.0,New York City,0
+F,38288,58.0,San Francisco,0
+F,85401,3.0,San Francisco,1
+M,118392,46.0,San Francisco,2
+M,50254,26.0,New York City,1
+M,173543,61.0,New York City,0
+F,98269,10.0,London,0
+M,6289,6.0,London,0
+M,156242,42.0,New York City,0
+F,230211,21.0,Tokyo,0
+M,67753,18.0,Tokyo,0
+F,77614,38.0,Tokyo,1
+F,95559,7.0,San Francisco,0
+M,55193,7.0,San Francisco,0
+M,51868,1.0,Tokyo,0
+M,60193,11.0,London,1
+M,61797,3.0,San Francisco,0
+M,60407,15.0,Tokyo,1
+M,43721,9.0,Tokyo,3
+F,52996,33.0,San Francisco,0
+M,82661,3.0,San Francisco,1
+F,60661,5.0,Tokyo,3
+F,51073,2.0,Miami,2
+M,33324,37.0,London,0
+M,7140,48.0,Miami,1
+M,145295,19.0,San Francisco,0
+F,69828,24.0,London,2
+M,38090,27.0,Miami,0
+M,101592,15.0,Tokyo,1
+M,12176,15.0,New York City,2
+F,32875,33.0,Miami,0
+F,83143,50.0,New York City,2
+M,13816,5.0,New York City,4
+M,79668,25.0,London,0
+M,34006,33.0,Tokyo,3
+M,110916,11.0,San Francisco,2
+M,30349,1.0,San Francisco,2
+M,78475,8.0,New York City,1
+M,6017,0.0,Miami,1
+M,74849,13.0,Miami,3
+F,92465,29.0,Tokyo,4
+M,40236,35.0,Miami,1
+F,54187,37.0,New York City,3
+M,170375,32.0,London,0
+F,84371,20.0,London,1
+M,178369,17.0,Miami,0
+F,19881,20.0,Miami,0
+M,263497,2.0,San Francisco,3
+M,155199,32.0,London,3
+M,11043,20.0,San Francisco,1
+F,214903,18.0,San Francisco,1
+M,170974,60.0,London,0
+M,175146,3.0,London,0
+M,117203,7.0,London,4
+M,7545,21.0,San Francisco,1
+M,32219,49.0,New York City,1
+M,63246,36.0,San Francisco,2
+M,129477,39.0,San Francisco,2
+M,70584,31.0,London,1
+F,48427,38.0,Tokyo,1
+F,99765,28.0,Miami,0
+F,64138,22.0,London,2
+M,28304,6.0,San Francisco,1
+M,91453,35.0,London,0
+M,87552,13.0,London,0
+M,18687,62.0,London,0
+F,734,12.0,Miami,1
+F,60218,6.0,Tokyo,0
+M,152051,30.0,Tokyo,0
+F,210323,31.0,New York City,1
+F,57937,10.0,New York City,0
+F,215686,26.0,Miami,0
+F,160106,61.0,London,0
+M,85945,33.0,Tokyo,0
+F,57113,5.0,New York City,0
+F,85976,9.0,Tokyo,1
+F,27754,57.0,New York City,1
+M,2134,26.0,London,2
+F,190425,11.0,Miami,0
+F,39474,14.0,London,0
+M,62432,0.0,New York City,2
+F,78419,4.0,San Francisco,2
+F,42700,0.0,Tokyo,1
+M,87490,11.0,Miami,0
+M,21521,30.0,San Francisco,2
+M,66440,15.0,Miami,2
+M,43288,6.0,Miami,0
+M,54128,2.0,New York City,1
+M,82298,8.0,New York City,1
+F,53859,0.0,Tokyo,2
+M,42019,9.0,Miami,2
+F,81600,24.0,New York City,1
+F,108769,40.0,Miami,3
+F,59252,23.0,Miami,0
+F,43843,12.0,London,1
+F,62328,6.0,New York City,1
+F,44863,40.0,New York City,0
+M,15733,90.0,London,1
+M,226409,13.0,Tokyo,2
+M,109498,42.0,San Francisco,0
+M,86153,11.0,Tokyo,2
+M,126850,18.0,New York City,2
+M,195180,14.0,Miami,0
+F,56908,5.0,Miami,2
+M,42401,5.0,Miami,2
+M,50194,18.0,London,4
+F,37736,35.0,Tokyo,0
+F,14028,23.0,Miami,1
+M,106516,25.0,Tokyo,1
+F,40523,51.0,San Francisco,1
+M,67980,0.0,San Francisco,0
+M,59490,32.0,San Francisco,0
+F,30715,27.0,New York City,0
+F,60152,42.0,Tokyo,1
+M,93915,28.0,San Francisco,1
+M,47912,28.0,Miami,1
+F,146516,2.0,Tokyo,3
+F,87484,17.0,San Francisco,1
+M,43490,24.0,New York City,3
+M,88726,14.0,San Francisco,0
+M,213112,13.0,London,2
+M,17515,14.0,San Francisco,1
+F,150206,59.0,San Francisco,1
+M,79483,103.0,San Francisco,0
+F,70577,31.0,New York City,1
+F,104207,7.0,London,0
+F,156854,26.0,Miami,3
+F,87209,46.0,Miami,0
+M,72314,14.0,London,0
+F,171815,57.0,London,2
+M,160822,28.0,London,2
+F,113599,7.0,San Francisco,4
+F,26433,14.0,Miami,2
+M,160562,31.0,New York City,1
+F,68876,1.0,New York City,0
+M,3582,28.0,London,0
+F,81188,19.0,Tokyo,1
+F,90970,59.0,London,2
+M,25844,9.0,San Francisco,3
+F,3352,26.0,New York City,2
+F,76851,14.0,San Francisco,1
+F,51320,17.0,Tokyo,1
+M,35378,10.0,Miami,3
+F,200824,54.0,San Francisco,1
+F,43,1.0,Tokyo,0
+F,53126,3.0,Tokyo,0
+M,35880,1.0,Tokyo,0
+M,8245,47.0,London,0
+M,2717,3.0,Tokyo,1
+F,39868,21.0,London,2
+F,17790,1.0,New York City,1
+M,163878,31.0,San Francisco,0
+F,15827,34.0,New York City,1
+M,62925,10.0,New York City,1
+M,42302,33.0,London,0
+M,80161,14.0,Tokyo,1
+F,48028,55.0,San Francisco,0
+F,30152,21.0,Tokyo,1
+M,18337,21.0,London,2
+F,30682,17.0,New York City,0
+M,32128,65.0,Miami,3
+M,233744,3.0,Tokyo,4
+M,153746,17.0,New York City,2
+M,29368,29.0,New York City,0
+M,87354,5.0,Miami,0
+F,126499,53.0,Miami,1
+F,73380,1.0,Tokyo,0
+M,90764,7.0,San Francisco,0
+M,98404,44.0,New York City,2
+F,76919,25.0,London,0
+M,169828,22.0,New York City,3
+M,76253,22.0,Miami,1
+M,191750,10.0,New York City,1
+F,191437,49.0,Tokyo,1
+M,12744,3.0,Tokyo,0
+M,99347,29.0,Miami,0
+F,50878,27.0,Tokyo,1
+F,69476,19.0,New York City,2
+M,76276,19.0,Tokyo,1
+F,105144,14.0,New York City,2
+F,91951,27.0,London,2
+M,48767,14.0,London,3
+F,13920,4.0,San Francisco,1
+M,37477,3.0,Miami,0
+F,81212,17.0,Tokyo,2
+M,25398,24.0,London,2
+M,25900,11.0,Miami,1
+M,12287,24.0,Tokyo,2
+F,36962,15.0,San Francisco,0
+M,6712,18.0,New York City,0
+M,111410,6.0,New York City,0
+M,49467,27.0,Miami,3
+M,69888,74.0,Tokyo,1
+M,82448,26.0,Tokyo,3
+F,3378,11.0,San Francisco,0
+F,13792,3.0,Miami,1
+M,51975,86.0,Miami,0
+F,2603,45.0,San Francisco,1
+M,68529,55.0,Tokyo,0
+F,106532,48.0,New York City,2
+M,171338,20.0,Tokyo,2
+F,52708,10.0,New York City,1
+F,69434,32.0,San Francisco,1
+F,117449,42.0,London,1
+F,41695,34.0,San Francisco,1
+F,83069,27.0,Tokyo,2
+M,57132,1.0,Tokyo,4
+F,167015,5.0,San Francisco,0
+M,85948,4.0,London,1
+F,37028,9.0,Tokyo,0
+F,24396,57.0,Miami,0
+F,45655,37.0,London,0
+F,51823,22.0,San Francisco,1
+F,63804,44.0,Miami,2
+F,100096,5.0,New York City,2
+F,65961,18.0,New York City,1
+F,44010,45.0,Tokyo,1
+M,80356,46.0,London,4
+M,63178,37.0,Tokyo,1
+M,44941,35.0,London,2
+F,210,27.0,New York City,1
+M,115792,12.0,New York City,4
+M,241423,8.0,New York City,3
+M,116022,21.0,London,3
+M,16997,31.0,London,0
+M,8978,51.0,London,0
+F,67666,28.0,Tokyo,1
+F,16703,27.0,San Francisco,1
+F,153076,0.0,London,0
+M,42396,7.0,Tokyo,0
+F,65412,33.0,San Francisco,0
+M,87115,42.0,Miami,0
+F,26812,24.0,Miami,0
+F,2428,27.0,Tokyo,0
+F,24293,33.0,San Francisco,0
+F,22317,39.0,New York City,3
+F,110652,5.0,New York City,4
+F,163330,14.0,London,0
+M,71456,31.0,New York City,2
+M,118041,11.0,New York City,2
+F,10559,21.0,Miami,0
+M,32055,13.0,New York City,2
+M,317779,12.0,Miami,2
+F,260270,61.0,New York City,0
+F,60515,42.0,London,1
+M,140203,6.0,Miami,0
+F,179443,18.0,Tokyo,2
+F,92926,13.0,San Francisco,0
+F,56604,18.0,Tokyo,0
+F,170454,26.0,New York City,3
+M,11986,27.0,London,2
+F,36137,11.0,San Francisco,1
+F,49364,17.0,Tokyo,0
+M,142214,4.0,Tokyo,0
+F,183976,20.0,London,2
+F,74966,8.0,London,1
+M,65242,52.0,London,0
+M,136833,19.0,Tokyo,1
+M,95451,11.0,San Francisco,0
+M,9039,28.0,New York City,1
+F,93707,1.0,New York City,3
+F,95860,14.0,London,2
+M,45785,19.0,San Francisco,0
+F,12168,10.0,New York City,0
+F,324518,35.0,New York City,0
+M,182203,8.0,Tokyo,1
+F,81348,7.0,San Francisco,0
+F,80651,34.0,New York City,2
+F,116966,4.0,Miami,0
+F,12120,2.0,London,1
+M,62277,31.0,Tokyo,1
+M,59889,71.0,New York City,0
+F,16180,38.0,Miami,0
+M,108986,53.0,Tokyo,0
+F,866,0.0,Tokyo,0
+F,119806,25.0,San Francisco,1
+M,90110,19.0,Miami,2
+M,26194,0.0,New York City,0
+F,94750,19.0,New York City,1
+M,170418,40.0,Tokyo,0
+F,97835,36.0,San Francisco,2
+F,17041,30.0,Tokyo,0
+F,37179,40.0,Tokyo,1
+F,11251,8.0,London,0
+F,50053,17.0,London,2
+M,97338,5.0,New York City,2
+F,168085,46.0,Miami,0
+M,60006,54.0,San Francisco,1
+M,18096,1.0,New York City,2
+M,68964,29.0,San Francisco,1
+M,3045,17.0,New York City,1
+F,43278,55.0,Tokyo,1
+M,84593,7.0,San Francisco,0
+F,182739,43.0,Tokyo,1
+M,43705,23.0,Tokyo,0
+F,112057,24.0,New York City,2
+F,226597,13.0,San Francisco,1
+M,87818,36.0,London,0
+M,47147,32.0,San Francisco,2
+F,182203,25.0,New York City,1
+M,77191,20.0,London,1
+M,41461,26.0,Miami,1
+M,197423,23.0,San Francisco,1
+M,62675,17.0,San Francisco,1
+M,19137,4.0,New York City,3
+M,32967,53.0,Tokyo,1
+M,19484,14.0,London,2
+F,7833,52.0,Miami,3
+M,129145,75.0,Tokyo,1
+M,94654,25.0,New York City,0
+F,111056,37.0,London,1
+M,5546,7.0,London,0
+M,19496,40.0,Miami,0
+F,123555,75.0,London,1
+M,25510,29.0,Tokyo,1
+F,214714,42.0,London,0
+M,31941,1.0,Miami,2
+M,108499,26.0,London,0
+M,43056,80.0,London,0
+F,37487,14.0,Tokyo,0
+F,214377,31.0,San Francisco,1
+M,353,16.0,Tokyo,1
+F,45683,8.0,Tokyo,0
+M,3580,25.0,New York City,1
+F,81437,44.0,Miami,0
+F,101960,4.0,London,1
+F,99801,36.0,London,0
+F,68737,2.0,Tokyo,3
+M,130763,1.0,San Francisco,0
+M,65367,70.0,Tokyo,0
+M,60518,14.0,San Francisco,0
+F,47873,1.0,San Francisco,3
+M,53932,30.0,Miami,0
+F,88830,59.0,San Francisco,3
+M,184881,1.0,Miami,0
+F,111405,13.0,London,0
+M,92897,45.0,London,0
+M,53863,4.0,London,4
+M,66978,95.0,New York City,0
+F,102745,22.0,Miami,2
+F,33466,41.0,Tokyo,0
+F,55535,36.0,New York City,0
+M,100037,62.0,Miami,0
+F,113579,78.0,San Francisco,1
+F,87388,33.0,Tokyo,0
+M,156320,13.0,Miami,1
+F,22612,8.0,San Francisco,1
+M,41208,14.0,Miami,1
+M,90155,18.0,Miami,1
+M,71813,25.0,Tokyo,0
+M,139960,74.0,Tokyo,0
+F,138605,71.0,Miami,3
+F,923,13.0,London,1
+F,13763,15.0,Miami,2
+F,131495,0.0,Miami,2
+M,2280,42.0,San Francisco,2
+F,1175,6.0,New York City,3
+M,121119,15.0,London,2
+M,65151,13.0,Miami,0
+F,69526,58.0,San Francisco,1
+F,188452,49.0,Tokyo,3
+M,54124,46.0,Miami,2
+M,13705,7.0,Miami,0
+F,75150,43.0,New York City,0
+F,38453,55.0,San Francisco,1
+M,102073,11.0,Miami,2
+M,45172,10.0,San Francisco,0
+M,63956,7.0,London,1
+F,94070,63.0,London,2
+F,157782,16.0,San Francisco,0
+M,364025,35.0,New York City,0
+F,5056,8.0,Miami,0
+M,96125,49.0,New York City,0
+M,250147,45.0,San Francisco,1
+F,129771,12.0,London,1
+M,11973,9.0,San Francisco,1
+M,7914,9.0,New York City,3
+F,76002,65.0,San Francisco,1
+F,26832,39.0,London,0
+F,94403,9.0,San Francisco,1
+M,83816,0.0,London,1
+F,33612,28.0,San Francisco,0
+M,17561,0.0,Tokyo,0
+F,74966,58.0,London,1
+F,59362,60.0,San Francisco,2
+F,116766,32.0,New York City,1
+M,7406,44.0,London,1
+M,203127,45.0,Miami,0
+F,58510,15.0,London,1
+F,241616,2.0,Miami,2
+F,83394,14.0,San Francisco,0
+F,110398,21.0,Miami,0
+F,98873,1.0,Tokyo,2
+M,199733,13.0,New York City,2
+M,56291,69.0,Miami,0
+M,47392,53.0,New York City,0
+F,85522,42.0,London,4
+F,63277,31.0,Tokyo,1
+F,149871,6.0,Miami,2
+M,56281,8.0,London,2
+F,59732,27.0,Tokyo,2
+F,29547,17.0,London,0
+F,69643,1.0,Tokyo,1
+M,125172,15.0,Miami,2
+F,11167,21.0,San Francisco,1
+M,15314,38.0,New York City,0
+F,25132,39.0,London,2
+F,25701,23.0,Miami,0
+F,136137,3.0,New York City,1
+M,226570,1.0,Tokyo,1
+M,58175,54.0,Miami,1
+M,24503,9.0,Tokyo,1
+M,71633,20.0,Tokyo,1
+F,97257,19.0,Miami,0
+F,3835,12.0,Miami,0
+M,63463,5.0,San Francisco,1
+M,26337,1.0,New York City,0
+M,7328,30.0,New York City,1
+F,20114,37.0,Tokyo,2
+M,84776,6.0,New York City,0
+F,40941,4.0,San Francisco,3
+M,89916,0.0,Tokyo,2
+F,153891,43.0,London,0
+M,14216,18.0,Miami,2
+M,49012,40.0,London,2
+M,45444,31.0,San Francisco,0
+M,113876,17.0,London,1
+F,38619,26.0,San Francisco,0
+F,39652,60.0,Miami,0
+M,4436,14.0,London,1
+F,10399,62.0,Tokyo,0
+M,126253,24.0,London,0
+F,16340,44.0,New York City,0
+F,41984,37.0,San Francisco,0
+M,83527,11.0,Tokyo,1
+M,55558,38.0,London,3
+M,15212,47.0,London,0
+F,2639,34.0,London,1
+F,157795,22.0,New York City,1
+M,101205,18.0,New York City,0
+F,5881,5.0,London,1
+M,26395,42.0,San Francisco,0
+M,51838,8.0,Miami,0
+M,3357,7.0,San Francisco,1
+F,110861,13.0,New York City,0
+F,48485,3.0,London,1
+M,128331,10.0,London,3
+M,59327,18.0,San Francisco,1
+M,14198,25.0,San Francisco,3
+M,94415,24.0,San Francisco,2
+M,166711,10.0,Tokyo,2
+M,129111,42.0,Miami,0
+M,208588,32.0,San Francisco,5
+M,248129,6.0,Miami,1
+M,128925,18.0,Miami,3
+M,14453,15.0,San Francisco,2
+F,2832,45.0,San Francisco,0
+M,11975,29.0,London,0
+M,57706,20.0,Miami,1
+F,212462,35.0,Miami,0
+M,23371,19.0,Miami,1
+F,75151,57.0,San Francisco,1
+F,85177,24.0,London,1
+M,46670,10.0,Tokyo,0
+M,178942,6.0,Miami,0
+F,129245,2.0,Tokyo,3
+F,66914,3.0,San Francisco,1
+F,74008,7.0,San Francisco,1
+F,176540,6.0,Tokyo,2
+M,4806,53.0,London,2
+F,55853,18.0,Miami,1
+M,255419,38.0,New York City,2
+F,140009,5.0,Tokyo,1
+M,15656,10.0,Tokyo,1
+F,161692,61.0,San Francisco,0
+M,83982,22.0,San Francisco,3
+F,117169,52.0,New York City,1
+M,153238,26.0,New York City,2
+F,64754,16.0,Tokyo,0
+F,45710,2.0,Miami,2
+F,60074,60.0,London,1
+M,24704,15.0,New York City,0
+M,20756,52.0,San Francisco,1
+M,168883,16.0,New York City,0
+M,25222,4.0,London,1
+M,32176,17.0,New York City,0
+M,142188,6.0,Tokyo,1
+F,156208,10.0,New York City,2
+F,60918,21.0,Tokyo,1
+M,56447,35.0,London,1
+M,69824,1.0,New York City,2
+F,46782,16.0,Tokyo,0
+M,83599,23.0,Tokyo,0
+F,2531,52.0,San Francisco,2
+M,9207,10.0,Miami,1
+M,77657,0.0,Miami,2
+F,229479,7.0,San Francisco,0
+F,38315,11.0,New York City,2
+F,57204,38.0,Tokyo,1
+F,134713,47.0,San Francisco,0
+F,190272,1.0,New York City,2
+M,65295,0.0,Miami,1
+F,45246,0.0,Tokyo,0
+F,186409,17.0,Miami,2
+M,56670,3.0,London,2
+M,48782,38.0,London,1
+M,97866,28.0,Tokyo,0
+M,57483,2.0,San Francisco,0
+M,57101,37.0,San Francisco,0
+F,132528,24.0,London,1
+M,57355,9.0,San Francisco,0
+M,50791,46.0,Miami,1
+F,53517,9.0,Miami,1
+F,1898,21.0,London,1
+F,145531,63.0,Miami,2
+M,229007,17.0,Tokyo,1
+F,44300,41.0,London,1
+F,58580,37.0,Miami,0
+F,186571,47.0,San Francisco,2
+M,72681,23.0,Tokyo,1
+M,9295,5.0,San Francisco,0
+F,52806,4.0,Tokyo,4
+F,222022,14.0,London,0
+M,129274,73.0,New York City,1
+M,34813,58.0,Tokyo,1
+F,101858,26.0,London,2
+M,42131,4.0,Tokyo,0
+F,55150,47.0,London,1
+F,76328,0.0,San Francisco,1
+M,21157,2.0,Miami,3
+F,88148,54.0,San Francisco,6
+M,13163,16.0,Tokyo,0
+F,27500,4.0,London,2
+F,81762,10.0,San Francisco,1
+M,132564,61.0,Miami,1
+F,73165,62.0,Miami,0
+F,38510,28.0,San Francisco,1
+M,21051,4.0,San Francisco,2
+M,158929,45.0,London,5
+F,22660,11.0,San Francisco,2
+M,126314,9.0,Miami,2
+F,102368,61.0,New York City,2
+M,164538,12.0,New York City,1
+M,25642,10.0,London,1
+M,32513,9.0,Tokyo,1
+M,58652,39.0,San Francisco,0
+F,41,26.0,New York City,6
+M,28769,32.0,London,0
+F,50409,30.0,San Francisco,3
+M,122652,21.0,New York City,2
+F,38920,26.0,Tokyo,0
+F,40139,35.0,New York City,5
+M,31556,3.0,London,0
+M,25276,28.0,Tokyo,0
+F,1913,50.0,London,1
+F,66253,29.0,New York City,4
+F,30961,56.0,New York City,1
+M,197302,25.0,Miami,1
+M,165917,7.0,Miami,3
+F,82948,0.0,New York City,2
+F,209068,26.0,London,1
+F,45332,22.0,London,0
+M,74533,39.0,London,1
+M,70184,22.0,San Francisco,0
+F,21730,13.0,Tokyo,1
+F,7256,21.0,London,2
+F,147736,1.0,Miami,2
+M,20157,5.0,San Francisco,1
+F,250395,18.0,London,0
+M,221420,38.0,London,1
+F,227859,12.0,Tokyo,1
+M,366344,7.0,San Francisco,1
+F,69113,29.0,Miami,4
+F,21425,9.0,Miami,1
+M,187035,4.0,New York City,1
+F,171140,7.0,Miami,0
+M,53326,28.0,New York City,2
+M,55168,62.0,London,1
+M,123557,26.0,London,1
+M,119815,7.0,Tokyo,1
+M,32458,11.0,New York City,1
+M,131596,18.0,London,0
+M,13587,16.0,New York City,1
+M,207227,15.0,London,1
+F,88889,13.0,London,0
+F,85233,1.0,Tokyo,1
+M,6859,7.0,London,0
+F,46091,27.0,Miami,0
+M,84017,3.0,London,0
+F,152361,7.0,San Francisco,1
+M,54572,52.0,Miami,0
+F,29236,16.0,Tokyo,2
+F,56351,15.0,San Francisco,2
+F,669,9.0,Miami,0
+F,35664,2.0,Tokyo,1
+M,193236,7.0,New York City,0
+M,21850,23.0,Tokyo,0
+F,99658,4.0,New York City,2
+M,15725,57.0,London,0
+M,129734,25.0,Tokyo,3
+F,145332,8.0,San Francisco,2
+F,66877,5.0,London,0
+M,105122,6.0,Miami,0
+M,46773,0.0,San Francisco,1
+F,7951,25.0,Miami,0
+F,88996,17.0,Miami,1
+M,107907,1.0,London,2
+M,2312,10.0,London,2
+F,138180,32.0,San Francisco,2
+M,80148,44.0,San Francisco,0
+F,64623,4.0,San Francisco,0
+F,118251,23.0,Miami,2
+M,63258,13.0,Tokyo,0
+M,15885,2.0,San Francisco,0
+F,15866,1.0,Miami,0
+M,87433,26.0,San Francisco,1
+M,40883,13.0,London,2
+M,191323,1.0,Miami,3
+F,75949,10.0,Tokyo,0
+M,106009,11.0,London,1
+M,136343,26.0,New York City,1
+F,57571,7.0,San Francisco,1
+M,43148,30.0,London,0
+F,110222,4.0,Tokyo,2
+M,150283,25.0,London,0
+F,67294,61.0,Tokyo,1
+F,19040,55.0,Tokyo,1
+M,38484,8.0,New York City,0
+F,93248,10.0,New York City,2
+F,72166,33.0,Tokyo,2
+F,5020,15.0,London,1
+F,152797,6.0,Tokyo,2
+M,23103,79.0,Miami,2
+F,55961,31.0,Tokyo,1
+M,12973,1.0,New York City,0
+M,94751,31.0,Tokyo,3
+F,47034,32.0,San Francisco,1
+M,212024,6.0,New York City,0
+M,43735,26.0,Miami,0
+M,75940,34.0,New York City,0
+F,97205,21.0,London,0
+M,247740,23.0,Tokyo,0
+F,60276,10.0,New York City,0
+F,276225,35.0,San Francisco,0
+F,29889,24.0,Miami,0
+M,32001,4.0,New York City,0
+M,13015,12.0,San Francisco,0
+F,58545,12.0,San Francisco,0
+F,51999,14.0,San Francisco,2
+F,18945,30.0,London,1
+M,21227,21.0,London,1
+F,44900,2.0,Miami,1
+F,90815,42.0,Tokyo,1
+F,127104,17.0,Miami,0
+F,118321,17.0,San Francisco,0
+F,163343,43.0,San Francisco,0
+M,137615,16.0,London,2
+M,63402,40.0,Miami,2
+F,68345,19.0,Miami,1
+M,22604,53.0,Miami,1
+F,139305,51.0,London,2
+M,34138,1.0,Tokyo,3
+F,38527,14.0,San Francisco,2
+F,28318,1.0,San Francisco,0
+F,143598,6.0,New York City,3
+M,98043,23.0,London,0
+M,34631,40.0,Miami,0
+F,285344,16.0,Tokyo,1
+F,134157,8.0,Miami,1
+M,19530,33.0,Tokyo,0
+M,63624,13.0,New York City,0
+M,4495,15.0,Tokyo,1
+M,61777,24.0,San Francisco,0
+F,95078,31.0,Tokyo,0
+F,73749,29.0,New York City,2
+F,107440,16.0,Miami,0
+M,7561,4.0,London,2
+M,163318,46.0,Miami,2
+F,73160,35.0,Tokyo,0
+F,11735,15.0,Tokyo,0
+M,330,18.0,Tokyo,0
+F,2369,11.0,London,3
+F,31076,14.0,San Francisco,4
+F,157591,69.0,San Francisco,1
+F,51580,74.0,New York City,2
+F,32176,23.0,San Francisco,4
+M,48328,31.0,San Francisco,1
+F,37477,27.0,London,0
+M,2207,0.0,New York City,1
+F,128113,22.0,London,2
+M,182404,23.0,London,0
+M,26426,6.0,New York City,3
+F,81350,24.0,Miami,0
+F,176055,13.0,London,2
+F,154173,9.0,Miami,1
+M,69151,16.0,New York City,1
+M,246765,26.0,Tokyo,0
+M,77854,2.0,Tokyo,0
+M,59315,9.0,Tokyo,4
+M,43611,26.0,London,3
+F,165527,27.0,San Francisco,0
+M,59231,41.0,New York City,0
+M,18938,13.0,Miami,3
+M,119638,14.0,London,2
+F,24184,18.0,London,0
+M,49120,5.0,San Francisco,1
+F,99896,45.0,London,2
+F,39373,15.0,London,1
+M,138915,28.0,London,1
+M,103197,19.0,Tokyo,0
+F,155778,43.0,London,1
+M,255836,9.0,Miami,0
+F,28834,9.0,London,1
+F,198667,28.0,Tokyo,1
+F,87275,33.0,Miami,0
+F,44986,43.0,San Francisco,0
+M,166142,0.0,San Francisco,1
+M,120436,14.0,Tokyo,0
+F,88181,34.0,Miami,0
+M,136059,18.0,London,1
+F,50021,26.0,London,1
+M,96097,14.0,Miami,2
+F,78052,4.0,San Francisco,2
+M,7241,36.0,Miami,3
+F,41817,42.0,Tokyo,2
+M,16254,22.0,London,0
+F,63719,10.0,Miami,1
+M,82706,39.0,London,2
+F,74918,19.0,New York City,1
+F,6648,32.0,New York City,1
+F,48181,7.0,San Francisco,0
+M,126453,5.0,San Francisco,1
+M,67154,47.0,Miami,0
+M,71328,18.0,London,3
+F,48985,26.0,New York City,1
+F,44239,1.0,Miami,0
+M,106809,30.0,New York City,2
+M,139496,6.0,Miami,3
+M,29027,3.0,London,0
+F,21232,24.0,Tokyo,0
+M,56102,16.0,San Francisco,3
+F,130556,12.0,Miami,0
+M,40171,31.0,San Francisco,0
+F,3653,28.0,San Francisco,0
+M,6476,15.0,Tokyo,0
+M,88013,19.0,New York City,0
+M,138997,16.0,London,3
+F,137274,35.0,San Francisco,1
+F,50223,22.0,Tokyo,0
+F,55424,8.0,Tokyo,0
+F,69645,12.0,London,0
+M,210341,4.0,Tokyo,0
+F,13250,22.0,Tokyo,2
+M,181821,49.0,Miami,1
+M,224804,4.0,New York City,1
+F,24112,13.0,Miami,1
+F,59573,16.0,New York City,1
+M,2789,47.0,San Francisco,2
+F,58241,12.0,London,2
+F,83179,18.0,Tokyo,0
+M,178641,19.0,New York City,3
+F,44028,36.0,New York City,1
+F,137122,18.0,New York City,1
+F,172330,4.0,Tokyo,1
+M,177066,9.0,Tokyo,2
+F,63212,3.0,London,0
+M,80133,17.0,San Francisco,1
+M,56426,6.0,Miami,1
+M,87445,37.0,London,0
+F,130771,14.0,London,0
+F,148003,63.0,Tokyo,0
+M,37902,19.0,Tokyo,2
+M,148175,11.0,Tokyo,3
+M,117077,39.0,London,0
+F,14097,24.0,San Francisco,1
+M,52290,23.0,San Francisco,2
+M,26040,23.0,New York City,0
+M,38483,48.0,Miami,1
+F,6503,25.0,Miami,0
+M,148562,15.0,Miami,1
+M,38766,17.0,New York City,1
+F,52327,44.0,New York City,2
+F,39761,6.0,New York City,1
+M,95162,11.0,London,0
+M,77195,11.0,London,1
+M,44942,9.0,New York City,0
+F,76703,7.0,Tokyo,0
+M,28254,50.0,Miami,3
+M,17368,44.0,Miami,1
+F,33103,40.0,Tokyo,1
+F,48911,15.0,Miami,3
+F,24154,56.0,New York City,2
+F,124357,10.0,London,0
+M,87396,12.0,San Francisco,0
+M,224340,1.0,San Francisco,1
+M,157774,83.0,Miami,0
+M,14843,58.0,San Francisco,1
+F,79449,10.0,London,1
+M,84098,62.0,New York City,1
+M,6504,35.0,New York City,2
+F,33734,42.0,Miami,5
+M,12976,36.0,London,1
+F,184681,10.0,New York City,0
+F,136552,30.0,Tokyo,1
+F,36594,31.0,New York City,0
+M,217348,11.0,Tokyo,0
+F,79215,9.0,New York City,0
+F,40991,7.0,Miami,0
+F,136394,34.0,New York City,0
+M,17316,8.0,San Francisco,1
+M,137862,19.0,San Francisco,2
+M,8856,36.0,San Francisco,1
+M,290833,4.0,Tokyo,1
+M,73377,47.0,London,1
+M,165116,21.0,Miami,3
+M,54973,10.0,San Francisco,2
+F,25821,7.0,Miami,0
+F,21015,21.0,London,2
+M,73284,12.0,London,1
+M,177784,26.0,London,0
+M,45342,6.0,London,1
+M,259630,17.0,New York City,0
+M,11668,6.0,New York City,0
+M,80818,46.0,New York City,0
+F,14861,27.0,Miami,1
+M,90285,52.0,Tokyo,3
+F,121608,22.0,London,1
+F,4934,19.0,Tokyo,2
+F,250461,17.0,San Francisco,0
+F,190802,19.0,New York City,0
+F,11339,14.0,London,0
+M,1114,74.0,New York City,3
+F,165756,28.0,San Francisco,1
+M,75802,10.0,New York City,3
+F,46566,7.0,Tokyo,0
+F,93648,41.0,San Francisco,2
+M,44131,32.0,New York City,1
+M,131724,12.0,New York City,1
+M,91285,42.0,Tokyo,0
+F,65598,15.0,San Francisco,0
+M,170676,21.0,San Francisco,0
+M,61090,7.0,London,0
+F,14349,12.0,Tokyo,0
+M,58256,11.0,Tokyo,0
+F,85740,11.0,New York City,1
+M,72981,15.0,Tokyo,0
+F,137613,14.0,New York City,4
+F,29198,11.0,New York City,0
+F,15716,12.0,New York City,1
+M,30716,33.0,Miami,0
+M,72300,78.0,New York City,2
+M,40211,0.0,Miami,1
+F,7278,3.0,San Francisco,4
+M,22030,29.0,London,1
+F,1429,64.0,New York City,3
+M,117877,47.0,Miami,0
+M,31739,56.0,San Francisco,2
+M,121727,13.0,Tokyo,3
+F,22563,2.0,New York City,1
+F,52848,45.0,San Francisco,1
+M,156510,8.0,Miami,2
+F,30429,19.0,Tokyo,1
+F,89149,40.0,Tokyo,2
+F,83831,10.0,New York City,2
+F,91760,36.0,London,1
+M,60228,45.0,San Francisco,1
+F,116150,13.0,New York City,3
+M,91105,0.0,Tokyo,1
+F,97405,45.0,Miami,0
+F,132386,20.0,Miami,2
+F,219937,9.0,San Francisco,3
+F,136651,33.0,London,4
+F,118886,30.0,Miami,3
+M,44253,5.0,San Francisco,2
+F,58372,5.0,San Francisco,0
+F,67052,3.0,London,0
+F,40172,7.0,Miami,1
+F,47470,5.0,London,1
+M,66771,44.0,Tokyo,1
+F,38696,22.0,San Francisco,4
+F,49391,25.0,San Francisco,1
+M,60172,19.0,New York City,1
+M,85171,4.0,New York City,0
+M,36949,50.0,San Francisco,3
+M,74811,14.0,Miami,0
+F,106898,53.0,London,0
+M,58554,4.0,Miami,1
+F,66574,2.0,Miami,2
+F,94151,30.0,London,2
+M,4512,13.0,New York City,2
+F,14097,9.0,Miami,2
+F,36233,14.0,Tokyo,1
+M,165608,18.0,Tokyo,1
+F,144176,15.0,Tokyo,2
+M,20582,45.0,New York City,0
+F,1320,47.0,New York City,1
+M,11403,10.0,Miami,0
+M,31916,15.0,New York City,4
+F,58806,8.0,Miami,0
+F,156870,32.0,Tokyo,2
+F,78514,0.0,Miami,1
+F,66784,10.0,London,1
+F,169992,3.0,San Francisco,0
+M,14960,53.0,New York City,1
+F,70741,30.0,San Francisco,1
+F,67581,37.0,London,0
+F,204350,49.0,London,0
+M,137324,12.0,San Francisco,3
+M,20135,49.0,San Francisco,1
+M,51048,39.0,Tokyo,1
+F,140190,52.0,San Francisco,2
+M,123975,53.0,Miami,0
+M,174067,21.0,Tokyo,1
+F,142552,10.0,New York City,2
+F,72041,29.0,New York City,0
+F,96882,51.0,New York City,2
+F,16898,27.0,London,0
+M,20441,20.0,New York City,0
+F,60771,17.0,Tokyo,1
+M,6974,9.0,Miami,2
+F,8671,66.0,London,0
+M,66523,40.0,Tokyo,2
+M,31054,19.0,London,1
+M,166069,8.0,New York City,1
+M,27345,0.0,London,0
+M,96384,44.0,Miami,0
+F,26915,3.0,London,0
+F,8882,5.0,New York City,1
+M,26483,16.0,New York City,0
+F,121769,59.0,New York City,0
+M,51324,63.0,New York City,5
+F,80368,5.0,Miami,1
+M,125838,7.0,Tokyo,2
+F,125212,21.0,San Francisco,0
+M,16373,4.0,San Francisco,2
+M,92184,1.0,Miami,1
+F,12734,30.0,New York City,0
+M,47917,3.0,San Francisco,0
+M,123965,66.0,Tokyo,2
+F,64235,10.0,San Francisco,0
+F,37073,9.0,Miami,1
+M,36570,13.0,New York City,0
+F,42035,47.0,London,1
+M,144844,26.0,London,1
+M,183721,26.0,London,0
+M,36011,28.0,London,0
+M,62274,23.0,Tokyo,0
+F,13271,31.0,London,0
+M,37305,44.0,London,1
+M,5277,6.0,Tokyo,0
+F,215779,7.0,Miami,3
+F,139942,15.0,San Francisco,0
+M,178655,2.0,Miami,1
+M,81466,14.0,London,2
+M,4223,28.0,New York City,1
+F,80743,30.0,San Francisco,0
+F,60454,9.0,San Francisco,2
+F,13726,37.0,New York City,2
+M,60868,5.0,San Francisco,1
+M,59050,1.0,New York City,3
+F,31312,34.0,Tokyo,1
+M,115305,16.0,New York City,2
+F,29438,44.0,Miami,0
+F,123886,9.0,San Francisco,0
+F,83442,28.0,Tokyo,0
+F,79359,48.0,New York City,4
+M,94622,4.0,New York City,0
+F,152616,19.0,London,2
+M,55600,7.0,London,2
+M,95608,17.0,San Francisco,1
+M,46959,11.0,San Francisco,0
+F,143124,28.0,San Francisco,2
+F,18987,57.0,San Francisco,3
+M,174370,25.0,London,1
+F,85899,0.0,New York City,0
+M,106511,21.0,New York City,0
+F,21271,10.0,London,1
+F,13268,29.0,London,0
+M,46974,1.0,New York City,1
+F,21900,22.0,San Francisco,1
+F,23704,50.0,San Francisco,2
+F,21542,37.0,London,1
+M,91958,12.0,Tokyo,4
+F,90965,28.0,New York City,2
+M,16849,13.0,Miami,2
+M,92239,19.0,Miami,0
+F,75462,0.0,Tokyo,0
+M,192297,17.0,Tokyo,1
+F,22701,8.0,Tokyo,0
+M,97981,48.0,New York City,3
+F,33780,21.0,New York City,0
+M,29186,34.0,New York City,2
+M,37370,43.0,Tokyo,1
+M,33378,4.0,New York City,0
+F,388572,36.0,New York City,1
+F,4235,7.0,Tokyo,0
+M,4,51.0,Tokyo,3
+M,76744,12.0,London,1
+M,216346,13.0,New York City,0
+F,126717,2.0,New York City,1
+F,61932,78.0,San Francisco,2
+F,50365,19.0,New York City,2
+M,222606,19.0,San Francisco,0
+F,67370,31.0,San Francisco,1
+F,25505,8.0,San Francisco,1
+M,75601,39.0,New York City,0
+M,16370,5.0,San Francisco,1
+F,8189,1.0,London,0
+M,61857,14.0,Miami,2
+M,3891,28.0,New York City,1
+M,59114,1.0,New York City,2
+M,25166,33.0,San Francisco,0
+M,44058,21.0,New York City,0
+M,34398,34.0,Miami,1
+M,4662,49.0,Miami,1
+M,47363,11.0,Miami,2
+M,83394,5.0,London,4
+M,129614,32.0,Tokyo,0
+M,99606,19.0,Miami,1
+F,146704,25.0,Miami,0
+M,91368,4.0,New York City,1
+M,69201,14.0,San Francisco,0
+F,109012,18.0,Tokyo,0
+M,56905,25.0,New York City,2
+F,6596,28.0,San Francisco,1
+M,100091,10.0,Miami,1
+M,100463,23.0,London,0
+M,116566,33.0,London,2
+M,83300,42.0,New York City,0
+M,178469,3.0,Tokyo,2
+M,25780,29.0,New York City,1
+M,167229,5.0,Tokyo,1
+F,288203,23.0,San Francisco,3
+F,94666,9.0,New York City,1
+M,89700,63.0,Miami,3
+F,129988,3.0,New York City,1
+M,34591,20.0,Miami,0
+F,61057,43.0,London,0
+M,58866,4.0,London,1
+F,191544,24.0,London,0
+M,34132,23.0,London,2
+F,54533,27.0,Tokyo,1
+M,62693,41.0,Miami,3
+M,40686,25.0,New York City,0
+F,181955,3.0,New York City,0
+M,64398,7.0,Miami,3
+M,31642,54.0,New York City,2
+F,7988,15.0,Tokyo,0
+F,158248,29.0,San Francisco,0
+F,90119,17.0,New York City,5
+M,55738,26.0,Tokyo,1
+F,15087,13.0,San Francisco,0
+M,95725,18.0,San Francisco,2
+M,94666,0.0,San Francisco,0
+F,159380,45.0,Tokyo,1
+M,147548,10.0,Miami,2
+F,97892,4.0,Miami,2
+M,130951,2.0,San Francisco,1
+F,36160,11.0,Tokyo,1
+F,21604,40.0,Miami,2
+M,75439,11.0,New York City,0
+F,25651,7.0,New York City,0
+M,47686,59.0,Miami,1
+F,158813,21.0,Miami,1
+F,5752,14.0,London,0
+F,86519,46.0,San Francisco,0
+F,63824,37.0,Tokyo,2
+M,164736,38.0,San Francisco,1
+F,17791,52.0,San Francisco,2
+F,72121,33.0,Tokyo,1
+F,53734,13.0,Tokyo,4
+M,105519,16.0,Tokyo,2
+M,27804,3.0,Tokyo,2
+F,63555,20.0,San Francisco,0
+M,172694,8.0,London,2
+M,34272,34.0,London,0
+M,36457,47.0,London,3
+M,76749,66.0,Miami,2
+M,175803,69.0,San Francisco,0
+F,65662,21.0,Miami,0
+M,26484,4.0,New York City,0
+F,5700,59.0,London,0
+M,72350,24.0,San Francisco,1
+F,41571,46.0,Tokyo,2
+F,146715,3.0,Tokyo,1
+F,19685,6.0,San Francisco,0
+M,43348,34.0,San Francisco,1
+F,151479,13.0,New York City,1
+F,160493,9.0,San Francisco,0
+F,56912,7.0,Miami,1
+M,37590,5.0,New York City,0
+F,20998,5.0,Miami,0
+M,68535,10.0,Tokyo,1
+M,62443,6.0,New York City,0
+F,45861,30.0,Miami,0
+F,77502,0.0,San Francisco,6
+M,64876,22.0,Miami,5
+M,173890,0.0,Miami,4
+M,40406,3.0,Miami,2
+M,95803,6.0,London,1
+M,44499,3.0,London,0
+M,89372,16.0,London,3
+F,293214,9.0,London,0
+F,148440,7.0,New York City,1
+M,61022,39.0,New York City,2
+M,132928,14.0,New York City,0
+M,42951,0.0,Tokyo,1
+M,236459,18.0,New York City,0
+M,159196,9.0,New York City,0
+M,33975,45.0,San Francisco,2
+M,189904,11.0,Tokyo,0
+F,86160,34.0,London,1
+M,42884,43.0,New York City,0
+F,127518,35.0,San Francisco,0
+M,55860,68.0,New York City,2
+M,96261,65.0,Tokyo,1
+M,17333,7.0,Miami,0
+M,38946,13.0,Tokyo,1
+F,9010,8.0,London,0
+M,90651,5.0,New York City,4
+F,48611,72.0,London,1
+F,91696,33.0,London,2
+M,104457,29.0,San Francisco,0
+F,1723,28.0,Tokyo,1
+M,194841,0.0,New York City,1
+M,80098,20.0,London,2
+F,17235,10.0,San Francisco,1
+M,11417,5.0,Miami,1
+F,127413,10.0,Tokyo,0
+M,10848,35.0,San Francisco,1
+F,127781,19.0,London,3
+M,211161,25.0,Miami,2
+F,64427,6.0,Tokyo,4
+F,91479,58.0,London,4
+F,104648,4.0,New York City,2
+M,12075,10.0,San Francisco,0
+F,88741,43.0,London,1
+F,97008,42.0,New York City,2
+F,133562,69.0,Miami,0
+M,81632,18.0,New York City,1
+F,16984,31.0,San Francisco,0
+F,190865,34.0,Miami,1
+M,1203,11.0,Miami,0
+M,132086,22.0,New York City,0
+F,88642,18.0,Tokyo,3
+M,66629,45.0,Miami,1
+F,8908,24.0,San Francisco,1
+F,46390,13.0,Miami,0
+M,461,3.0,Tokyo,2
+F,22063,41.0,New York City,1
+M,159635,10.0,San Francisco,2
+F,5700,28.0,London,3
+M,138932,13.0,Miami,1
+F,54507,49.0,London,1
+F,163650,50.0,London,0
+F,8001,46.0,Miami,1
+M,168806,39.0,London,4
+M,1793,11.0,Tokyo,4
+M,119234,91.0,San Francisco,1
+F,160041,30.0,New York City,2
+M,136482,7.0,Miami,0
+F,232505,16.0,Tokyo,3
+M,33926,6.0,Tokyo,1
+F,59602,24.0,Tokyo,2
+F,120246,12.0,Tokyo,3
+M,62144,2.0,London,1
+F,51741,41.0,San Francisco,0
+F,10645,29.0,Tokyo,1
+M,100889,12.0,San Francisco,0
+M,50529,13.0,New York City,4
+M,53119,28.0,Tokyo,4
+F,109425,27.0,London,1
+M,20073,11.0,London,3
+M,119917,10.0,London,0
+M,92151,15.0,Miami,0
+F,147313,39.0,San Francisco,0
+F,56496,3.0,Miami,1
+M,232980,30.0,London,0
+M,62407,13.0,Miami,3
+F,39828,13.0,San Francisco,0
+F,104739,44.0,Miami,0
+M,13091,39.0,Tokyo,0
+M,15177,19.0,Tokyo,1
+M,96203,38.0,New York City,0
+M,30516,43.0,San Francisco,1
+F,102444,33.0,London,0
+M,57142,19.0,London,1
+M,113939,2.0,Tokyo,2
+M,55440,2.0,Miami,0
+F,60992,34.0,San Francisco,0
+M,219434,20.0,San Francisco,1
+F,41282,28.0,New York City,0
+M,78444,0.0,Tokyo,3
+M,60094,32.0,New York City,2
+F,120402,12.0,Miami,2
+F,32982,14.0,New York City,2
+F,30943,69.0,London,1
+F,136266,22.0,New York City,2
+M,157121,7.0,London,0
+M,78739,1.0,Miami,0
+M,45981,35.0,Miami,2
+M,76398,16.0,Tokyo,0
+M,71972,20.0,Miami,1
+M,11953,60.0,Miami,2
+M,157540,17.0,London,2
+F,54474,9.0,Tokyo,1
+M,255072,12.0,Miami,0
+M,11011,0.0,Miami,3
+M,54450,38.0,Miami,4
+M,41570,11.0,New York City,0
+F,37486,13.0,London,0
+M,15597,22.0,London,1
+F,135226,48.0,Tokyo,2
+F,34324,22.0,Miami,1
+F,31863,27.0,San Francisco,0
+M,61118,0.0,Miami,0
+F,92929,20.0,San Francisco,1
+M,149161,23.0,London,0
+M,133459,33.0,Tokyo,0
+F,101512,38.0,Miami,0
+M,131244,30.0,San Francisco,4
+F,175801,45.0,San Francisco,0
+F,157186,30.0,London,3
+M,48851,51.0,Miami,0
+M,72401,37.0,London,1
+M,101610,28.0,New York City,0
+M,19416,23.0,San Francisco,1
+F,12777,38.0,London,1
+F,82538,18.0,New York City,3
+F,12045,32.0,Tokyo,0
+M,118008,12.0,Tokyo,1
+M,44521,0.0,San Francisco,2
+M,31501,34.0,San Francisco,2
+F,47460,4.0,New York City,2
+M,141181,20.0,Miami,3
+F,111543,29.0,Miami,6
+M,37714,29.0,Miami,1
+M,3071,18.0,New York City,3
+M,101701,12.0,Tokyo,0
+F,10823,12.0,London,4
+F,206503,13.0,New York City,0
+M,69198,70.0,San Francisco,3
+M,29151,15.0,San Francisco,3
+M,73754,44.0,New York City,0
+M,56313,40.0,London,5
+M,77781,58.0,London,2
+F,41341,36.0,Miami,0
+M,98594,30.0,San Francisco,0
+F,278681,36.0,Miami,0
+F,124581,20.0,San Francisco,0
+F,110152,1.0,Miami,0
+M,42064,27.0,San Francisco,1
+M,178159,28.0,New York City,0
+M,21170,56.0,Miami,3
+M,85159,4.0,Miami,0
+M,50784,0.0,Miami,1
+M,238388,1.0,Miami,2
+M,66734,22.0,Miami,3
+M,104499,30.0,London,4
+F,140,32.0,Miami,0
+F,39616,17.0,San Francisco,2
+F,43131,4.0,Tokyo,1
+F,18781,3.0,London,5
+M,52088,39.0,London,0
+F,30392,8.0,Tokyo,0
+M,52039,27.0,San Francisco,0
+M,135179,45.0,San Francisco,0
+M,44759,21.0,London,3
+M,59145,1.0,London,4
+M,8469,21.0,Miami,3
+F,138237,4.0,London,1
+F,128322,25.0,New York City,0
+F,181496,35.0,Miami,1
+F,3234,15.0,Miami,1
+F,23278,4.0,Miami,2
+F,53346,8.0,Tokyo,1
+F,62385,92.0,Miami,1
+M,49212,34.0,London,0
+M,55353,43.0,San Francisco,3
+F,62774,5.0,London,0
+M,18770,1.0,London,1
+M,20329,37.0,New York City,2
+M,143215,29.0,New York City,0
+F,57466,4.0,San Francisco,0
+M,6322,31.0,San Francisco,0
+F,87147,59.0,New York City,1
+F,25353,19.0,New York City,0
+F,173027,68.0,New York City,1
+F,196489,47.0,Miami,0
+M,3720,11.0,London,2
+M,166727,7.0,San Francisco,3
+F,66869,16.0,San Francisco,1
+F,119474,46.0,Tokyo,0
+M,72398,17.0,New York City,0
+M,91557,3.0,New York City,1
+M,151359,24.0,London,0
+M,100250,12.0,New York City,5
+F,15984,14.0,San Francisco,4
+M,75819,33.0,London,2
+M,94100,6.0,London,2
+M,168826,8.0,New York City,2
+M,4301,5.0,Miami,3
+M,63762,42.0,Tokyo,0
+M,68923,3.0,San Francisco,0
+M,33363,14.0,Tokyo,2
+M,95550,13.0,San Francisco,3
+M,62969,44.0,San Francisco,0
+F,46235,33.0,New York City,1
+M,72340,33.0,New York City,1
+M,3393,40.0,New York City,0
+M,94196,19.0,New York City,1
+M,149966,42.0,London,1
+M,60677,33.0,Tokyo,2
+F,47935,78.0,San Francisco,0
+M,25005,45.0,Miami,0
+M,147280,19.0,Tokyo,1
+M,6812,5.0,New York City,0
+M,1382,8.0,Miami,1
+F,61512,61.0,New York City,0
+M,138539,25.0,London,1
+M,166679,8.0,London,2
+M,153235,12.0,London,2
+F,41145,70.0,San Francisco,0
+M,7741,18.0,Miami,1
+F,32956,38.0,New York City,1
+F,204834,40.0,San Francisco,2
+M,21199,41.0,New York City,0
+F,168694,8.0,Tokyo,3
+F,130964,55.0,New York City,3
+F,188102,8.0,Tokyo,0
+M,83697,11.0,New York City,2
+M,137514,66.0,London,2
+F,381,44.0,Miami,1
+F,97007,13.0,London,1
+M,82723,19.0,Miami,1
+M,125379,14.0,New York City,0
+M,15746,14.0,Miami,1
+F,159742,33.0,Tokyo,2
+F,39989,3.0,Miami,0
+F,35034,20.0,Tokyo,0
+F,12696,23.0,Miami,2
+F,1962,8.0,Tokyo,0
+M,1239,20.0,New York City,2
+M,48655,29.0,Tokyo,1
+F,102578,6.0,London,1
+M,147250,21.0,London,0
+M,88208,35.0,Tokyo,0
+M,68887,33.0,London,0
+F,1833,7.0,London,3
+M,19614,3.0,Tokyo,0
+F,128976,12.0,Tokyo,3
+F,42073,3.0,Miami,4
+M,30333,7.0,London,1
+M,75382,35.0,San Francisco,2
+M,52776,29.0,Miami,0
+M,130757,37.0,London,2
+F,44803,46.0,New York City,1
+F,131042,1.0,New York City,0
+M,26451,16.0,San Francisco,0
+M,77469,57.0,Tokyo,0
+F,55771,55.0,Tokyo,1
+F,139770,20.0,New York City,2
+M,81110,6.0,Miami,0
+M,28805,22.0,London,0
+M,23366,9.0,New York City,4
+M,19001,25.0,London,4
+F,50367,9.0,London,0
+F,33624,31.0,Tokyo,3
+F,159036,23.0,London,2
+M,273899,10.0,New York City,0
+F,47057,48.0,San Francisco,0
+M,143583,2.0,San Francisco,0
+F,57902,17.0,Tokyo,2
+F,54689,2.0,London,4
+F,26103,0.0,Miami,0
+M,23977,2.0,San Francisco,0
+F,27988,26.0,San Francisco,0
+M,200472,21.0,San Francisco,4
+F,87517,7.0,New York City,0
+M,51834,50.0,London,0
+M,9384,18.0,New York City,3
+M,113263,0.0,London,0
+F,25586,6.0,Miami,1
+M,56191,75.0,Miami,2
+F,18956,24.0,New York City,3
+M,15512,46.0,Miami,2
+F,142324,34.0,Miami,1
+M,177505,34.0,New York City,1
+M,50701,29.0,Tokyo,2
+F,81455,6.0,Miami,1
+F,166648,110.0,London,1
+M,60252,32.0,San Francisco,1
+F,156495,52.0,San Francisco,0
+M,207238,6.0,Miami,3
+F,247801,1.0,Tokyo,2
+M,63709,1.0,London,1
+F,5740,0.0,Tokyo,0
+M,167416,5.0,London,1
+F,43473,20.0,San Francisco,1
+M,149143,36.0,Tokyo,0
+F,75497,44.0,Miami,0
+M,38090,29.0,Miami,1
+F,21219,23.0,Tokyo,1
+F,168002,10.0,New York City,0
+F,139652,19.0,New York City,3
+M,50891,4.0,London,1
+F,27026,8.0,New York City,2
+M,117782,2.0,Miami,0
+M,71343,35.0,London,1
+F,86248,3.0,Miami,2
+M,1826,23.0,Tokyo,0
+F,33973,6.0,Miami,0
+M,21181,7.0,Tokyo,1
+F,17553,74.0,Tokyo,0
+F,46882,10.0,London,0
+F,21691,28.0,Miami,2
+F,86397,9.0,Tokyo,1
+M,167774,34.0,London,0
+F,113998,37.0,New York City,0
+M,93677,30.0,New York City,2
+F,58428,13.0,Miami,0
+M,27677,9.0,New York City,1
+M,34819,33.0,Miami,0
+M,179218,8.0,Miami,1
+M,73661,4.0,San Francisco,1
+F,21784,33.0,San Francisco,1
+M,15667,44.0,San Francisco,0
+M,118982,32.0,Miami,2
+M,152330,42.0,London,0
+F,25527,0.0,Miami,0
+F,16474,35.0,London,0
+F,90478,1.0,Miami,0
+F,274687,45.0,Tokyo,2
+F,3809,17.0,Tokyo,0
+F,27439,11.0,New York City,3
+F,3448,1.0,Miami,0
+F,98177,36.0,New York City,0
+F,297725,73.0,London,2
+F,31038,11.0,Tokyo,1
+F,157473,14.0,London,1
+M,52568,9.0,Miami,2
+M,9024,2.0,Miami,0
+M,130981,18.0,London,0
+M,43864,37.0,San Francisco,0
+M,27442,6.0,Miami,2
+M,52931,64.0,Miami,1
+F,81893,106.0,New York City,1
+M,238418,57.0,Tokyo,0
+F,18201,46.0,Tokyo,2
+M,55417,12.0,London,1
+F,68692,44.0,New York City,2
+M,129275,12.0,San Francisco,1
+F,67063,19.0,San Francisco,3
+F,73488,36.0,Miami,4
+M,127767,47.0,London,1
+F,104840,29.0,San Francisco,0
+F,114959,13.0,San Francisco,0
+M,107775,14.0,New York City,1
+M,51860,22.0,New York City,1
+M,136959,39.0,New York City,1
+F,93317,20.0,Miami,3
+F,72923,14.0,Tokyo,3
+F,108408,36.0,Miami,0
+F,99781,31.0,New York City,0
+M,18813,5.0,San Francisco,3
+M,66838,11.0,Miami,0
+M,328,23.0,Miami,2
+F,8018,11.0,New York City,3
+F,128716,0.0,San Francisco,0
+M,200534,4.0,New York City,1
+F,128113,24.0,San Francisco,0
+F,132013,11.0,London,3
+F,31145,5.0,Miami,3
+M,3545,14.0,New York City,3
+F,137388,1.0,New York City,1
+F,11901,30.0,Miami,0
+F,17284,19.0,New York City,0
+M,79047,6.0,Tokyo,1
+M,85195,7.0,Miami,1
+F,20717,26.0,Miami,1
+F,63597,8.0,New York City,0
+M,25406,18.0,New York City,1
+F,136677,5.0,Tokyo,1
+F,170250,27.0,Miami,0
+F,40836,68.0,New York City,1
+F,165316,29.0,Miami,2
+F,115453,14.0,London,2
+M,152947,62.0,San Francisco,3
+F,126925,11.0,Tokyo,0
+M,44940,29.0,Tokyo,4
+F,58827,28.0,Miami,1
+F,48254,18.0,New York City,1
+M,47405,18.0,Tokyo,1
+M,120206,0.0,Tokyo,0
+M,526,12.0,New York City,0
+M,22932,111.0,London,1
+F,180496,8.0,Tokyo,1
+M,51324,1.0,Miami,0
+F,53603,14.0,New York City,1
+F,2835,2.0,San Francisco,4
+M,96149,23.0,Tokyo,0
+F,180734,4.0,New York City,0
+M,37319,45.0,Tokyo,1
+M,20843,6.0,Tokyo,1
+M,235034,25.0,Miami,4
+M,6315,20.0,San Francisco,0
+M,225590,38.0,Tokyo,0
+F,46494,69.0,Tokyo,2
+M,6384,10.0,Tokyo,2
+M,48682,6.0,San Francisco,1
+M,19956,15.0,New York City,0
+M,103312,41.0,London,2
+M,105835,22.0,Miami,0
+M,164090,35.0,San Francisco,0
+M,77196,41.0,Tokyo,3
+F,105772,33.0,Miami,0
+M,45891,31.0,New York City,0
+M,18862,6.0,London,0
+M,31480,89.0,New York City,1
+M,133176,5.0,New York City,3
+M,130741,24.0,Miami,0
+M,9224,40.0,London,2
+F,21745,98.0,Tokyo,1
+F,79170,28.0,San Francisco,1
+F,23357,17.0,London,2
+M,98862,2.0,Tokyo,1
+M,48076,7.0,New York City,0
+M,35271,25.0,London,2
+F,152301,10.0,London,0
+M,53585,15.0,New York City,0
+M,21490,5.0,Miami,2
+F,102575,27.0,San Francisco,1
+F,73618,8.0,London,0
+F,36624,81.0,London,0
+M,74353,0.0,Tokyo,2
+F,119104,9.0,Tokyo,1
+F,17152,22.0,San Francisco,1
+F,83947,30.0,San Francisco,0
+F,151990,0.0,San Francisco,4
+F,69057,48.0,New York City,2
+F,73617,17.0,Miami,0
+F,139320,5.0,Miami,1
+F,53265,55.0,Tokyo,0
+M,46895,15.0,San Francisco,0
+F,34832,41.0,Miami,0
+M,21561,3.0,London,3
+F,115376,24.0,New York City,3
+M,38285,3.0,Tokyo,0
+M,51806,6.0,London,3
+M,36323,24.0,London,1
+F,45110,26.0,New York City,0
+M,62115,38.0,Miami,1
+M,294759,9.0,San Francisco,1
+F,32577,4.0,Tokyo,0
+M,86954,22.0,Tokyo,2
+F,17833,10.0,Tokyo,1
+F,73050,10.0,New York City,0
+F,143343,38.0,Miami,0
+F,18178,1.0,London,0
+F,154491,32.0,New York City,0
+M,131692,0.0,New York City,2
+F,80184,7.0,San Francisco,1
+F,30363,31.0,London,0
+F,57395,38.0,London,1
+M,57765,15.0,London,0
+M,60171,27.0,Miami,3
+M,159775,32.0,Tokyo,0
+F,90243,50.0,San Francisco,0
+M,51828,17.0,San Francisco,1
+M,28605,29.0,San Francisco,0
+F,170216,6.0,London,1
+M,21736,17.0,New York City,2
+F,30367,6.0,New York City,1
+M,168900,16.0,London,0
+M,133318,53.0,San Francisco,1
+F,160767,37.0,London,0
+F,41696,21.0,London,1
+M,106201,8.0,London,2
+F,3776,14.0,Miami,1
+M,210893,0.0,San Francisco,1
+M,5747,15.0,Miami,0
+F,43331,14.0,London,1
+F,1793,0.0,New York City,0
+M,66989,17.0,San Francisco,1
+M,165660,0.0,San Francisco,1
+F,2814,19.0,London,0
+M,74259,30.0,London,2
+M,18767,32.0,San Francisco,0
+F,117689,12.0,San Francisco,3
+M,62750,20.0,New York City,0
+M,9439,7.0,San Francisco,1
+F,86726,24.0,San Francisco,0
+F,28832,32.0,Tokyo,1
+F,61004,5.0,San Francisco,0
+F,99885,0.0,Miami,2
+M,53854,31.0,New York City,1
+F,140478,47.0,San Francisco,0
+F,126047,14.0,San Francisco,0
+M,108773,0.0,Tokyo,4
+M,51826,1.0,London,4
+F,84749,2.0,San Francisco,0
+F,126332,89.0,Miami,0
+F,147135,58.0,London,3
+M,20022,20.0,Miami,1
+M,37615,1.0,San Francisco,1
+F,108625,55.0,Tokyo,0
+M,90118,20.0,New York City,5
+F,142647,44.0,New York City,0
+F,167369,9.0,New York City,0
+M,16613,10.0,Miami,2
+F,196153,10.0,San Francisco,0
+M,14618,9.0,Tokyo,0
+M,50254,21.0,New York City,1
+M,90754,10.0,Tokyo,0
+M,67548,37.0,Miami,1
+F,33514,3.0,London,2
+F,226997,29.0,New York City,0
+M,118621,24.0,Tokyo,0
+M,172113,52.0,New York City,3
+M,12519,26.0,New York City,2
+F,73579,59.0,London,0
+F,78373,60.0,Miami,0
+M,189510,8.0,New York City,2
+F,75546,7.0,San Francisco,0
+F,48573,5.0,New York City,2
+M,117493,27.0,Miami,3
+M,153359,10.0,Tokyo,2
+M,108371,68.0,Miami,0
+M,82190,0.0,Miami,1
+M,38423,12.0,Tokyo,2
+F,54721,44.0,Miami,0
+F,51273,33.0,New York City,0
+M,11783,18.0,San Francisco,1
+M,2364,14.0,Miami,1
+M,99337,8.0,Tokyo,3
+F,143460,27.0,New York City,0
+M,62461,57.0,San Francisco,0
+M,66017,12.0,London,3
+F,11622,17.0,San Francisco,2
+M,23703,12.0,San Francisco,1
+F,101826,20.0,Tokyo,1
+M,156943,24.0,London,2
+F,167647,30.0,Miami,3
+M,38615,3.0,Miami,3
+F,153614,73.0,San Francisco,1
+F,47125,49.0,Miami,0
+F,14166,17.0,San Francisco,1
+F,72512,31.0,San Francisco,2
+F,33138,3.0,San Francisco,2
+F,29693,15.0,New York City,1
+M,25440,55.0,San Francisco,1
+M,424,8.0,Miami,0
+F,21519,45.0,Miami,1
+F,60968,1.0,New York City,0
+F,45474,29.0,Tokyo,1
+M,82903,0.0,Tokyo,0
+M,193804,25.0,Tokyo,0
+F,15268,45.0,San Francisco,3
+M,135496,82.0,Miami,1
+M,29898,16.0,London,1
+M,50645,33.0,Tokyo,3
+M,113876,9.0,London,2
+F,130967,19.0,New York City,3
+M,55857,21.0,Miami,2
+F,10859,11.0,New York City,0
+M,58552,57.0,London,0
+F,56586,7.0,New York City,0
+M,29695,48.0,Tokyo,0
+F,9055,3.0,San Francisco,0
+M,34109,36.0,London,0
+M,28073,42.0,London,1
+M,27120,23.0,Tokyo,2
+M,48717,28.0,San Francisco,0
+M,32946,18.0,Miami,0
+M,183371,77.0,San Francisco,2
+F,43153,43.0,Miami,1
+F,110412,8.0,London,4
+M,25942,62.0,Tokyo,0
+M,114391,75.0,London,0
+M,180593,6.0,London,1
+F,7884,29.0,Tokyo,2
+F,95017,14.0,New York City,0
+F,102923,58.0,London,0
+M,146388,0.0,Miami,0
+M,7446,67.0,London,1
+F,2221,24.0,Tokyo,2
+F,15007,2.0,Tokyo,1
+M,68451,18.0,New York City,3
+F,176008,37.0,New York City,1
+M,24466,9.0,San Francisco,2
+F,84369,80.0,London,0
+M,140163,23.0,San Francisco,0
+M,164858,32.0,San Francisco,0
+M,58964,23.0,Miami,2
+F,122881,3.0,London,2
+M,107970,7.0,London,0
+F,5572,0.0,Miami,0
+F,157345,16.0,Tokyo,0
+M,57752,25.0,San Francisco,0
+M,13037,30.0,Tokyo,0
+F,4846,9.0,San Francisco,1
+M,79220,46.0,Tokyo,0
+M,54059,23.0,London,1
+M,128992,5.0,Miami,0
+M,255158,38.0,Miami,3
+M,133752,44.0,San Francisco,0
+M,104586,13.0,Tokyo,0
+F,153708,39.0,Miami,2
+M,109512,16.0,New York City,2
+M,51825,6.0,Miami,4
+F,88769,1.0,London,1
+M,4338,15.0,New York City,0
+F,78425,7.0,Tokyo,0
+M,86816,51.0,Tokyo,2
+F,56088,27.0,Tokyo,2
+F,14736,35.0,Tokyo,1
+M,30576,36.0,Miami,1
+M,27801,23.0,New York City,0
+M,85727,30.0,Tokyo,1
+F,85101,11.0,Miami,0
+F,13934,41.0,Tokyo,1
+F,259766,11.0,San Francisco,0
+F,56498,20.0,New York City,2
+F,54454,7.0,Tokyo,2
+F,41242,9.0,Miami,1
+F,216268,15.0,New York City,3
+F,14614,52.0,Miami,0
+F,48462,24.0,New York City,1
+F,62322,16.0,San Francisco,0
+M,104322,6.0,Tokyo,1
+F,83343,38.0,Miami,1
+F,88899,5.0,Miami,1
+F,11716,17.0,Tokyo,1
+M,27503,32.0,Miami,1
+M,3205,15.0,New York City,1
+F,38995,27.0,New York City,3
+F,228237,7.0,San Francisco,2
+F,170684,18.0,Tokyo,2
+M,187838,5.0,Tokyo,1
+F,101304,7.0,Tokyo,4
+F,96133,20.0,Tokyo,2
+F,14812,13.0,Miami,1
+F,196885,13.0,Miami,2
+M,132512,16.0,New York City,3
+F,125944,4.0,London,1
+F,152938,66.0,Tokyo,2
+M,124761,27.0,Miami,3
+M,109179,27.0,London,1
+F,30970,67.0,Miami,1
+M,92452,16.0,San Francisco,1
+F,83915,40.0,Tokyo,2
+M,43680,35.0,Miami,3
+M,7179,47.0,Miami,2
+M,26880,35.0,Miami,1
+F,94258,19.0,San Francisco,1
+M,5944,6.0,San Francisco,3
+F,3528,22.0,New York City,1
+M,10830,52.0,Miami,1
+M,100456,28.0,London,0
+M,86808,7.0,Tokyo,2
+F,143542,38.0,Tokyo,0
+M,29327,13.0,London,0
+F,127641,57.0,New York City,0
+M,22606,38.0,Miami,1
+M,11782,20.0,New York City,0
+F,72869,2.0,New York City,1
+M,169678,65.0,London,1
+F,173607,33.0,London,2
+M,42498,17.0,Miami,1
+M,189063,17.0,New York City,0
+M,46974,1.0,Miami,3
+F,109086,3.0,Tokyo,1
+F,475,30.0,London,0
+F,80002,15.0,London,0
+M,228114,6.0,San Francisco,0
+F,52603,8.0,New York City,0
+F,209120,18.0,San Francisco,0
+F,19094,40.0,Miami,0
+F,15492,18.0,London,2
+M,19433,6.0,New York City,2
+M,21128,49.0,New York City,0
+F,126707,28.0,London,0
+M,102007,0.0,London,2
+M,31106,10.0,Miami,1
+F,43930,25.0,New York City,0
+F,40410,16.0,San Francisco,0
+M,29138,20.0,London,2
+F,43015,7.0,New York City,1
+M,68931,39.0,San Francisco,2
+F,48906,29.0,San Francisco,0
+F,113270,20.0,Miami,0
+M,65732,10.0,Miami,3
+F,73755,8.0,London,3
+M,153306,11.0,Tokyo,1
+F,175867,12.0,London,0
+M,53003,39.0,New York City,1
+F,131327,4.0,Miami,1
+M,69953,18.0,San Francisco,1
+M,45917,2.0,Tokyo,1
+M,63901,21.0,Tokyo,0
+F,105097,36.0,Miami,1
+M,82225,17.0,San Francisco,2
+F,65306,34.0,San Francisco,1
+F,1282,43.0,London,0
+M,125734,51.0,Tokyo,0
+F,66568,37.0,Tokyo,1
+F,59508,28.0,San Francisco,1
+M,141858,16.0,Miami,1
+F,149435,11.0,Miami,3
+M,65554,51.0,London,1
+F,148679,3.0,Miami,4
+M,25766,15.0,New York City,0
+M,1078,18.0,New York City,1
+F,4895,28.0,San Francisco,0
+F,39876,1.0,Miami,0
+F,138135,80.0,Miami,2
+M,68594,43.0,Miami,0
+M,47475,25.0,London,0
+F,48432,12.0,London,0
+M,70298,4.0,London,0
+F,40216,3.0,Tokyo,1
+F,150668,0.0,London,3
+M,29193,41.0,London,0
+M,43053,40.0,Miami,1
+M,144138,19.0,Miami,1
+M,17588,2.0,Tokyo,0
+M,82391,17.0,London,1
+F,61789,7.0,Tokyo,3
+F,3199,23.0,Tokyo,2
+F,10417,40.0,Miami,0
+F,18194,13.0,Miami,0
+M,123521,29.0,Miami,0
+M,698,29.0,Tokyo,1
+M,86214,7.0,New York City,0
+F,40641,7.0,London,1
+M,39360,26.0,New York City,0
+F,2064,56.0,New York City,2
+F,14965,30.0,Miami,3
+M,158739,22.0,New York City,1
+F,51277,33.0,Tokyo,0
+M,27385,28.0,Miami,1
+M,24678,12.0,New York City,1
+F,245611,20.0,Miami,1
+F,29670,37.0,Tokyo,0
+F,81945,20.0,San Francisco,2
+F,105837,58.0,New York City,1
+M,121420,33.0,San Francisco,1
+F,89299,5.0,Tokyo,0
+M,16553,28.0,Tokyo,0
+F,3128,8.0,London,3
+M,17885,32.0,San Francisco,1
+M,128787,13.0,New York City,0
+F,34297,41.0,San Francisco,1
+M,14670,26.0,Tokyo,0
+F,51604,27.0,London,0
+M,50687,20.0,San Francisco,4
+M,42718,44.0,London,0
+F,53318,30.0,London,1
+F,150876,17.0,Tokyo,1
+M,15879,22.0,Miami,2
+M,97829,21.0,Tokyo,1
+M,139027,43.0,Miami,1
+M,4318,16.0,San Francisco,2
+M,100620,6.0,San Francisco,3
+F,64005,38.0,Tokyo,1
+M,49789,50.0,London,0
+F,55163,51.0,Tokyo,1
+F,94661,21.0,Tokyo,0
+F,115024,14.0,Tokyo,1
+M,1708,9.0,Miami,1
+M,243029,63.0,New York City,0
+M,30379,21.0,Tokyo,0
+F,29638,25.0,New York City,0
+F,84634,18.0,New York City,0
+F,174973,28.0,New York City,2
+M,129652,9.0,San Francisco,0
+F,34226,20.0,New York City,0
+F,45098,21.0,New York City,2
+M,79534,1.0,London,4
+F,82705,23.0,New York City,0
+M,16469,17.0,Tokyo,1
+M,199177,44.0,London,2
+M,106881,14.0,New York City,0
+M,130468,16.0,San Francisco,1
+M,545,7.0,Tokyo,1
+F,48814,5.0,London,4
+F,87616,13.0,San Francisco,0
+M,101810,25.0,Tokyo,0
+F,122737,48.0,London,2
+M,66759,12.0,New York City,6
+M,91438,9.0,Tokyo,1
+M,153027,35.0,London,1
+F,96680,36.0,New York City,4
+F,222544,12.0,Tokyo,1
+M,25654,4.0,Miami,2
+F,84497,23.0,London,0
+F,16928,27.0,Tokyo,2
+F,55826,57.0,San Francisco,2
+M,54840,5.0,San Francisco,3
+F,50338,4.0,New York City,1
+M,72661,17.0,Miami,3
+F,52595,42.0,London,2
+M,68488,24.0,San Francisco,1
+M,241984,24.0,San Francisco,1
+F,17848,16.0,London,3
+F,112874,26.0,London,1
+M,26442,12.0,San Francisco,0
+F,28340,27.0,Miami,3
+M,10015,17.0,New York City,2
+M,93030,15.0,Miami,0
+M,31265,59.0,London,0
+F,10119,68.0,San Francisco,0
+F,22083,22.0,London,1
+F,44071,17.0,San Francisco,2
+M,76803,9.0,New York City,0
+F,19592,9.0,Tokyo,0
+M,141903,72.0,San Francisco,3
+F,161397,44.0,Miami,1
+F,18714,49.0,Tokyo,0
+M,80651,8.0,San Francisco,3
+M,60246,40.0,Tokyo,0
+F,43528,41.0,New York City,0
+F,38360,2.0,London,0
+M,119284,20.0,San Francisco,1
+M,42215,3.0,London,0
+M,156541,15.0,Miami,0
+F,65238,52.0,Miami,3
+M,22581,4.0,Tokyo,0
+F,338053,40.0,Miami,1
+M,76803,11.0,New York City,2
+M,230114,38.0,London,0
+F,76629,23.0,Miami,2
+M,1079,11.0,London,2
+F,79508,43.0,Miami,0
+F,80933,23.0,Tokyo,0
+M,66420,28.0,New York City,2
+F,109955,50.0,San Francisco,1
+F,30521,36.0,New York City,0
+F,13111,12.0,London,0
+M,69399,9.0,San Francisco,2
+F,146490,7.0,New York City,1
+F,128356,0.0,New York City,0
+M,67154,30.0,London,0
+F,1557,1.0,London,0
+M,106688,25.0,San Francisco,1
+M,117774,9.0,Miami,3
+M,6835,47.0,Miami,2
+M,124947,38.0,Miami,0
+F,95592,13.0,London,1
+M,155599,17.0,London,0
+M,153517,19.0,Tokyo,0
+M,130216,9.0,New York City,0
+F,39799,2.0,San Francisco,1
+M,87124,4.0,Tokyo,0
+F,30479,24.0,London,0
+M,117881,10.0,San Francisco,0
+F,79424,6.0,New York City,2
+M,14190,11.0,Miami,1
+F,134250,36.0,Tokyo,1
+F,162782,39.0,New York City,0
+M,94949,27.0,Tokyo,0
+F,80130,57.0,Miami,2
+F,9103,11.0,London,2
+M,203546,36.0,San Francisco,2
+F,107614,14.0,New York City,1
+M,168065,7.0,London,1
+M,100337,39.0,Miami,2
+F,76445,1.0,New York City,1
+M,12693,46.0,San Francisco,0
+F,138266,30.0,Miami,0
+M,9367,56.0,Miami,0
+F,6819,19.0,London,0
+F,184388,32.0,London,3
+F,49180,10.0,Miami,1
+F,5641,2.0,Miami,5
+M,71885,76.0,London,1
+F,73551,1.0,London,0
+M,3859,26.0,Miami,0
+M,177653,32.0,San Francisco,2
+F,111381,21.0,Tokyo,2
+F,36632,34.0,San Francisco,1
+M,108493,50.0,New York City,0
+F,146266,1.0,Tokyo,0
+F,214311,46.0,Tokyo,0
+M,54841,34.0,Tokyo,2
+M,115790,59.0,Miami,3
+F,120582,16.0,Tokyo,0
+M,99623,67.0,London,2
+M,32637,8.0,Tokyo,3
+F,155296,37.0,Miami,3
+M,25792,1.0,London,3
+M,69931,34.0,New York City,0
+F,52151,5.0,San Francisco,0
+M,53268,56.0,Tokyo,0
+M,234522,21.0,Miami,0
+M,57536,51.0,New York City,2
+F,51449,5.0,Miami,3
+M,96078,43.0,London,1
+F,184389,4.0,London,5
+M,125808,17.0,London,1
+F,26866,11.0,London,1
+F,43571,69.0,Tokyo,1
+M,66995,46.0,New York City,1
+F,50093,6.0,Tokyo,2
+F,65002,7.0,New York City,2
+M,120567,3.0,London,4
+F,103546,19.0,Tokyo,3
+F,190006,0.0,New York City,0
+F,29270,11.0,San Francisco,2
+F,27374,7.0,Miami,0
+F,31731,23.0,San Francisco,0
+F,124581,9.0,London,3
+F,60427,22.0,New York City,3
+M,150891,13.0,Miami,0
+F,125353,17.0,San Francisco,0
+M,52819,40.0,Miami,0
+M,190787,3.0,New York City,2
+M,206400,0.0,San Francisco,4
+M,26683,5.0,Miami,1
+M,59683,22.0,New York City,0
+M,97701,40.0,Tokyo,3
+F,132389,4.0,San Francisco,1
+M,4191,48.0,Tokyo,0
+M,277639,32.0,London,0
+M,76690,10.0,Tokyo,0
+M,127776,8.0,Tokyo,0
+M,19850,21.0,London,2
+M,51912,79.0,San Francisco,2
+F,37367,0.0,London,1
+F,46286,27.0,London,3
+F,69184,56.0,Tokyo,1
+F,16799,28.0,London,5
+F,96325,69.0,New York City,4
+F,142638,7.0,San Francisco,4
+F,39181,53.0,San Francisco,2
+F,75847,8.0,Miami,1
+M,17897,16.0,San Francisco,0
+F,94983,8.0,Miami,1
+M,47018,39.0,London,0
+M,15121,69.0,Tokyo,0
+M,843,23.0,Tokyo,2
+F,38439,14.0,New York City,2
+M,153190,8.0,New York City,0
+M,58012,34.0,Tokyo,1
+M,3397,22.0,Miami,0
+M,146031,20.0,Tokyo,0
+M,62524,45.0,Miami,1
+M,52803,4.0,New York City,0
+M,15423,5.0,San Francisco,0
+F,133172,11.0,San Francisco,2
+M,162262,30.0,San Francisco,2
+F,27605,25.0,Miami,0
+M,2589,41.0,San Francisco,0
+M,13889,43.0,New York City,1
+M,31174,34.0,Tokyo,1
+M,36448,11.0,London,1
+M,37875,25.0,London,0
+F,105978,6.0,Miami,0
+F,186278,34.0,Miami,0
+F,59458,31.0,Tokyo,2
+F,157871,32.0,New York City,0
+F,119712,6.0,London,2
+F,50787,27.0,Miami,0
+M,24438,7.0,New York City,0
+M,66782,61.0,Miami,2
+M,22679,62.0,Miami,0
+M,15249,9.0,San Francisco,0
+F,3481,3.0,Tokyo,1
+F,76369,3.0,New York City,1
+M,126594,10.0,San Francisco,0
+F,65597,4.0,New York City,3
+F,53832,41.0,Miami,1
+F,118614,5.0,New York City,1
+F,47849,14.0,Tokyo,0
+F,38517,3.0,Tokyo,2
+F,25553,18.0,London,1
+M,130215,19.0,New York City,0
+F,159035,48.0,Tokyo,1
+F,89862,81.0,New York City,4
+F,39299,23.0,Tokyo,1
+F,40052,27.0,Miami,1
+F,16976,10.0,San Francisco,0
+M,68037,9.0,Tokyo,2
+F,127551,20.0,Miami,0
+F,40554,0.0,New York City,0
+F,107976,19.0,New York City,0
+F,162806,10.0,San Francisco,3
+F,79258,20.0,London,1
+F,70782,31.0,Miami,1
+F,60959,3.0,Tokyo,2
+M,75587,31.0,London,2
+M,30749,5.0,San Francisco,0
+M,180384,34.0,Miami,0
+F,84005,46.0,San Francisco,2
+F,115194,45.0,Tokyo,0
+M,7614,28.0,Tokyo,0
+F,23469,25.0,Miami,0
+F,127258,41.0,Miami,0
+M,205428,59.0,London,0
+M,2046,24.0,Miami,1
+M,218987,18.0,New York City,2
+F,122495,30.0,New York City,4
+F,95089,12.0,New York City,0
+M,13390,30.0,San Francisco,1
+F,51259,32.0,New York City,0
+F,67032,23.0,Miami,4
+F,47415,8.0,Miami,1
+M,185847,4.0,Miami,2
+M,86479,0.0,Tokyo,1
+M,103069,9.0,New York City,1
+F,1854,0.0,Tokyo,2
+M,70677,9.0,New York City,2
+M,34530,21.0,New York City,0
+F,31218,19.0,New York City,1
+M,249395,15.0,New York City,1
+F,8782,19.0,London,2
+M,50039,86.0,Miami,3
+M,40945,1.0,San Francisco,4
+F,253195,14.0,London,1
+F,10405,31.0,London,3
+M,41539,42.0,London,3
+F,236428,23.0,London,2
+F,121985,27.0,San Francisco,1
+F,24260,42.0,Miami,3
+M,53948,28.0,San Francisco,1
+F,166194,5.0,London,0
+F,4732,9.0,Tokyo,1
+F,80214,65.0,London,1
+F,95207,3.0,San Francisco,4
+F,8570,26.0,Miami,3
+M,182755,32.0,New York City,2
+F,40451,20.0,Miami,0
+F,58909,28.0,Tokyo,3
+M,147302,22.0,Miami,1
+F,37732,12.0,London,0
+M,170325,50.0,San Francisco,2
+M,1868,38.0,London,0
+M,49597,14.0,Tokyo,1
+M,61606,16.0,Miami,2
+M,100064,16.0,Tokyo,3
+M,73143,18.0,San Francisco,1
+F,307492,13.0,New York City,4
+F,88637,33.0,New York City,0
+M,85556,39.0,New York City,5
+F,46782,9.0,London,0
+F,4976,30.0,San Francisco,1
+F,18236,0.0,Miami,1
+M,19297,0.0,New York City,1
+F,25812,24.0,San Francisco,3
+F,112073,0.0,London,2
+F,220752,49.0,San Francisco,1
+F,121001,44.0,Tokyo,1
+M,7768,33.0,San Francisco,0
+M,831,5.0,San Francisco,1
+F,94734,7.0,London,0
+F,79256,7.0,New York City,2
+M,7890,32.0,New York City,2
+F,57338,22.0,London,1
+M,9305,28.0,London,1
+M,61538,36.0,London,1
+F,109302,8.0,London,2
+M,19645,0.0,Miami,0
+F,54979,18.0,London,0
+M,95970,13.0,Tokyo,2
+M,111882,15.0,Miami,3
+M,9495,31.0,New York City,3
+F,218697,38.0,San Francisco,0
+M,100625,52.0,Miami,0
+F,167298,5.0,San Francisco,1
+F,14729,46.0,Miami,0
+M,159432,46.0,London,1
+M,62046,57.0,Miami,0
+M,151853,30.0,San Francisco,3
+F,60837,25.0,Miami,2
+F,7682,9.0,San Francisco,0
+M,122928,41.0,London,0
+M,114310,17.0,Tokyo,0
+M,64519,21.0,San Francisco,0
+M,68795,13.0,London,3
+M,131513,30.0,London,2
+M,59023,42.0,San Francisco,0
+M,1398,17.0,Miami,1
+M,24603,20.0,Miami,1
+F,33258,79.0,San Francisco,1
+F,42407,26.0,Miami,0
+F,71218,51.0,London,2
+F,55213,0.0,New York City,4
+M,26186,11.0,New York City,0
+M,11357,17.0,San Francisco,0
+F,6307,0.0,New York City,2
+F,28143,22.0,New York City,3
+M,19499,23.0,Miami,2
+M,106442,33.0,San Francisco,0
+F,5889,48.0,Miami,0
+F,58127,40.0,San Francisco,0
+F,100302,45.0,Tokyo,1
+F,94191,25.0,San Francisco,0
+M,152064,2.0,New York City,1
+F,588,21.0,New York City,0
+F,60619,17.0,New York City,1
+F,192689,0.0,Tokyo,2
+M,142834,19.0,New York City,0
+M,26005,17.0,London,1
+M,46550,72.0,San Francisco,1
+M,40686,3.0,San Francisco,1
+F,1058,20.0,Miami,1
+F,50286,6.0,Tokyo,0
+M,103608,15.0,New York City,2
+M,51353,31.0,Miami,4
+F,239299,18.0,New York City,2
+M,3725,30.0,Tokyo,1
+M,62258,35.0,Tokyo,0
+M,99143,51.0,Miami,1
+M,74269,10.0,Tokyo,1
+F,21127,22.0,Miami,3
+F,27220,18.0,Miami,1
+F,7762,59.0,London,0
+M,34525,8.0,Tokyo,2
+F,155879,40.0,New York City,3
+F,50086,3.0,New York City,1
+F,22390,9.0,London,0
+M,54978,17.0,San Francisco,1
+F,149730,26.0,Miami,0
+F,9378,9.0,San Francisco,0
+M,10381,31.0,New York City,2
+M,136486,3.0,Miami,3
+F,107064,4.0,Miami,2
+F,17200,21.0,San Francisco,1
+M,23449,5.0,San Francisco,0
+M,139456,79.0,New York City,1
+F,25232,8.0,Miami,0
+F,41713,32.0,Miami,0
+F,55125,5.0,New York City,0
+M,38574,37.0,San Francisco,1
+M,203078,7.0,Tokyo,1
+M,50778,27.0,San Francisco,0
+F,26620,26.0,San Francisco,0
+M,112066,22.0,Miami,1
+F,78007,21.0,New York City,1
+M,80947,4.0,San Francisco,2
+M,16626,2.0,New York City,2
+F,82008,1.0,San Francisco,2
+F,75676,21.0,Miami,0
+F,116992,8.0,New York City,2
+F,41116,28.0,New York City,2
+F,41427,30.0,San Francisco,4
+F,44002,38.0,London,0
+F,79128,19.0,New York City,2
+F,11099,20.0,San Francisco,4
+M,44850,29.0,Tokyo,2
+F,9106,13.0,Tokyo,0
+F,91414,47.0,London,3
+F,48710,4.0,London,0
+F,129226,11.0,London,1
+F,57682,43.0,San Francisco,0
+M,121743,36.0,London,2
+M,62920,48.0,Miami,0
+M,51951,14.0,Miami,2
+F,83140,40.0,San Francisco,1
+M,74090,29.0,San Francisco,0
+F,162992,21.0,Miami,0
+M,113545,27.0,London,2
+M,164112,49.0,Miami,1
+M,16872,21.0,New York City,2
+M,67070,6.0,San Francisco,1
+M,14675,1.0,San Francisco,0
+F,136434,64.0,Miami,1
+F,231072,21.0,London,0
+M,1460,3.0,New York City,0
+M,39396,2.0,Tokyo,0
+F,12537,7.0,Tokyo,0
+F,85769,22.0,London,1
+M,9379,21.0,Tokyo,0
+F,9740,9.0,Tokyo,0
+M,44503,26.0,New York City,1
+F,105536,36.0,New York City,2
+F,17853,18.0,London,2
+M,113878,37.0,San Francisco,4
+M,6057,10.0,Tokyo,0
+F,69777,6.0,Tokyo,0
+F,199450,1.0,London,0
+F,116389,22.0,Miami,2
+M,47772,4.0,San Francisco,0
+M,72035,9.0,London,1
+F,90796,14.0,Tokyo,1
+F,17078,2.0,New York City,2
+M,76572,11.0,Tokyo,0
+F,61711,25.0,New York City,0
+F,138224,7.0,Tokyo,2
+F,149140,0.0,Miami,1
+M,41558,27.0,London,3
+M,22450,6.0,Tokyo,2
+M,143669,16.0,New York City,0
+F,195789,22.0,San Francisco,1
+M,149629,46.0,Miami,0
+F,12540,35.0,Miami,1
+F,142254,39.0,San Francisco,3
+M,35284,7.0,Tokyo,0
+F,11524,5.0,London,0
+M,54852,33.0,Tokyo,0
+M,43768,41.0,San Francisco,2
+F,61144,7.0,New York City,1
+M,108428,18.0,Miami,2
+M,90699,39.0,New York City,3
+F,157059,29.0,Miami,0
+F,61682,3.0,New York City,2
+F,823,42.0,Miami,1
+F,95035,41.0,San Francisco,0
+M,154222,35.0,Miami,1
+M,275810,3.0,Tokyo,3
+M,87603,20.0,Miami,1
+M,4576,22.0,New York City,0
+F,29274,35.0,Miami,0
+M,82629,41.0,Tokyo,0
+F,38859,18.0,Tokyo,0
+F,132233,16.0,New York City,0
+F,194321,3.0,New York City,0
+M,34869,21.0,Miami,1
+F,4961,58.0,Tokyo,1
+F,69563,2.0,Tokyo,1
+F,88954,21.0,Tokyo,0
+M,9456,3.0,San Francisco,1
+F,45253,8.0,Tokyo,0
+F,73483,17.0,Miami,2
+M,83548,10.0,London,0
+F,21303,49.0,San Francisco,1
+F,21302,16.0,Tokyo,2
+F,88130,13.0,New York City,5
+M,117532,2.0,London,0
+F,19969,11.0,Miami,0
+M,113928,11.0,San Francisco,1
+F,66718,11.0,Tokyo,0
+F,25367,58.0,Tokyo,0
+F,178383,8.0,San Francisco,1
+F,75431,40.0,Tokyo,3
+M,115500,75.0,New York City,0
+M,109357,28.0,Miami,1
+F,48472,34.0,New York City,0
+F,58478,7.0,Tokyo,3
+F,131725,5.0,New York City,3
+F,19363,13.0,Miami,0
+F,53869,39.0,Tokyo,2
+F,16977,80.0,Tokyo,0
+F,11423,14.0,Miami,3
+F,20388,16.0,New York City,4
+F,60387,43.0,London,0
+F,115268,14.0,New York City,1
+M,13032,42.0,Tokyo,0
+F,82388,36.0,Tokyo,1
+F,130521,9.0,London,0
+F,99146,4.0,Tokyo,2
+F,170905,17.0,New York City,1
+M,58071,52.0,Tokyo,0
+F,48151,25.0,San Francisco,1
+F,30682,8.0,Miami,0
+M,15419,37.0,Tokyo,0
+F,171466,4.0,Tokyo,2
+F,36033,4.0,London,1
+M,160850,26.0,London,0
+F,107279,8.0,Tokyo,0
+M,106429,24.0,New York City,0
+M,65029,10.0,Miami,0
+M,20524,3.0,Tokyo,2
+F,83892,9.0,London,1
+M,79983,3.0,London,1
+F,152798,27.0,Miami,1
+M,55330,39.0,San Francisco,0
+M,11251,57.0,New York City,1
+F,125036,3.0,Miami,2
+F,95031,44.0,New York City,1
+F,82691,32.0,Tokyo,2
+M,21485,39.0,San Francisco,2
+F,30183,17.0,Miami,0
+M,30616,0.0,Tokyo,1
+F,203088,64.0,New York City,3
+F,81952,6.0,San Francisco,0
+M,41109,5.0,Miami,0
+M,42102,16.0,Tokyo,2
+F,45616,26.0,New York City,0
+M,6563,53.0,New York City,3
+F,117760,4.0,San Francisco,0
+M,48975,32.0,London,0
+F,153736,91.0,New York City,2
+M,83929,7.0,New York City,2
+M,41498,22.0,London,1
+F,167240,11.0,London,0
+M,49678,42.0,San Francisco,1
+F,42044,39.0,Miami,2
+M,39169,8.0,New York City,2
+M,21570,47.0,San Francisco,2
+M,184497,6.0,San Francisco,0
+F,127195,17.0,London,2
+F,14581,42.0,New York City,1
+M,102514,29.0,Miami,3
+F,148301,22.0,San Francisco,0
+M,41920,47.0,London,4
+M,79693,8.0,Miami,0
+F,179645,25.0,London,2
+M,117779,6.0,Miami,0
+M,5540,6.0,San Francisco,0
+M,32989,8.0,Miami,2
+M,58383,19.0,London,0
+F,115002,27.0,Tokyo,0
+F,30898,15.0,New York City,1
+M,66456,1.0,Tokyo,2
+F,122355,18.0,Tokyo,2
+M,60213,69.0,Miami,0
+M,29726,29.0,San Francisco,1
+M,24830,0.0,New York City,1
+F,94879,61.0,San Francisco,0
+F,102011,39.0,Miami,1
+F,82808,28.0,San Francisco,0
+M,920,21.0,London,1
+F,77720,27.0,Miami,1
+F,49308,43.0,Miami,4
+F,96316,8.0,San Francisco,0
+F,105565,19.0,Tokyo,0
+F,32362,4.0,London,1
+M,182341,6.0,London,0
+F,90901,7.0,Tokyo,0
+M,137105,2.0,Miami,0
+F,31656,5.0,New York City,3
+F,25628,51.0,New York City,2
+F,63169,49.0,Tokyo,0
+F,149391,37.0,Tokyo,2
+M,35069,2.0,New York City,0
+M,52582,3.0,London,4
+F,99609,11.0,New York City,1
+F,30233,31.0,New York City,0
+F,101190,7.0,San Francisco,1
+M,126991,17.0,San Francisco,1
+M,3500,19.0,Miami,0
+M,96572,28.0,New York City,0
+M,16434,20.0,New York City,2
+F,62434,22.0,London,0
+F,212694,34.0,San Francisco,0
+F,17011,0.0,London,1
+F,130899,22.0,Tokyo,0
+F,77381,20.0,New York City,1
+M,116534,5.0,San Francisco,0
+M,41849,53.0,London,2
+M,158173,30.0,San Francisco,0
+F,97848,11.0,Miami,4
+F,12772,50.0,New York City,2
+M,47125,4.0,New York City,0
+F,105565,19.0,San Francisco,0
+F,83356,21.0,Miami,2
+M,42679,5.0,Miami,1
+F,111108,49.0,Tokyo,0
+F,142918,25.0,New York City,0
+M,182349,13.0,Miami,0
+M,4433,61.0,San Francisco,0
+M,77829,17.0,Tokyo,1
+F,10936,5.0,Miami,0
+F,11871,27.0,Miami,2
+F,144039,7.0,San Francisco,1
+M,69694,12.0,Miami,0
+F,18024,5.0,Miami,4
+F,93304,33.0,London,6
+F,191345,5.0,New York City,0
+F,75987,4.0,Tokyo,0
+F,98658,23.0,Miami,3
+F,179157,51.0,Miami,1
+F,63257,14.0,Miami,4
+M,83652,20.0,San Francisco,2
+F,40323,38.0,London,2
+F,50614,8.0,London,1
+F,51059,47.0,Miami,2
+M,1846,4.0,New York City,0
+F,66163,46.0,San Francisco,1
+M,72855,3.0,Tokyo,1
+F,202638,21.0,Tokyo,0
+F,3329,49.0,San Francisco,3
+M,12345,24.0,Tokyo,0
+F,188860,25.0,Tokyo,0
+M,188190,46.0,London,2
+M,101827,1.0,San Francisco,1
+F,31470,18.0,Tokyo,0
+M,35732,9.0,San Francisco,2
+M,34289,38.0,San Francisco,2
+M,17450,42.0,Miami,1
+F,68225,19.0,San Francisco,1
+M,132395,14.0,San Francisco,1
+F,6393,7.0,San Francisco,0
+F,214244,36.0,Miami,1
+F,116887,25.0,Miami,0
+F,11199,9.0,Tokyo,0
+M,81465,29.0,London,1
+M,30640,20.0,Miami,4
+M,63959,32.0,London,0
+F,14796,20.0,New York City,0
+F,34983,10.0,London,1
+F,2854,21.0,London,0
+F,57297,0.0,New York City,0
+F,32614,26.0,Miami,0
+F,83749,3.0,London,2
+M,46453,1.0,Tokyo,3
+M,103234,18.0,London,0
+M,5121,33.0,San Francisco,2
+M,39908,15.0,San Francisco,0
+M,69536,38.0,Tokyo,1
+F,113086,14.0,San Francisco,0
+F,41044,2.0,Miami,1
+F,144855,52.0,New York City,1
+F,168173,26.0,London,0
+M,148660,26.0,Miami,0
+M,26862,31.0,San Francisco,5
+M,15587,10.0,London,0
+M,185130,22.0,New York City,0
+M,87030,41.0,Tokyo,0
+F,20727,23.0,Tokyo,1
+F,4933,1.0,London,1
+M,16101,7.0,Miami,3
+F,105101,19.0,San Francisco,2
+M,5212,7.0,San Francisco,2
+M,88960,51.0,New York City,0
+M,47944,46.0,New York City,2
+F,169730,12.0,London,1
+F,45862,36.0,Miami,0
+F,53773,22.0,London,0
+M,100966,11.0,London,2
+M,60427,7.0,Miami,3
+F,189183,14.0,San Francisco,1
+M,32736,20.0,Miami,0
+F,27665,63.0,Miami,0
+M,120302,31.0,New York City,1
+F,46792,57.0,Tokyo,0
+M,79471,37.0,San Francisco,1
+M,84327,8.0,London,1
+F,84354,20.0,New York City,0
+M,139783,23.0,Tokyo,3
+M,591,16.0,San Francisco,5
+M,60346,12.0,San Francisco,1
+F,69333,90.0,New York City,0
+M,50272,28.0,San Francisco,0
+F,109114,55.0,Tokyo,0
+F,145379,31.0,Tokyo,0
+F,117382,10.0,New York City,3
+F,137408,72.0,New York City,2
+F,66150,28.0,Tokyo,1
+F,16601,54.0,San Francisco,2
+M,35333,52.0,New York City,1
+M,71006,17.0,San Francisco,3
+F,55946,11.0,Miami,0
+F,22421,26.0,San Francisco,0
+F,91762,36.0,London,1
+M,17320,49.0,New York City,0
+F,79972,30.0,Tokyo,1
+M,237106,2.0,Miami,0
+M,35467,37.0,San Francisco,4
+M,5603,17.0,New York City,1
+M,54899,30.0,Tokyo,2
+M,36395,11.0,New York City,0
+F,52034,19.0,Miami,0
+M,29575,6.0,San Francisco,2
+F,132141,70.0,London,1
+F,56910,64.0,Miami,1
+M,27353,18.0,New York City,1
+F,202215,16.0,New York City,2
+M,32965,82.0,London,3
+M,115391,1.0,San Francisco,1
+F,30462,12.0,Tokyo,0
+M,68943,34.0,New York City,0
+F,70967,22.0,Tokyo,0
+M,23170,40.0,Tokyo,2
+M,146706,31.0,Miami,0
+M,50724,0.0,London,3
+F,71137,1.0,Tokyo,1
+F,25523,17.0,San Francisco,1
+M,55440,35.0,Tokyo,3
+F,126039,18.0,Tokyo,0
+F,120589,27.0,San Francisco,1
+F,87192,17.0,New York City,0
+M,79643,53.0,London,1
+F,42801,24.0,Miami,1
+M,62771,27.0,San Francisco,2
+M,32005,34.0,Tokyo,0
+F,32303,68.0,London,0
+F,42307,9.0,Miami,2
+M,269801,50.0,New York City,0
+F,57909,2.0,Tokyo,3
+M,163038,30.0,Miami,0
+M,21661,25.0,San Francisco,1
+M,25310,0.0,San Francisco,1
+M,158158,67.0,Miami,0
+F,32064,5.0,London,4
+M,97949,32.0,Miami,0
+F,79553,8.0,Miami,1
+F,139155,2.0,Tokyo,5
+F,22158,24.0,Miami,0
+F,89023,7.0,San Francisco,1
+M,7696,3.0,Miami,1
+F,192933,36.0,New York City,1
+F,62928,26.0,Tokyo,0
+F,50319,52.0,New York City,3
+M,4871,17.0,London,1
+F,117754,34.0,San Francisco,5
+F,203751,47.0,Miami,2
+M,53406,13.0,Tokyo,0
+F,74142,9.0,Tokyo,0
+F,92636,10.0,Miami,0
+M,91618,21.0,Tokyo,2
+M,118465,19.0,Miami,1
+M,105444,11.0,London,1
+M,71413,22.0,London,0
+M,52331,7.0,Tokyo,2
+M,73163,9.0,London,1
+M,221765,17.0,Tokyo,0
+F,61662,28.0,San Francisco,0
+F,34583,8.0,London,3
+M,105288,30.0,Miami,3
+M,7794,6.0,Tokyo,0
+F,32213,32.0,San Francisco,0
+M,7970,22.0,San Francisco,1
+M,220119,29.0,Miami,1
+M,125025,3.0,London,2
+F,8019,44.0,London,2
+F,58883,31.0,New York City,2
+F,66704,29.0,New York City,3
+F,145411,42.0,London,0
+M,52127,27.0,New York City,2
+F,88626,1.0,Tokyo,0
+M,38581,54.0,New York City,2
+M,76739,21.0,Tokyo,1
+F,101137,34.0,Miami,1
+M,115639,1.0,San Francisco,2
+M,98893,47.0,New York City,3
+F,87299,81.0,London,2
+M,242,22.0,Miami,1
+F,129977,29.0,San Francisco,0
+M,39530,70.0,San Francisco,0
+M,111354,17.0,London,3
+M,6756,64.0,London,0
+M,738,11.0,Tokyo,1
+M,152564,38.0,Tokyo,0
+F,808,5.0,New York City,0
+F,12482,6.0,New York City,0
+F,212592,4.0,London,0
+M,7204,8.0,New York City,0
+M,110309,80.0,Tokyo,4
+M,103407,12.0,Miami,2
+F,44419,9.0,London,3
+M,21416,6.0,New York City,3
+F,10282,8.0,London,0
+F,64560,22.0,Tokyo,0
+M,50797,33.0,New York City,0
+F,78412,1.0,London,0
+F,370679,19.0,Tokyo,0
+M,58702,89.0,Tokyo,3
+F,25357,1.0,New York City,0
+F,33794,0.0,Tokyo,0
+F,42199,20.0,New York City,1
+F,140367,1.0,Tokyo,0
+F,36953,33.0,Tokyo,0
+F,170195,13.0,Miami,1
+M,192014,9.0,London,0
+F,42265,6.0,San Francisco,2
+M,89190,40.0,Miami,0
+M,7873,43.0,Miami,4
+F,2532,38.0,London,2
+F,32162,12.0,San Francisco,2
+M,42444,55.0,Miami,0
+M,29554,35.0,London,2
+F,68069,20.0,London,0
+F,111802,41.0,New York City,1
+F,57618,42.0,Tokyo,0
+F,9625,3.0,New York City,1
+M,91288,53.0,San Francisco,2
+M,42975,31.0,New York City,0
+F,74106,34.0,San Francisco,0
+M,20066,11.0,New York City,1
+M,4294,19.0,London,2
+F,84560,18.0,New York City,0
+M,106549,64.0,New York City,1
+M,51770,34.0,San Francisco,0
+M,28831,38.0,New York City,0
+F,123313,25.0,San Francisco,1
+M,121157,2.0,Miami,0
+M,40205,26.0,Miami,1
+M,58207,16.0,New York City,0
+M,40805,22.0,New York City,1
+M,26708,17.0,Tokyo,1
+F,217974,17.0,Tokyo,0
+F,69279,3.0,New York City,1
+F,20843,24.0,London,2
+M,138288,22.0,Miami,1
+F,107782,2.0,Miami,2
+F,216153,64.0,San Francisco,0
+M,17883,16.0,New York City,2
+F,29768,66.0,San Francisco,0
+M,24655,6.0,New York City,1
+M,43675,32.0,San Francisco,2
+F,172659,3.0,Miami,1
+F,166377,25.0,San Francisco,0
+F,36147,11.0,New York City,0
+F,37633,28.0,New York City,1
+M,57138,50.0,San Francisco,0
+F,95284,27.0,Tokyo,0
+M,94934,13.0,London,0
+F,36826,18.0,New York City,1
+M,18654,46.0,Tokyo,2
+F,25090,2.0,New York City,0
+F,3382,27.0,Tokyo,0
+M,62797,26.0,London,0
+F,88954,68.0,New York City,1
+M,77609,28.0,Miami,1
+F,24506,1.0,Tokyo,2
+M,77115,4.0,New York City,1
+F,31134,32.0,San Francisco,0
+M,173449,37.0,London,1
+F,47031,17.0,London,1
+M,146583,19.0,Tokyo,0
+F,33632,19.0,Tokyo,0
+M,102769,19.0,Tokyo,0
+M,143673,55.0,London,2
+M,62122,20.0,San Francisco,1
+M,154528,0.0,Miami,1
+F,153321,41.0,New York City,5
+M,142862,15.0,San Francisco,1
+M,39012,17.0,Tokyo,1
+M,104708,27.0,Miami,2
+F,70683,14.0,Tokyo,2
+F,220683,8.0,New York City,2
+F,21992,6.0,New York City,0
+M,128371,17.0,Tokyo,5
+M,67309,0.0,San Francisco,0
+F,2837,4.0,San Francisco,1
+M,40930,49.0,Miami,2
+F,20536,31.0,San Francisco,1
+M,128787,4.0,Tokyo,2
+F,70782,70.0,Tokyo,0
+F,20902,27.0,San Francisco,2
+M,35665,8.0,New York City,2
+F,114422,42.0,San Francisco,1
+F,17669,47.0,Miami,2
+M,82516,13.0,London,4
+F,13163,61.0,San Francisco,0
+F,149775,49.0,New York City,2
+M,65946,7.0,Miami,0
+F,122195,15.0,San Francisco,0
+M,79193,15.0,New York City,1
+F,113580,80.0,San Francisco,2
+F,46275,27.0,London,0
+F,14565,0.0,San Francisco,0
+F,2788,25.0,San Francisco,2
+F,12979,0.0,London,4
+M,93285,28.0,San Francisco,2
+M,93109,59.0,Tokyo,5
+M,2499,43.0,San Francisco,0
+M,28090,29.0,Tokyo,3
+F,14671,28.0,New York City,4
+F,72761,50.0,New York City,3
+F,37355,42.0,London,2
+F,39150,0.0,Tokyo,4
+F,63888,37.0,Tokyo,0
+F,59782,5.0,New York City,2
+M,4477,35.0,London,2
+M,80996,4.0,San Francisco,2
+F,42538,29.0,Tokyo,0
+F,43537,3.0,Miami,0
+M,135340,78.0,Miami,0
+F,149619,8.0,San Francisco,1
+F,57152,98.0,London,1
+M,112398,20.0,New York City,0
+F,51365,9.0,San Francisco,0
+F,40519,4.0,London,1
+F,1260,6.0,San Francisco,2
+F,76507,48.0,Tokyo,1
+F,86757,18.0,Miami,0
+M,16066,37.0,New York City,1
+F,95524,14.0,San Francisco,2
+M,3245,18.0,New York City,0
+F,13295,65.0,London,0
+F,27323,11.0,Miami,0
+F,34614,8.0,Tokyo,0
+M,70079,22.0,Tokyo,2
+F,58027,13.0,New York City,2
+M,69300,24.0,New York City,2
+M,27236,29.0,New York City,1
+F,20061,10.0,Miami,2
+F,65392,31.0,Miami,0
+M,214,4.0,Miami,3
+F,96789,38.0,San Francisco,0
+F,235412,9.0,Tokyo,1
+F,116083,23.0,Miami,4
+M,161282,10.0,Tokyo,1
+M,237732,22.0,Miami,0
+F,152601,78.0,Tokyo,5
+F,19680,3.0,New York City,1
+M,54258,26.0,Miami,1
+F,78485,17.0,Miami,1
+F,68967,9.0,San Francisco,0
+M,66905,11.0,London,0
+M,32458,2.0,New York City,1
+M,86088,6.0,New York City,2
+F,144711,25.0,Tokyo,0
+M,10296,40.0,Tokyo,3
+F,48200,9.0,London,1
+F,158450,2.0,Miami,0
+F,58417,14.0,London,1
+F,191290,14.0,New York City,1
+F,117355,11.0,New York City,0
+M,37423,26.0,Miami,0
+M,30881,22.0,Miami,1
+F,161158,3.0,San Francisco,3
+F,9224,12.0,San Francisco,0
+F,63924,45.0,Tokyo,5
+M,91996,57.0,Miami,0
+M,16180,2.0,New York City,3
+F,33016,93.0,London,0
+F,150857,31.0,San Francisco,4
+F,42400,2.0,Miami,3
+M,110101,2.0,Tokyo,3
+M,73877,11.0,Tokyo,1
+F,145533,8.0,Miami,1
+F,183689,21.0,Miami,0
+M,185827,2.0,Tokyo,0
+F,78551,26.0,San Francisco,2
+F,19258,64.0,Miami,2
+F,138728,1.0,Miami,1
+F,54261,40.0,Miami,2
+F,123202,32.0,San Francisco,0
+M,58593,4.0,San Francisco,0
+M,5691,29.0,London,1
+M,92710,53.0,London,1
+M,69764,3.0,Tokyo,1
+F,211262,9.0,London,1
+F,116741,9.0,London,1
+F,44645,21.0,London,2
+M,13057,2.0,Tokyo,2
+F,25840,33.0,Tokyo,1
+M,36070,28.0,London,2
+F,37086,52.0,Tokyo,0
+F,181104,15.0,San Francisco,3
+M,43148,25.0,Tokyo,2
+M,59612,22.0,Miami,3
+M,156548,45.0,San Francisco,5
+M,111337,9.0,Miami,2
+M,95459,15.0,Tokyo,0
+F,22674,63.0,Miami,1
+F,135331,59.0,Tokyo,0
+M,156276,57.0,Tokyo,0
+M,151609,4.0,San Francisco,0
+M,22852,66.0,Miami,2
+F,101526,22.0,London,0
+M,45068,32.0,Miami,0
+F,113739,5.0,Miami,1
+M,61590,14.0,Tokyo,2
+M,46920,31.0,San Francisco,4
+F,89609,38.0,New York City,2
+M,6940,34.0,New York City,0
+F,109339,10.0,San Francisco,2
+F,94884,56.0,San Francisco,2
+F,52978,4.0,Miami,0
+M,139651,17.0,Tokyo,1
+F,27195,3.0,London,0
+M,62665,20.0,Tokyo,2
+F,33683,28.0,Miami,3
+M,90906,27.0,New York City,1
+F,39773,2.0,Miami,0
+M,19770,19.0,New York City,0
+M,7546,1.0,San Francisco,0
+F,102610,20.0,San Francisco,2
+M,106652,36.0,San Francisco,3
+F,33737,2.0,Miami,3
+M,30349,63.0,New York City,1
+M,73412,8.0,London,0
+F,132203,29.0,San Francisco,2
+F,3267,0.0,Tokyo,0
+F,33141,0.0,London,0
+F,51944,3.0,Miami,1
+F,30862,32.0,Tokyo,1
+M,51124,47.0,New York City,0
+M,18930,49.0,New York City,1
+M,54938,27.0,Miami,1
+M,91545,4.0,London,1
+M,113347,15.0,Tokyo,0
+F,84259,10.0,San Francisco,0
+M,13670,47.0,Tokyo,0
+M,60219,13.0,San Francisco,0
+F,157485,16.0,Miami,1
+M,51323,37.0,San Francisco,1
+F,154652,14.0,Miami,0
+F,46014,27.0,San Francisco,1
+M,14894,3.0,San Francisco,3
+M,19758,18.0,Miami,4
+F,49141,42.0,Tokyo,0
+F,170984,33.0,San Francisco,1
+F,239314,18.0,London,2
+F,79410,16.0,London,0
+M,10614,15.0,San Francisco,1
+F,64505,42.0,New York City,1
+M,218034,13.0,London,0
+M,72806,9.0,London,0
+F,122579,8.0,New York City,1
+F,60585,0.0,San Francisco,1
+F,87844,32.0,Miami,0
+M,142732,11.0,San Francisco,1
+F,158177,11.0,London,3
+M,16887,79.0,London,1
+M,28607,25.0,New York City,1
+M,117081,9.0,Tokyo,0
+F,78132,40.0,Tokyo,2
+F,108739,43.0,London,0
+M,15287,34.0,Tokyo,0
+F,3370,2.0,Miami,1
+M,25557,37.0,London,0
+F,39120,30.0,Tokyo,2
+M,117010,23.0,Tokyo,1
+M,71178,5.0,London,4
+F,269725,13.0,Miami,0
+M,9000,40.0,London,0
+F,19563,28.0,San Francisco,1
+F,123850,22.0,New York City,2
+M,107500,8.0,Miami,0
+F,136546,28.0,Miami,4
+F,795,17.0,Miami,0
+M,6775,12.0,Miami,0
+M,37665,24.0,Miami,0
+F,25098,21.0,Tokyo,0
+F,120372,11.0,New York City,0
+M,117821,41.0,San Francisco,1
+F,163825,14.0,Miami,0
+M,140061,29.0,San Francisco,1
+F,37825,26.0,London,0
+F,68909,16.0,San Francisco,2
+M,109664,10.0,Tokyo,1
+M,173684,28.0,Tokyo,0
+M,118714,47.0,San Francisco,2
+M,69194,40.0,Miami,1
+M,215681,23.0,New York City,1
+M,181735,2.0,New York City,0
+M,12401,19.0,New York City,1
+F,238844,11.0,Tokyo,0
+F,11202,75.0,San Francisco,0
+M,43838,58.0,London,1
+M,88521,11.0,Tokyo,2
+M,10914,29.0,New York City,1
+M,205856,0.0,New York City,2
+M,20033,29.0,London,3
+M,16017,8.0,London,0
+M,27495,1.0,New York City,1
+F,134063,1.0,London,0
+F,28186,14.0,Tokyo,0
+F,227670,7.0,Tokyo,1
+M,232641,18.0,New York City,0
+M,22557,30.0,San Francisco,0
+M,33621,33.0,Tokyo,1
+F,141521,91.0,San Francisco,1
+F,82585,14.0,Tokyo,2
+M,144778,17.0,San Francisco,2
+F,72329,62.0,Tokyo,0
+F,162162,13.0,London,1
+M,203873,1.0,Tokyo,0
+M,17667,10.0,London,0
+F,73281,30.0,San Francisco,1
+F,65099,24.0,London,1
+M,49773,57.0,New York City,4
+M,17566,19.0,Miami,0
+F,72232,45.0,New York City,0
+M,11310,8.0,Miami,0
+F,12573,29.0,Miami,0
+M,109196,25.0,New York City,2
+F,15809,16.0,London,1
+M,85327,42.0,Tokyo,0
+F,32177,54.0,Tokyo,2
+F,90181,10.0,New York City,2
+M,269133,42.0,San Francisco,3
+M,174768,17.0,Tokyo,1
+F,49539,15.0,San Francisco,1
+M,82626,85.0,Miami,0
+F,77094,18.0,New York City,1
+F,151327,33.0,New York City,2
+M,91607,58.0,San Francisco,0
+M,124241,6.0,San Francisco,1
+M,268771,11.0,Tokyo,1
+F,82449,39.0,San Francisco,1
+F,4593,19.0,Tokyo,0
+F,29298,1.0,Miami,2
+F,192367,10.0,Tokyo,1
+M,54473,43.0,Tokyo,1
+M,37554,3.0,London,0
+M,75358,28.0,New York City,1
+M,24998,11.0,New York City,2
+M,28417,11.0,Miami,3
+M,92662,6.0,San Francisco,4
+M,5048,21.0,Miami,1
+M,8266,39.0,Miami,0
+M,8914,18.0,Tokyo,0
+F,71486,20.0,New York City,1
+F,239741,13.0,San Francisco,1
+F,115613,39.0,London,0
+M,4406,35.0,New York City,5
+M,94332,6.0,San Francisco,1
+M,68640,10.0,Miami,3
+F,138884,43.0,Miami,1
+M,140697,18.0,Tokyo,0
+M,100346,35.0,New York City,2
+M,11003,10.0,London,0
+M,65255,5.0,New York City,1
+F,11021,9.0,New York City,1
+F,34301,41.0,Tokyo,0
+M,214325,16.0,San Francisco,2
+M,23236,50.0,London,1
+M,99456,72.0,London,3
+M,80930,48.0,New York City,1
+M,81825,26.0,London,0
+M,270813,8.0,Tokyo,1
+F,3219,31.0,Tokyo,1
+F,111371,0.0,London,1
+M,69283,22.0,Miami,0
+F,47842,33.0,San Francisco,2
+M,73621,33.0,Tokyo,1
+M,6520,34.0,San Francisco,3
+F,15004,59.0,London,2
+F,109773,41.0,San Francisco,1
+F,8015,5.0,New York City,2
+F,54598,5.0,Tokyo,0
+M,159233,10.0,London,0
+M,41014,12.0,Tokyo,1
+F,11799,14.0,Miami,0
+F,60561,41.0,Miami,0
+M,170322,30.0,Miami,2
+M,73554,50.0,Miami,0
+F,166706,14.0,New York City,3
+M,11770,18.0,Miami,3
+M,12136,50.0,Miami,3
+F,71670,4.0,Tokyo,1
+M,13695,37.0,London,1
+F,57603,7.0,Tokyo,6
+M,4782,15.0,New York City,0
+M,4239,8.0,Miami,1
+M,7434,4.0,New York City,0
+M,160827,15.0,London,0
+F,57820,60.0,San Francisco,1
+F,96354,11.0,London,4
+M,79042,42.0,Tokyo,2
+F,18382,0.0,Tokyo,1
+M,59721,2.0,Miami,0
+F,4250,22.0,Miami,1
+M,194474,19.0,New York City,0
+F,16565,3.0,San Francisco,1
+F,84240,30.0,London,1
+M,75511,9.0,New York City,0
+M,35722,1.0,San Francisco,3
+M,70937,38.0,Tokyo,1
+F,18851,27.0,Miami,0
+M,80980,6.0,London,0
+F,15998,18.0,San Francisco,0
+F,95926,20.0,New York City,0
+F,56378,62.0,New York City,1
+F,168277,30.0,Miami,0
+F,51460,11.0,San Francisco,0
+M,80808,31.0,Miami,2
+M,27696,56.0,San Francisco,0
+M,43901,32.0,New York City,0
+F,105407,15.0,San Francisco,2
+M,132673,39.0,London,6
+M,69692,20.0,New York City,1
+F,121596,21.0,Miami,0
+F,86197,11.0,Miami,3
+M,63116,27.0,London,3
+M,54704,38.0,London,4
+M,212077,20.0,Miami,0
+F,157483,85.0,San Francisco,0
+F,40354,10.0,New York City,1
+M,65,2.0,London,2
+M,36844,9.0,San Francisco,0
+F,138939,16.0,Miami,3
+F,226327,3.0,Tokyo,1
+F,177614,0.0,Miami,2
+F,3903,33.0,Miami,3
+M,36405,22.0,San Francisco,1
+M,24996,27.0,Miami,3
+M,196639,41.0,London,1
+F,34685,51.0,Tokyo,2
+M,25969,32.0,London,0
+M,39022,36.0,Tokyo,1
+F,36976,7.0,San Francisco,0
+F,253065,2.0,Tokyo,2
+M,117399,20.0,London,2
+F,6651,17.0,New York City,1
+F,154479,24.0,San Francisco,1
+M,115858,36.0,London,2
+M,256742,40.0,London,2
+F,68228,27.0,Miami,3
+F,40633,28.0,San Francisco,1
+M,169799,8.0,Tokyo,0
+M,2222,11.0,Tokyo,2
+F,183640,32.0,Tokyo,1
+M,31330,51.0,London,1
+M,71146,34.0,Tokyo,3
+F,136711,3.0,San Francisco,3
+M,1306,15.0,Miami,1
+F,94250,16.0,New York City,0
+F,37599,22.0,Miami,2
+M,70431,28.0,San Francisco,2
+M,17406,21.0,San Francisco,2
+F,82166,44.0,Tokyo,2
+F,46705,0.0,Tokyo,1
+M,37451,48.0,New York City,1
+M,25618,17.0,Tokyo,3
+M,38300,6.0,Miami,2
+M,56182,23.0,Miami,2
+M,214243,10.0,San Francisco,3
+M,45301,41.0,Miami,2
+F,50520,20.0,Tokyo,2
+F,69312,25.0,New York City,1
+F,105573,34.0,Miami,0
+F,84300,34.0,Miami,1
+M,186558,45.0,San Francisco,2
+F,41289,33.0,Miami,0
+F,15406,20.0,Miami,1
+M,63358,20.0,New York City,1
+M,247451,17.0,New York City,0
+F,55981,47.0,London,1
+M,117904,21.0,New York City,3
+M,72355,15.0,Miami,0
+F,135085,3.0,San Francisco,0
+M,13466,19.0,London,0
+M,24658,0.0,San Francisco,2
+F,204211,20.0,Miami,0
+F,163141,18.0,London,0
+M,11864,46.0,New York City,1
+M,33642,36.0,London,0
+M,60505,29.0,New York City,4
+F,117407,41.0,London,4
+F,112114,15.0,San Francisco,0
+M,123751,15.0,Tokyo,3
+M,63649,42.0,New York City,2
+F,27055,46.0,Miami,0
+M,103346,26.0,San Francisco,0
+M,222517,13.0,San Francisco,0
+F,13178,24.0,New York City,0
+F,11872,11.0,London,2
+M,30006,24.0,Tokyo,0
+F,152590,2.0,London,0
+F,56408,42.0,Tokyo,2
+F,197700,25.0,Tokyo,0
+F,131299,5.0,New York City,0
+F,111395,5.0,Miami,0
+F,17003,11.0,Tokyo,1
+F,128049,3.0,Tokyo,2
+F,40489,8.0,San Francisco,4
+F,40277,5.0,San Francisco,2
+F,40863,16.0,London,1
+M,80447,36.0,Tokyo,4
+M,65598,12.0,Tokyo,1
+M,84330,5.0,San Francisco,0
+F,70071,16.0,New York City,1
+M,167783,19.0,New York City,1
+M,100533,12.0,Tokyo,1
+F,106160,3.0,San Francisco,1
+F,184455,23.0,New York City,3
+M,50302,3.0,New York City,0
+F,45802,16.0,San Francisco,2
+F,166971,26.0,New York City,1
+M,58660,13.0,London,1
+M,64065,15.0,San Francisco,2
+F,112079,17.0,London,0
+M,89392,29.0,New York City,0
+M,88323,41.0,New York City,2
+F,87342,11.0,New York City,0
+F,248892,2.0,Miami,0
+F,72121,11.0,San Francisco,1
+F,124280,22.0,Tokyo,2
+F,204003,6.0,Miami,3
+F,44621,65.0,Miami,1
+F,99666,26.0,San Francisco,3
+M,272192,25.0,San Francisco,0
+M,64745,61.0,London,0
+M,141606,23.0,Tokyo,3
+F,90004,5.0,Tokyo,2
+M,269722,8.0,Tokyo,2
+F,71895,22.0,New York City,3
+M,167987,25.0,New York City,0
+M,31040,0.0,Tokyo,0
+F,45124,47.0,New York City,1
+M,25097,7.0,New York City,0
+F,23904,40.0,Tokyo,1
+F,152657,20.0,London,1
+F,55143,39.0,San Francisco,3
+M,153426,20.0,Tokyo,2
+M,40081,44.0,Miami,1
+M,23274,24.0,London,0
+M,86842,38.0,San Francisco,0
+M,1651,9.0,Miami,0
+M,89843,31.0,San Francisco,2
+M,15770,27.0,Miami,3
+F,61453,6.0,New York City,0
+M,59053,4.0,London,0
+F,57602,8.0,San Francisco,3
+F,77277,49.0,Miami,1
+F,68457,16.0,London,0
+M,209344,24.0,New York City,0
+M,221628,21.0,Miami,1
+M,84669,52.0,Tokyo,2
+M,54981,22.0,London,1
+F,12940,13.0,San Francisco,1
+F,137218,44.0,London,2
+F,77301,15.0,London,0
+F,137434,33.0,London,1
+F,56413,10.0,San Francisco,2
+M,115887,1.0,New York City,0
+F,5332,31.0,New York City,0
+M,9100,4.0,Tokyo,3
+F,69927,28.0,San Francisco,1
+M,220529,24.0,London,2
+M,75727,29.0,San Francisco,0
+F,5710,18.0,Tokyo,0
+M,90569,9.0,London,1
+M,48408,3.0,San Francisco,4
+F,3668,33.0,Miami,2
+F,108407,24.0,Tokyo,1
+F,124743,13.0,New York City,0
+F,2471,43.0,New York City,1
+F,84065,21.0,Miami,3
+M,94910,6.0,Tokyo,0
+F,16576,44.0,San Francisco,0
+M,54904,55.0,New York City,1
+M,171166,53.0,Tokyo,0
+F,97989,8.0,Tokyo,0
+M,129968,32.0,Tokyo,2
+M,1311,28.0,Tokyo,0
+F,145117,44.0,Miami,0
+M,34311,13.0,New York City,2
+F,41967,22.0,London,2
+F,10802,7.0,Miami,0
+M,188935,14.0,Tokyo,0
+F,122193,24.0,Tokyo,1
+M,26160,19.0,Tokyo,1
+M,112025,33.0,Tokyo,1
+M,104369,36.0,San Francisco,0
+F,81814,5.0,Miami,1
+F,137241,18.0,Tokyo,1
+F,74122,4.0,Miami,1
+M,364,68.0,San Francisco,1
+M,75901,47.0,London,0
+F,96814,60.0,Miami,0
+M,6439,41.0,San Francisco,1
+M,12553,24.0,London,0
+F,130146,90.0,New York City,1
+M,82190,1.0,Miami,0
+F,78625,45.0,New York City,0
+F,75988,18.0,San Francisco,0
+F,51623,55.0,Tokyo,1
+M,9365,10.0,Tokyo,1
+F,65247,40.0,San Francisco,4
+F,222600,31.0,New York City,0
+F,41864,12.0,Tokyo,1
+M,33161,20.0,Tokyo,3
+M,147491,8.0,London,0
+F,16355,8.0,London,0
+M,80935,21.0,New York City,2
+M,81853,18.0,San Francisco,1
+F,141581,5.0,Miami,0
+F,31187,34.0,London,2
+F,99202,16.0,Tokyo,0
+F,91250,4.0,Miami,0
+M,74248,18.0,Miami,3
+F,66290,15.0,New York City,0
+M,57874,66.0,San Francisco,5
+F,258249,0.0,London,0
+M,121482,42.0,New York City,1
+F,5210,48.0,New York City,2
+M,127608,35.0,New York City,2
+F,36837,29.0,London,2
+M,65433,56.0,Tokyo,2
+M,63020,10.0,San Francisco,2
+F,301032,0.0,Tokyo,0
+M,86450,6.0,New York City,0
+F,133029,39.0,San Francisco,2
+M,155863,39.0,Tokyo,1
+F,202487,32.0,New York City,1
+F,63530,15.0,San Francisco,5
+M,132945,13.0,Miami,0
+F,195998,24.0,Miami,0
+F,5839,34.0,San Francisco,2
+F,1175,36.0,London,2
+M,43611,4.0,New York City,2
+F,118518,0.0,London,0
+M,4147,0.0,New York City,1
+M,91847,15.0,London,0
+F,11999,24.0,Miami,2
+F,188462,53.0,Miami,1
+F,41986,0.0,Tokyo,4
+F,104473,9.0,San Francisco,2
+M,73343,36.0,San Francisco,3
+F,59271,3.0,Tokyo,2
+F,145146,32.0,San Francisco,0
+F,14575,60.0,San Francisco,4
+F,21923,6.0,Tokyo,1
+F,23162,24.0,London,0
+F,36291,27.0,San Francisco,0
+M,46577,6.0,London,0
+F,5812,95.0,London,2
+F,38413,29.0,London,0
+M,22550,11.0,New York City,1
+M,233384,7.0,New York City,3
+M,64478,10.0,Miami,0
+M,2880,31.0,New York City,0
+M,23632,0.0,New York City,0
+F,34612,6.0,New York City,2
+F,991,31.0,San Francisco,2
+M,133162,36.0,San Francisco,0
+F,82310,9.0,Tokyo,1
+F,50132,53.0,Miami,0
+M,139728,10.0,Tokyo,1
+M,119142,1.0,Miami,0
+M,29165,43.0,San Francisco,2
+F,42183,0.0,Miami,0
+F,86306,9.0,New York City,0
+M,36233,52.0,San Francisco,0
+M,27133,22.0,San Francisco,1
+M,46624,37.0,London,0
+M,79569,14.0,San Francisco,1
+M,51207,31.0,London,0
+F,73809,65.0,San Francisco,1
+M,216510,4.0,London,1
+F,124322,12.0,San Francisco,0
+M,181526,15.0,Tokyo,0
+F,92418,57.0,San Francisco,0
+M,174997,30.0,Tokyo,1
+M,58794,34.0,Miami,1
+F,99184,8.0,Miami,2
+F,86263,22.0,New York City,1
+M,5447,66.0,San Francisco,0
+F,24253,27.0,London,3
+F,12205,1.0,San Francisco,4
+M,51203,0.0,Miami,3
+M,49943,18.0,New York City,1
+M,125880,22.0,New York City,1
+M,60740,72.0,Tokyo,0
+M,21555,7.0,London,2
+M,3048,16.0,Miami,0
+F,200286,18.0,San Francisco,0
+M,95177,33.0,London,0
+M,329,34.0,London,3
+M,262761,29.0,London,1
+M,69552,52.0,London,1
+M,97145,21.0,London,2
+M,73048,45.0,Miami,4
+M,7114,37.0,Tokyo,2
+F,637,24.0,Tokyo,0
+M,129551,17.0,Tokyo,0
+F,64858,17.0,Tokyo,1
+F,88675,29.0,London,0
+M,21160,8.0,San Francisco,0
+M,171561,5.0,San Francisco,1
+M,121834,40.0,London,1
+F,179682,11.0,Tokyo,0
+M,79123,85.0,London,2
+M,91002,22.0,Tokyo,0
+M,129727,54.0,New York City,1
+F,26709,6.0,London,0
+F,4850,2.0,London,0
+M,49474,13.0,San Francisco,1
+F,86402,25.0,London,1
+M,21392,16.0,London,0
+F,107776,41.0,San Francisco,2
+M,121744,42.0,London,3
+F,127591,25.0,New York City,0
+M,119528,28.0,San Francisco,1
+M,18141,14.0,Tokyo,0
+F,26974,27.0,Miami,0
+F,50776,1.0,Miami,1
+M,68944,46.0,London,0
+M,117837,2.0,New York City,2
+F,152452,39.0,Tokyo,1
+M,159453,51.0,Tokyo,0
+F,349217,24.0,New York City,0
+M,53792,18.0,New York City,1
+F,9492,8.0,San Francisco,1
+M,177066,16.0,San Francisco,0
+M,37636,3.0,San Francisco,0
+M,110575,26.0,Tokyo,2
+M,90645,3.0,San Francisco,0
+F,89649,55.0,New York City,0
+M,52519,34.0,Tokyo,4
+F,20642,3.0,Miami,3
+M,5777,56.0,San Francisco,2
+F,9841,2.0,London,2
+M,170252,16.0,San Francisco,0
+F,159025,32.0,Miami,0
+M,13525,49.0,London,0
+F,143033,25.0,San Francisco,3
+M,56529,7.0,London,0
+M,58195,7.0,Tokyo,0
+M,14706,57.0,Tokyo,1
+F,69822,37.0,London,3
+M,102654,9.0,San Francisco,1
+F,90680,1.0,London,2
+F,53391,32.0,New York City,0
+F,83514,4.0,New York City,1
+F,235870,75.0,Tokyo,0
+M,14397,15.0,San Francisco,0
+M,169362,7.0,London,0
+F,76650,20.0,Miami,3
+M,40448,13.0,New York City,0
+M,33710,15.0,London,1
+M,43403,23.0,New York City,0
+M,6277,16.0,New York City,0
+F,58482,27.0,London,1
+M,102191,13.0,Miami,0
+M,119497,50.0,Tokyo,2
+M,70850,23.0,New York City,0
+F,41134,48.0,London,0
+F,138751,0.0,New York City,0
+F,59060,23.0,Tokyo,0
+F,121029,0.0,London,2
+M,103970,47.0,Miami,1
+F,52544,32.0,London,3
+M,90618,36.0,Tokyo,1
+M,170659,7.0,New York City,2
+F,93670,8.0,Tokyo,0
+F,113103,11.0,New York City,1
+M,45459,19.0,London,1
+F,831,54.0,London,1
+M,107998,11.0,London,1
+F,65573,47.0,Tokyo,2
+F,126496,57.0,Tokyo,0
+M,232795,10.0,Miami,0
+M,46961,1.0,New York City,1
+F,51432,52.0,San Francisco,0
+M,49409,37.0,London,2
+M,149963,23.0,New York City,1
+F,6676,12.0,Tokyo,0
+F,136904,34.0,Tokyo,0
+M,29698,47.0,Miami,0
+M,192656,5.0,San Francisco,6
+M,15877,9.0,Miami,1
+F,174169,18.0,London,1
+M,122538,25.0,London,0
+M,126275,60.0,Miami,1
+F,110839,33.0,New York City,1
+F,6318,0.0,Miami,2
+M,114753,19.0,London,1
+F,68217,14.0,Tokyo,0
+F,16790,31.0,New York City,1
+M,9539,0.0,Tokyo,2
+F,54555,56.0,Tokyo,0
+F,28270,34.0,San Francisco,0
+M,20206,20.0,London,1
+F,88109,51.0,New York City,0
+M,21397,1.0,New York City,0
+M,38513,4.0,London,1
+F,58256,12.0,Tokyo,2
+M,47172,3.0,New York City,2
+F,90509,28.0,San Francisco,0
+F,84963,11.0,San Francisco,2
+F,242744,10.0,Miami,3
+F,145523,4.0,San Francisco,2
+F,2651,51.0,San Francisco,0
+F,145148,5.0,Miami,0
+F,65334,3.0,London,0
+M,126182,13.0,Miami,2
+F,15220,12.0,San Francisco,1
+M,73107,11.0,Tokyo,1
+M,183196,12.0,New York City,0
+M,140005,7.0,New York City,0
+F,46887,53.0,London,0
+M,21307,59.0,San Francisco,1
+F,76380,12.0,Miami,2
+F,161420,16.0,San Francisco,0
+F,4531,34.0,Tokyo,0
+M,137182,8.0,London,1
+F,50726,49.0,Tokyo,2
+M,25169,14.0,San Francisco,0
+M,183961,4.0,San Francisco,0
+M,24472,14.0,San Francisco,4
+F,67750,18.0,New York City,0
+F,113075,18.0,London,0
+F,62701,42.0,Tokyo,2
+F,4897,53.0,London,3
+F,62983,37.0,Tokyo,0
+M,15973,18.0,Tokyo,2
+F,26716,33.0,Tokyo,1
+F,41076,25.0,London,2
+M,170277,18.0,Tokyo,3
+M,100844,23.0,New York City,0
+M,105977,8.0,London,0
+F,659,30.0,New York City,3
+M,108582,4.0,San Francisco,0
+M,31029,12.0,Tokyo,3
+F,74874,24.0,Tokyo,2
+F,39988,2.0,New York City,2
+M,64870,23.0,Tokyo,0
+M,7025,17.0,Tokyo,0
+F,150525,37.0,San Francisco,2
+F,24482,11.0,London,1
+F,40868,5.0,Miami,1
+M,51172,17.0,Miami,0
+F,102934,9.0,Tokyo,3
+F,24993,1.0,Miami,1
+F,149766,15.0,Tokyo,0
+M,77668,10.0,New York City,1
+F,39591,25.0,New York City,1
+M,87195,16.0,San Francisco,1
+M,146739,25.0,New York City,2
+M,113623,52.0,Tokyo,3
+M,80603,6.0,Tokyo,1
+M,34684,3.0,Tokyo,0
+M,74509,15.0,Miami,1
+F,25769,7.0,Tokyo,1
+F,21425,34.0,San Francisco,0
+M,72881,26.0,London,0
+F,49875,16.0,London,2
+M,147257,4.0,Miami,1
+M,37842,3.0,London,0
+F,141180,8.0,Tokyo,1
+F,57587,19.0,Tokyo,0
+M,37875,41.0,Tokyo,2
+M,178104,13.0,Miami,0
+F,164340,27.0,San Francisco,1
+M,269,39.0,Miami,0
+F,54635,17.0,San Francisco,1
+M,855,6.0,New York City,0
+M,57947,45.0,Miami,1
+F,222423,9.0,Tokyo,0
+F,27032,35.0,San Francisco,1
+M,27828,0.0,Tokyo,1
+F,76771,53.0,San Francisco,0
+F,41020,26.0,Miami,0
+M,47366,7.0,Miami,0
+M,79731,20.0,New York City,0
+F,31384,21.0,Miami,0
+F,108721,12.0,San Francisco,1
+M,102261,24.0,New York City,0
+M,61229,10.0,Miami,2
+F,61946,3.0,Tokyo,1
+M,59772,42.0,London,0
+M,233722,13.0,New York City,0
+F,11541,26.0,Miami,4
+F,18255,1.0,New York City,0
+M,40828,6.0,New York City,3
+F,40808,19.0,San Francisco,1
+F,75081,27.0,New York City,0
+M,203318,39.0,San Francisco,3
+F,126018,46.0,London,0
+F,28473,9.0,London,2
+M,239928,35.0,Tokyo,4
+F,38339,9.0,San Francisco,4
+F,122262,10.0,London,1
+M,22113,28.0,Tokyo,4
+M,241326,20.0,New York City,4
+F,30944,33.0,Tokyo,0
+M,83732,38.0,San Francisco,0
+M,233936,15.0,London,1
+F,183841,14.0,New York City,1
+F,152288,13.0,San Francisco,1
+M,77883,41.0,Tokyo,0
+F,79362,57.0,London,0
+F,4707,25.0,New York City,0
+M,36798,30.0,New York City,3
+M,69890,39.0,Tokyo,0
+M,43384,78.0,Tokyo,3
+M,129833,34.0,London,2
+F,113463,34.0,San Francisco,1
+M,129561,10.0,New York City,2
+F,62523,19.0,New York City,0
+F,53349,23.0,London,0
+F,63691,48.0,San Francisco,1
+M,40399,35.0,Tokyo,1
+M,20453,22.0,London,2
+M,81216,5.0,San Francisco,2
+F,142131,53.0,San Francisco,0
+M,114038,12.0,Tokyo,2
+M,18243,78.0,Miami,5
+M,52598,50.0,Tokyo,2
+F,72641,21.0,San Francisco,1
+M,46396,29.0,New York City,1
+M,111161,29.0,Tokyo,2
+M,32194,12.0,London,0
+F,52554,30.0,Tokyo,0
+M,56391,22.0,Miami,1
+F,88465,10.0,Miami,3
+F,19972,63.0,Miami,0
+F,19037,19.0,New York City,2
+M,71810,6.0,San Francisco,1
+M,76805,63.0,New York City,0
+M,78679,27.0,London,1
+F,45307,22.0,London,1
+M,50034,4.0,San Francisco,2
+M,145672,16.0,San Francisco,0
+F,37644,8.0,Tokyo,2
+F,103509,14.0,Miami,1
+M,10456,21.0,New York City,0
+F,56012,23.0,London,0
+M,135670,22.0,Tokyo,4
+F,130006,7.0,Miami,2
+F,21332,5.0,New York City,0
+F,13575,13.0,San Francisco,2
+F,42958,29.0,Tokyo,0
+M,96963,2.0,London,1
+F,26161,14.0,London,0
+M,75271,28.0,San Francisco,0
+M,70974,34.0,Miami,0
+F,29173,33.0,Miami,0
+M,82390,20.0,London,0
+F,838,8.0,Tokyo,1
+F,10084,40.0,London,0
+M,70187,42.0,New York City,0
+F,29253,12.0,New York City,2
+F,66181,41.0,Miami,2
+F,138045,18.0,New York City,2
+M,85267,14.0,San Francisco,1
+M,20917,39.0,London,2
+M,38039,19.0,London,1
+M,167643,10.0,Miami,3
+M,12354,8.0,Miami,2
+F,17575,25.0,London,1
+F,149615,2.0,London,1
+M,44983,8.0,New York City,0
+M,7244,17.0,New York City,0
+F,107175,0.0,Tokyo,0
+F,2134,55.0,Miami,2
+M,134549,15.0,Tokyo,1
+F,31666,35.0,Tokyo,2
+M,71974,36.0,London,0
+M,23468,15.0,New York City,0
+M,64623,16.0,Miami,2
+M,63008,34.0,Miami,0
+M,56130,9.0,New York City,0
+M,8485,7.0,Miami,3
+F,273579,51.0,New York City,1
+F,108851,9.0,Miami,2
+F,51696,36.0,Tokyo,2
+M,145007,74.0,New York City,2
+F,134954,40.0,San Francisco,3
+M,62518,16.0,London,0
+F,194849,39.0,Tokyo,0
+M,107145,11.0,Tokyo,1
+M,51530,24.0,London,1
+F,66870,3.0,London,1
+M,143634,15.0,New York City,0
+M,106275,18.0,Miami,1
+F,57296,65.0,London,1
+M,105710,56.0,New York City,4
+M,50805,19.0,Tokyo,0
+F,131923,5.0,Tokyo,0
+M,75468,2.0,London,0
+F,84883,27.0,Tokyo,0
+F,152159,20.0,London,0
+F,87946,9.0,Miami,0
+M,71455,14.0,San Francisco,2
+M,188404,20.0,Miami,0
+F,12367,29.0,Miami,2
+M,98469,30.0,Miami,1
+M,135362,9.0,San Francisco,2
+F,113477,37.0,Tokyo,1
+F,120186,47.0,New York City,0
+M,46421,30.0,Miami,0
+M,50185,2.0,London,3
+M,133259,5.0,London,1
+F,51526,48.0,San Francisco,0
+F,78389,1.0,Tokyo,2
+M,90218,23.0,New York City,0
+M,23626,25.0,London,1
+M,120608,62.0,Tokyo,0
+F,114844,22.0,London,0
+M,164041,30.0,Tokyo,4
+M,29415,26.0,Miami,2
+F,51120,16.0,New York City,2
+F,86332,2.0,Miami,0
+F,48600,8.0,Miami,0
+M,48025,13.0,Miami,2
+M,62497,89.0,Miami,3
+M,50274,49.0,Tokyo,0
+F,125913,7.0,Tokyo,0
+M,142212,18.0,Tokyo,1
+M,18758,17.0,London,0
+F,164229,43.0,Miami,0
+M,6645,74.0,Tokyo,0
+M,202945,14.0,Tokyo,0
+F,61933,8.0,New York City,0
+F,15332,52.0,London,0
+M,69662,65.0,San Francisco,1
+M,18712,31.0,San Francisco,2
+F,114482,17.0,London,1
+M,39351,10.0,New York City,1
+M,135803,14.0,Miami,0
+M,22548,28.0,Tokyo,2
+F,115050,80.0,San Francisco,1
+M,151017,27.0,Tokyo,1
+M,58525,15.0,London,0
+F,10166,11.0,London,1
+F,164322,48.0,New York City,3
+M,59673,25.0,San Francisco,0
+F,44077,11.0,Tokyo,0
+M,108238,15.0,London,0
+M,98575,16.0,New York City,1
+F,24307,6.0,San Francisco,0
+F,49640,1.0,New York City,3
+M,95274,0.0,San Francisco,0
+F,43235,24.0,London,3
+M,64195,24.0,New York City,0
+M,160585,9.0,London,0
+M,52804,37.0,New York City,1
+M,148965,25.0,San Francisco,3
+M,104629,11.0,San Francisco,1
+F,15851,22.0,Tokyo,0
+M,142588,23.0,Miami,0
+M,114171,26.0,London,2
+M,193464,35.0,New York City,3
+F,103939,11.0,Tokyo,1
+F,7520,14.0,London,1
+F,232512,5.0,London,0
+F,63228,13.0,San Francisco,1
+F,37837,33.0,Miami,0
+F,104643,37.0,San Francisco,0
+F,84402,24.0,San Francisco,3
+M,199158,18.0,New York City,0
+F,90185,39.0,Tokyo,3
+M,165706,79.0,New York City,1
+F,48338,13.0,Tokyo,3
+M,18166,20.0,London,0
+M,48178,2.0,Tokyo,1
+M,106660,9.0,Miami,1
+F,61332,46.0,San Francisco,0
+F,197569,3.0,Miami,1
+M,94329,5.0,Tokyo,0
+F,84274,23.0,Miami,0
+F,40327,19.0,San Francisco,0
+M,180357,48.0,Tokyo,1
+F,30422,22.0,San Francisco,3
+M,134580,8.0,San Francisco,3
+F,63774,28.0,Tokyo,0
+F,2428,11.0,New York City,2
+M,126182,41.0,Tokyo,1
+F,30437,16.0,Miami,1
+F,11918,6.0,New York City,2
+M,132324,11.0,Tokyo,1
+M,7397,21.0,Tokyo,0
+F,82235,12.0,London,1
+M,61984,41.0,Tokyo,1
+F,171957,31.0,New York City,1
+M,125090,30.0,Tokyo,2
+M,40134,7.0,New York City,0
+M,85932,14.0,Miami,4
+F,99251,2.0,Tokyo,4
+F,128608,16.0,San Francisco,2
+F,117813,6.0,Tokyo,2
+M,71746,2.0,New York City,0
+F,131209,36.0,London,2
+M,34210,13.0,London,3
+F,1025,14.0,New York City,1
+F,16847,35.0,Miami,1
+M,73254,9.0,Miami,2
+M,105938,20.0,London,0
+F,78160,2.0,Tokyo,1
+F,88384,25.0,London,2
+F,56386,12.0,Tokyo,1
+F,147609,17.0,London,0
+F,44639,4.0,New York City,2
+M,59812,38.0,San Francisco,3
+F,38850,46.0,San Francisco,0
+F,10853,12.0,San Francisco,0
+F,72417,24.0,New York City,1
+F,17251,15.0,Miami,2
+M,41619,43.0,Tokyo,1
+F,84417,10.0,London,5
+F,37751,13.0,San Francisco,0
+M,57548,24.0,San Francisco,2
+F,83083,48.0,Miami,2
+M,87771,42.0,Miami,1
+F,84036,14.0,New York City,1
+F,30949,44.0,Tokyo,2
+F,189055,31.0,Miami,1
+F,45443,11.0,Tokyo,1
+F,48640,20.0,New York City,2
+M,89163,17.0,London,1
+F,4656,2.0,San Francisco,1
+M,19724,6.0,Miami,5
+F,1289,43.0,New York City,2
+F,90398,42.0,Tokyo,0
+M,68240,15.0,Tokyo,0
+F,51381,28.0,Miami,1
+F,57211,17.0,London,0
+F,150026,20.0,London,1
+F,63502,38.0,Miami,3
+F,1848,0.0,London,2
+M,22499,27.0,New York City,1
+F,59535,3.0,New York City,1
+M,51174,35.0,New York City,0
+M,32618,26.0,London,1
+M,43654,22.0,Tokyo,0
+F,209652,19.0,London,0
+F,49576,50.0,London,1
+F,54372,9.0,San Francisco,2
+M,69398,44.0,New York City,0
+F,30418,19.0,New York City,0
+M,47109,40.0,New York City,0
+F,108652,6.0,San Francisco,1
+M,78763,13.0,Miami,4
+F,25886,36.0,London,1
+F,208431,31.0,Tokyo,1
+M,123550,41.0,San Francisco,1
+F,209440,10.0,New York City,0
+F,26007,25.0,Miami,1
+F,115215,60.0,Miami,0
+M,197043,31.0,Miami,1
+M,27422,52.0,San Francisco,4
+F,106173,17.0,San Francisco,1
+M,90330,11.0,Tokyo,0
+F,968,4.0,Miami,0
+F,72196,7.0,New York City,3
+M,159082,18.0,New York City,2
+F,102856,15.0,Miami,3
+M,69781,29.0,San Francisco,0
+M,308439,25.0,New York City,0
+F,157589,20.0,New York City,0
+F,137834,22.0,London,1
+M,20988,22.0,New York City,1
+M,59679,66.0,Miami,0
+M,39901,47.0,London,1
+M,43108,36.0,Miami,1
+F,17553,13.0,Tokyo,1
+M,102814,22.0,London,1
+F,93500,30.0,San Francisco,0
+F,111358,13.0,San Francisco,0
+F,41357,16.0,New York City,2
+F,56372,6.0,New York City,0
+M,43518,2.0,London,3
+M,133176,33.0,San Francisco,2
+F,29481,16.0,New York City,1
+M,20333,40.0,New York City,2
+M,30579,10.0,San Francisco,2
+M,135378,4.0,Miami,1
+F,39052,4.0,Tokyo,3
+M,169761,7.0,Miami,1
+F,61506,26.0,London,0
+F,65557,1.0,New York City,2
+F,160961,6.0,Miami,0
+F,108689,31.0,New York City,0
+F,44484,11.0,Miami,1
+M,115928,53.0,London,1
+M,44230,56.0,Tokyo,0
+F,116660,23.0,Miami,1
+M,74023,0.0,Tokyo,0
+F,157344,19.0,Tokyo,1
+M,109523,8.0,New York City,1
+M,17762,63.0,New York City,3
+F,119322,0.0,New York City,0
+M,35398,74.0,Miami,3
+M,20915,23.0,Tokyo,1
+F,50706,21.0,London,3
+F,39740,32.0,London,0
+M,10035,18.0,San Francisco,2
+M,91175,15.0,Tokyo,2
+M,129985,29.0,Miami,0
+M,62291,22.0,Tokyo,2
+M,105167,1.0,San Francisco,0
+F,24322,3.0,San Francisco,0
+F,9649,49.0,San Francisco,0
+F,101033,17.0,London,0
+F,49835,21.0,New York City,0
+M,152873,20.0,London,1
+F,76430,48.0,Miami,1
+F,8786,35.0,Tokyo,2
+M,215464,33.0,Miami,3
+F,98899,10.0,London,1
+M,131832,44.0,Tokyo,0
+M,100204,17.0,London,1
+F,122757,26.0,Miami,1
+F,23648,2.0,Miami,0
+M,8488,29.0,London,3
+M,75793,0.0,San Francisco,0
+M,63838,14.0,London,1
+F,58657,17.0,London,0
+M,54196,6.0,New York City,0
+M,24864,21.0,New York City,0
+F,72316,34.0,Miami,1
+F,54007,71.0,Miami,3
+M,7111,2.0,Tokyo,0
+M,87524,12.0,London,0
+F,21320,26.0,New York City,1
+F,3103,3.0,San Francisco,0
+F,88563,49.0,London,4
+M,16497,8.0,London,1
+F,56936,2.0,San Francisco,0
+M,87289,51.0,Miami,3
+F,2760,5.0,New York City,0
+F,53475,8.0,Miami,2
+M,87457,9.0,New York City,1
+M,61133,39.0,Tokyo,1
+F,11748,17.0,London,3
+F,185248,16.0,San Francisco,0
+M,37079,25.0,New York City,0
+M,71976,22.0,Miami,0
+M,23949,0.0,Miami,0
+F,97472,1.0,London,3
+F,112039,19.0,Tokyo,0
+M,28282,24.0,London,1
+F,20983,13.0,Miami,0
+F,43150,30.0,Miami,0
+M,321,10.0,London,1
+M,159791,2.0,London,0
+F,104943,32.0,London,4
+F,110120,27.0,Miami,0
+F,52511,0.0,London,2
+M,119719,3.0,Miami,1
+M,81998,93.0,Tokyo,2
+M,2334,47.0,Miami,3
+M,125458,37.0,Tokyo,2
+M,96130,9.0,San Francisco,2
+M,155578,38.0,London,2
+F,21671,16.0,Tokyo,0
+F,36527,5.0,Tokyo,0
+M,197615,11.0,New York City,2
+M,2287,4.0,Tokyo,1
+F,130243,67.0,Miami,1
+M,97615,27.0,Tokyo,0
+F,5187,1.0,London,1
+F,50392,3.0,New York City,1
+F,34977,23.0,San Francisco,1
+M,58091,8.0,Tokyo,3
+M,200574,6.0,Tokyo,1
+F,133905,10.0,Miami,0
+M,40465,40.0,Tokyo,0
+M,180115,27.0,Tokyo,1
+F,102359,9.0,London,1
+F,50591,48.0,San Francisco,0
+M,147221,38.0,San Francisco,0
+F,2474,51.0,London,1
+F,85030,19.0,London,2
+M,55909,3.0,Miami,0
+F,44660,30.0,London,0
+M,4651,26.0,Miami,0
+F,120535,5.0,New York City,3
+F,60039,23.0,Miami,0
+F,213521,1.0,Miami,0
+F,65241,8.0,London,1
+F,42422,28.0,London,0
+M,54325,29.0,London,1
+F,54751,5.0,Tokyo,1
+F,37821,32.0,London,0
+F,74616,22.0,Tokyo,0
+M,129644,23.0,London,2
+F,90951,13.0,Tokyo,0
+F,106330,33.0,San Francisco,2
+F,105391,18.0,Tokyo,4
+F,66069,17.0,Miami,0
+F,142799,37.0,Tokyo,0
+F,1188,23.0,San Francisco,4
+F,61713,36.0,San Francisco,1
+M,214856,49.0,Miami,0
+F,25747,1.0,New York City,1
+M,86055,13.0,Miami,1
+M,74616,44.0,Miami,2
+F,6938,8.0,San Francisco,3
+M,32647,24.0,London,1
+M,76832,2.0,New York City,1
+F,120917,0.0,New York City,1
+M,100738,9.0,London,0
+M,63178,47.0,Tokyo,2
+M,61334,44.0,Miami,0
+F,20029,12.0,Miami,2
+F,157342,71.0,San Francisco,3
+F,70442,12.0,New York City,0
+F,25884,2.0,London,0
+M,29452,16.0,London,2
+M,201816,58.0,New York City,2
+F,97724,59.0,Miami,1
+F,51767,0.0,Tokyo,2
+M,139840,34.0,Tokyo,1
+F,10857,49.0,London,1
+M,108497,45.0,Tokyo,1
+F,17995,43.0,Tokyo,0
+M,117797,5.0,New York City,1
+M,99730,9.0,Miami,0
+M,54766,11.0,San Francisco,0
+M,5520,33.0,New York City,5
+M,83831,19.0,San Francisco,1
+M,4711,1.0,San Francisco,1
+F,18362,40.0,Miami,0
+M,40063,36.0,London,0
+F,68229,26.0,Tokyo,1
+F,83739,36.0,San Francisco,3
+M,7014,16.0,London,1
+M,58462,13.0,Miami,0
+F,64023,11.0,New York City,2
+M,31813,21.0,New York City,0
+F,107467,33.0,New York City,1
+F,83317,0.0,Miami,1
+M,84397,30.0,Miami,2
+M,16070,29.0,New York City,0
+M,95004,60.0,New York City,0
+F,35970,9.0,New York City,1
+M,61926,26.0,Tokyo,0
+F,36099,31.0,Miami,1
+F,78297,3.0,San Francisco,1
+M,176315,11.0,London,1
+M,59920,22.0,New York City,3
+F,10232,16.0,Tokyo,4
+F,68274,45.0,Miami,2
+F,33734,8.0,San Francisco,0
+F,63938,53.0,New York City,0
+M,40210,5.0,Miami,1
+M,67779,11.0,London,0
+F,23697,14.0,San Francisco,0
+M,103622,28.0,Miami,3
+F,4051,27.0,Tokyo,0
+F,5077,1.0,New York City,0
+M,2453,15.0,New York City,1
+F,105651,51.0,New York City,1
+F,46511,2.0,Miami,1
+F,117823,17.0,San Francisco,1
+F,136123,2.0,New York City,1
+M,156201,38.0,Miami,1
+M,163850,15.0,London,4
+M,14860,3.0,Tokyo,1
+M,140010,16.0,Tokyo,0
+F,3795,22.0,Miami,3
+M,189009,42.0,Miami,1
+M,10854,54.0,New York City,2
+M,42807,33.0,Tokyo,0
+M,9070,38.0,London,0
+F,62930,32.0,Miami,1
+F,129167,29.0,San Francisco,1
+M,101825,57.0,London,2
+M,71740,16.0,San Francisco,3
+M,73566,0.0,New York City,1
+F,34963,8.0,Miami,3
+F,74234,2.0,New York City,5
+F,46244,45.0,Tokyo,0
+F,93658,32.0,Miami,1
+F,17396,42.0,Tokyo,1
+F,55116,8.0,London,0
+M,39605,47.0,London,0
+F,88421,37.0,Miami,2
+M,38306,27.0,Tokyo,0
+F,70477,12.0,Tokyo,0
+F,190862,1.0,Tokyo,2
+F,92600,18.0,Tokyo,1
+M,175087,27.0,Tokyo,2
+F,149130,44.0,London,1
+M,35424,16.0,Tokyo,0
+M,40840,53.0,Miami,5
+F,29480,2.0,Tokyo,0
+M,86484,21.0,Tokyo,1
+F,221969,9.0,Tokyo,0
+M,84950,9.0,San Francisco,0
+F,91886,5.0,London,2
+F,26109,13.0,San Francisco,0
+M,41691,23.0,San Francisco,0
+F,37788,45.0,Tokyo,0
+F,33107,42.0,New York City,5
+M,72876,9.0,Tokyo,2
+F,107672,9.0,London,2
+M,124815,2.0,London,0
+M,144161,2.0,Miami,2
+M,61025,8.0,Tokyo,1
+M,65389,3.0,New York City,0
+F,5961,51.0,London,1
+M,34311,0.0,San Francisco,0
+M,129934,2.0,San Francisco,0
+F,39435,28.0,Miami,1
+F,28931,26.0,New York City,2
+F,73575,45.0,New York City,0
+F,127385,26.0,Miami,0
+M,100081,13.0,San Francisco,0
+M,64045,11.0,New York City,1
+M,43994,9.0,London,2
+M,73818,25.0,Tokyo,0
+F,134522,27.0,Tokyo,0
+M,75875,31.0,San Francisco,0
+M,124838,51.0,San Francisco,0
+M,43729,38.0,Miami,0
+F,5206,4.0,London,1
+M,64836,30.0,Miami,1
+F,24843,15.0,Miami,2
+M,11215,0.0,San Francisco,1
+F,6143,22.0,New York City,0
+M,82797,32.0,New York City,1
+F,50280,43.0,San Francisco,1
+F,68666,21.0,Miami,0
+F,166664,7.0,Miami,0
+M,110908,60.0,London,0
+M,113456,19.0,Tokyo,2
+M,24430,28.0,Tokyo,2
+F,98935,2.0,Miami,1
+M,219249,35.0,New York City,0
+M,141053,11.0,Miami,0
+M,62379,27.0,Tokyo,0
+F,181611,35.0,Miami,2
+F,44080,32.0,London,1
+M,94403,30.0,London,2
+F,48139,19.0,Miami,0
+M,70843,25.0,Tokyo,5
+F,128050,17.0,New York City,0
+F,171016,7.0,London,2
+F,4802,20.0,Miami,1
+F,40687,5.0,New York City,2
+M,159053,42.0,New York City,0
+F,39548,28.0,Tokyo,2
+M,69785,14.0,London,2
+F,12879,37.0,San Francisco,3
+F,25508,22.0,New York City,0
+F,146135,3.0,Tokyo,0
+F,90661,49.0,Miami,1
+M,146116,33.0,Miami,0
+F,197212,5.0,New York City,2
+F,92322,33.0,London,0
+M,4112,8.0,New York City,0
+M,49892,7.0,London,0
+F,147177,6.0,New York City,0
+F,48270,6.0,New York City,0
+M,74452,2.0,Miami,1
+M,139459,65.0,San Francisco,1
+F,121975,16.0,New York City,1
+F,68034,48.0,London,1
+M,89904,19.0,Miami,0
+F,136008,38.0,London,4
+F,80002,3.0,Miami,0
+F,223346,60.0,New York City,0
+F,4256,3.0,Miami,0
+M,53803,47.0,London,1
+M,167379,51.0,New York City,5
+M,85298,20.0,London,1
+F,193686,15.0,London,0
+M,20302,11.0,London,2
+F,101999,16.0,Miami,1
+M,66431,72.0,San Francisco,2
+M,70011,2.0,San Francisco,1
+M,7151,6.0,San Francisco,3
+F,237556,1.0,New York City,2
+M,83502,34.0,Tokyo,0
+M,41676,3.0,Miami,1
+M,84152,30.0,London,0
+M,49577,10.0,Tokyo,3
+M,33357,31.0,London,0
+F,86172,35.0,San Francisco,1
+F,126484,1.0,Tokyo,4
+F,13979,31.0,San Francisco,1
+M,51419,32.0,Miami,3
+M,24499,32.0,London,2
+F,18607,15.0,London,0
+M,23021,13.0,Tokyo,0
+M,21587,48.0,Miami,1
+M,3078,33.0,Tokyo,2
+M,25207,26.0,New York City,4
+M,75350,11.0,London,4
+F,112651,10.0,Tokyo,1
+F,3262,49.0,London,0
+F,28058,11.0,Miami,4
+M,59073,52.0,Tokyo,1
+M,20131,18.0,Tokyo,1
+F,79250,56.0,Tokyo,2
+M,178832,22.0,Tokyo,2
+M,264791,14.0,New York City,0
+F,169435,11.0,New York City,2
+M,55466,63.0,San Francisco,4
+F,2192,35.0,New York City,1
+F,122615,29.0,Miami,2
+F,155520,60.0,New York City,5
+F,54352,30.0,London,0
+F,15335,22.0,Tokyo,1
+F,76297,5.0,New York City,0
+M,18325,8.0,London,0
+F,36763,29.0,New York City,2
+F,47446,1.0,San Francisco,1
+M,22153,20.0,New York City,1
+F,43089,49.0,Tokyo,3
+M,178175,18.0,Miami,0
+F,24747,29.0,Miami,0
+M,88817,70.0,Tokyo,3
+M,125634,22.0,Tokyo,1
+M,15572,3.0,Miami,0
+M,45536,10.0,Miami,1
+F,94286,81.0,New York City,0
+F,19630,59.0,Miami,0
+F,58373,41.0,Tokyo,1
+M,3388,26.0,London,0
+M,77935,35.0,San Francisco,2
+M,154135,39.0,San Francisco,1
+M,103790,29.0,Miami,0
+F,174928,31.0,New York City,4
+F,19800,8.0,New York City,5
+F,31520,13.0,San Francisco,0
+F,36583,20.0,San Francisco,2
+F,61219,11.0,London,0
+M,6053,6.0,San Francisco,1
+M,18669,31.0,Tokyo,1
+M,141755,33.0,London,0
+F,26718,18.0,New York City,0
+F,94232,26.0,Tokyo,1
+M,57935,24.0,Tokyo,0
+M,89500,10.0,London,5
+F,5059,37.0,Miami,1
+M,54428,57.0,Miami,1
+M,91461,34.0,New York City,0
+F,4813,22.0,San Francisco,0
+F,105047,37.0,New York City,1
+F,87254,4.0,Miami,1
+M,181843,1.0,Miami,1
+M,14205,16.0,Miami,2
+M,186301,17.0,Tokyo,1
+F,25763,18.0,San Francisco,0
+F,56115,37.0,San Francisco,0
+F,70155,13.0,London,2
+M,58231,5.0,New York City,1
+M,62566,18.0,New York City,4
+M,17510,23.0,Miami,1
+F,156773,13.0,New York City,0
+M,282909,25.0,Miami,0
+F,8254,39.0,San Francisco,4
+F,9909,12.0,Miami,3
+F,6975,7.0,Tokyo,1
+F,138753,34.0,San Francisco,0
+F,33734,73.0,San Francisco,1
+M,102529,2.0,Miami,3
+M,30492,6.0,Tokyo,1
+M,133330,53.0,London,0
+M,15073,6.0,Tokyo,1
+F,56487,18.0,San Francisco,1
+F,96111,17.0,Miami,1
+M,136833,8.0,London,3
+F,90181,7.0,San Francisco,0
+F,56847,0.0,London,2
+F,94188,26.0,San Francisco,0
+M,17628,44.0,San Francisco,1
+M,21460,23.0,Tokyo,2
+M,40357,8.0,Tokyo,1
+F,124315,13.0,London,2
+F,26235,21.0,Miami,3
+M,121818,65.0,Tokyo,0
+M,142142,28.0,Miami,1
+F,95454,45.0,London,0
+M,13593,39.0,New York City,1
+F,71972,33.0,Tokyo,2
+F,193,8.0,Miami,2
+M,52221,9.0,New York City,0
+M,79664,7.0,New York City,1
+F,28342,38.0,Miami,2
+M,128851,14.0,San Francisco,1
+M,41221,3.0,Tokyo,1
+F,65269,9.0,London,0
+M,78678,6.0,Miami,1
+M,36251,7.0,San Francisco,1
+M,131186,12.0,Tokyo,1
+F,77197,34.0,Tokyo,0
+M,48474,59.0,Miami,1
+F,38966,3.0,London,1
+M,145129,21.0,San Francisco,0
+F,206592,64.0,Miami,0
+M,107757,1.0,San Francisco,0
+F,97807,7.0,San Francisco,4
+M,1483,19.0,Tokyo,0
+M,149723,1.0,London,1
+F,98429,2.0,San Francisco,1
+F,27464,0.0,Tokyo,2
+F,39368,18.0,Miami,2
+F,78894,55.0,Tokyo,1
+M,56291,41.0,Tokyo,1
+M,74639,48.0,London,0
+M,52374,2.0,New York City,1
+M,77518,50.0,London,0
+M,122550,22.0,New York City,1
+M,193385,71.0,Miami,2
+M,152355,61.0,Miami,1
+M,24684,8.0,Tokyo,2
+M,51575,60.0,Tokyo,2
+M,181435,11.0,Tokyo,3
+M,35372,17.0,London,3
+M,121323,6.0,New York City,0
+F,54750,17.0,San Francisco,1
+M,130343,27.0,London,2
+M,148827,56.0,Miami,4
+F,12043,20.0,Miami,0
+M,74191,6.0,London,4
+M,43974,36.0,New York City,0
+M,119239,41.0,San Francisco,1
+F,29019,9.0,San Francisco,1
+M,184612,27.0,San Francisco,0
+M,7913,8.0,New York City,1
+M,134918,36.0,San Francisco,2
+M,68817,12.0,Miami,1
+M,23515,45.0,Tokyo,1
+M,119600,22.0,San Francisco,0
+M,173991,18.0,New York City,0
+M,107098,4.0,London,1
+F,96215,20.0,London,3
+F,79312,19.0,Tokyo,0
+M,17168,9.0,Tokyo,2
+M,10289,46.0,Tokyo,2
+F,299191,25.0,Miami,2
+M,219824,34.0,New York City,0
+F,191929,44.0,New York City,1
+M,54900,19.0,Tokyo,1
+F,29815,5.0,Miami,0
+M,59594,50.0,London,0
+M,22334,0.0,London,0
+F,69124,30.0,New York City,1
+F,110943,4.0,Miami,2
+F,116011,7.0,New York City,1
+M,13311,24.0,New York City,0
+F,86275,50.0,London,3
+F,75073,16.0,Tokyo,2
+M,19482,21.0,Miami,0
+M,12653,26.0,Tokyo,1
+F,33140,51.0,New York City,2
+F,216979,6.0,New York City,1
+M,59740,1.0,San Francisco,0
+M,73828,14.0,New York City,1
+F,8001,14.0,San Francisco,2
+F,104348,41.0,Tokyo,3
+M,5151,47.0,Tokyo,4
+M,43126,7.0,Tokyo,0
+M,10595,9.0,San Francisco,2
+M,17248,11.0,Miami,0
+M,4460,32.0,San Francisco,1
+F,16506,6.0,Miami,1
+F,85002,0.0,London,0
+M,63038,4.0,San Francisco,0
+M,8417,28.0,San Francisco,2
+F,12574,34.0,Tokyo,2
+F,231358,37.0,London,2
+F,26106,7.0,London,0
+M,116043,64.0,London,2
+F,67674,11.0,New York City,0
+M,32346,24.0,London,0
+F,225719,11.0,Miami,5
+F,32833,43.0,Tokyo,0
+F,55264,11.0,London,4
+M,225448,10.0,Miami,0
+M,140898,7.0,San Francisco,1
+M,48954,17.0,San Francisco,0
+F,67230,14.0,Tokyo,0
+F,29355,12.0,London,0
+M,136125,4.0,New York City,3
+M,228811,12.0,San Francisco,0
+M,13551,19.0,Tokyo,1
+M,13186,1.0,New York City,3
+F,18375,33.0,Tokyo,1
+M,39446,11.0,San Francisco,0
+F,40202,10.0,Tokyo,0
+F,73791,30.0,New York City,0
+F,67271,56.0,San Francisco,0
+F,103573,18.0,Miami,1
+F,89874,21.0,Tokyo,3
+F,74302,29.0,Miami,2
+F,128478,17.0,New York City,0
+F,52915,27.0,Tokyo,0
+F,163114,29.0,London,1
+F,73477,28.0,Tokyo,0
+M,143802,37.0,New York City,1
+F,71370,7.0,Tokyo,0
+F,2710,30.0,New York City,1
+F,98874,41.0,Miami,1
+F,145392,7.0,New York City,0
+M,10347,2.0,London,1
+M,27760,7.0,San Francisco,0
+F,127883,17.0,San Francisco,3
+M,87888,65.0,London,1
+F,71328,12.0,Tokyo,0
+M,32418,15.0,New York City,1
+F,106183,12.0,London,0
+M,109916,68.0,San Francisco,0
+F,186187,31.0,Tokyo,1
+M,99655,13.0,London,0
+M,196741,72.0,Miami,2
+M,104807,29.0,San Francisco,1
+M,93957,67.0,New York City,0
+M,85651,1.0,New York City,1
+M,115704,2.0,Miami,0
+F,14307,26.0,Tokyo,2
+M,55852,5.0,New York City,0
+M,152210,35.0,San Francisco,1
+F,51706,20.0,San Francisco,0
+M,140121,7.0,London,3
+M,46924,7.0,Miami,4
+F,56161,29.0,Miami,0
+F,29363,9.0,New York City,1
+M,78264,92.0,San Francisco,0
+F,39211,35.0,New York City,1
+M,64842,35.0,Tokyo,2
+M,64489,69.0,London,1
+M,3299,22.0,San Francisco,0
+M,158365,12.0,Tokyo,0
+M,90302,21.0,Tokyo,3
+M,19179,22.0,San Francisco,1
+F,62992,4.0,New York City,0
+M,18767,46.0,Tokyo,3
+F,32758,4.0,San Francisco,0
+F,79452,4.0,New York City,5
+F,135336,67.0,London,0
+F,13590,6.0,Tokyo,0
+F,59827,14.0,Miami,2
+F,77058,5.0,London,0
+F,4723,31.0,San Francisco,0
+F,55707,28.0,Miami,3
+F,137377,8.0,San Francisco,2
+M,73221,36.0,Miami,0
+M,73732,56.0,London,0
+F,168086,13.0,New York City,0
+F,28243,13.0,New York City,0
+F,9850,3.0,New York City,3
+F,124484,11.0,New York City,3
+M,95525,35.0,Tokyo,1
+F,74952,73.0,Tokyo,1
+M,47649,25.0,Tokyo,2
+M,57077,20.0,Tokyo,0
+F,6881,25.0,New York City,1
+F,42084,21.0,San Francisco,1
+F,5952,4.0,New York City,0
+M,90750,71.0,New York City,1
+F,63961,2.0,Tokyo,1
+M,33757,24.0,Miami,0
+M,34688,25.0,New York City,1
+M,29639,30.0,Miami,2
+F,225155,8.0,San Francisco,2
+M,135818,5.0,Miami,0
+M,75425,6.0,London,1
+F,68252,3.0,New York City,0
+F,150205,17.0,London,1
+F,84987,30.0,Tokyo,0
+M,3020,89.0,New York City,0
+F,26173,34.0,Tokyo,0
+M,88858,14.0,Miami,3
+M,19444,13.0,Miami,2
+M,143009,10.0,Tokyo,0
+F,212261,28.0,San Francisco,1
+M,70228,12.0,San Francisco,0
+M,64995,14.0,New York City,0
+M,56144,4.0,New York City,2
+F,110977,29.0,London,0

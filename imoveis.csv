@@ -1,0 +1,11 @@
+ID_Imovel,Tipo,Bairro,Quartos,Banheiros,Vagas,Área,Valor,Status
+101,Apartamento,Pinheiros,2,2,1.0,70,950000,Disponível
+102,Casa,Moema,4,3,3.0,200,2800000,Vendido
+103,Apartamento,Itaim Bibi,3,3,2.0,120,2100000,Disponível
+104,Cobertura,Pinheiros,3,4,3.0,180,2500000,Disponível
+105,Casa,Vila Madalena,5,4,4.0,350,4200000,Vendido
+106,Apartamento,Itaim Bibi,1,1,0.0,45,600000,Disponível
+107,Apartamento,Moema,2,2,2.0,85,1100000,Disponível
+108,Casa,Pinheiros,3,2,2.0,150,1900000,Disponível
+109,Cobertura,Vila Madalena,4,5,,300,5100000,Vendido
+110,Apartamento,Itaim Bibi,2,2,2.0,95,1350000,Disponível
