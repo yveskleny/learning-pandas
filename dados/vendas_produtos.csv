@@ -1,0 +1,101 @@
+Cidade,Preco_venda,Dia_semana,Tipo_venda,Desconto,Lucro
+Curitiba,77.0,Domingo,Remota,Sim,19.24
+Porto Alegre,184.0,Quarta,Remota,Sim,88.37
+Belo Horizonte,250.0,Sábado,Remota,Não,98.2
+Porto Alegre,889.0,Segunda,Remota,Sim,301.78
+Porto Alegre,829.0,Quinta,Online,Sim,134.64
+Rio de Janeiro,979.0,Segunda,Online,Não,158.99
+Belo Horizonte,82.0,Sábado,Remota,Sim,10.11
+Belo Horizonte,97.0,Segunda,Online,Sim,43.31
+Belo Horizonte,552.0,Terça,Online,Sim,187.93
+Porto Alegre,456.0,Quinta,Online,Não,174.75
+Curitiba,623.0,Quinta,Online,Sim,67.43
+Belo Horizonte,777.0,Sábado,Remota,Não,379.15
+Porto Alegre,854.0,Domingo,Online,Sim,369.76
+Rio de Janeiro,148.0,Terça,Online,Sim,27.37
+Curitiba,733.0,Quarta,Remota,Sim,126.61
+Rio de Janeiro,921.0,Segunda,Remota,Não,159.67
+Curitiba,775.0,Sexta,Online,Sim,171.82
+Porto Alegre,596.0,Segunda,Online,Sim,184.7
+São Paulo,788.0,Segunda,Online,Não,214.95
+Curitiba,662.0,Quarta,Online,Sim,143.32
+Rio de Janeiro,992.0,Segunda,Online,Não,341.98
+Porto Alegre,511.0,Terça,Online,Não,79.61
+Curitiba,692.0,Terça,Remota,Sim,150.07
+São Paulo,818.0,Quinta,Online,Não,201.67
+São Paulo,54.0,Sábado,Online,Sim,15.25
+Belo Horizonte,267.0,Domingo,Remota,Não,110.56
+Belo Horizonte,552.0,Sexta,Remota,Não,99.29
+Rio de Janeiro,816.0,Segunda,Remota,Sim,249.45
+Curitiba,447.0,Segunda,Remota,Não,150.62
+Curitiba,920.0,Quarta,Online,Não,109.09
+Belo Horizonte,844.0,Sábado,Online,Não,289.51
+Curitiba,442.0,Terça,Online,Não,74.35
+Curitiba,256.0,Sexta,Online,Não,32.26
+São Paulo,64.0,Quinta,Online,Sim,30.69
+Belo Horizonte,907.0,Terça,Online,Não,441.03
+Porto Alegre,603.0,Sábado,Remota,Sim,255.29
+Belo Horizonte,941.0,Domingo,Online,Não,208.76
+Porto Alegre,510.0,Quinta,Remota,Sim,70.93
+São Paulo,740.0,Domingo,Remota,Sim,276.53
+Rio de Janeiro,624.0,Quarta,Online,Não,172.26
+Curitiba,913.0,Quarta,Remota,Não,135.87
+São Paulo,792.0,Segunda,Online,Não,236.07
+Curitiba,290.0,Domingo,Remota,Sim,32.99
+Rio de Janeiro,613.0,Sábado,Online,Não,284.27
+Rio de Janeiro,145.0,Sexta,Remota,Sim,29.51
+São Paulo,949.0,Quinta,Online,Sim,346.39
+Rio de Janeiro,783.0,Terça,Online,Sim,175.93
+Porto Alegre,534.0,Sábado,Online,Não,164.49
+Rio de Janeiro,456.0,Sábado,Online,Não,145.32
+Curitiba,280.0,Quarta,Online,Sim,48.7
+Curitiba,798.0,Domingo,Remota,Sim,389.29
+Curitiba,704.0,Segunda,Remota,Não,288.68
+Curitiba,220.0,Segunda,Remota,Sim,104.68
+Porto Alegre,590.0,Quinta,Online,Não,270.18
+Belo Horizonte,85.0,Quarta,Remota,Sim,28.83
+São Paulo,574.0,Sábado,Online,Não,269.06
+Curitiba,209.0,Sexta,Online,Sim,28.3
+Rio de Janeiro,888.0,Quarta,Remota,Não,158.41
+Curitiba,748.0,Quinta,Remota,Sim,88.33
+Rio de Janeiro,292.0,Quinta,Online,Não,67.2
+Rio de Janeiro,135.0,Quarta,Remota,Não,34.49
+Curitiba,845.0,Quinta,Online,Sim,176.22
+Porto Alegre,627.0,Quarta,Online,Sim,270.55
+Rio de Janeiro,731.0,Terça,Online,Não,177.41
+Rio de Janeiro,606.0,Quarta,Online,Sim,128.7
+Curitiba,623.0,Domingo,Online,Não,197.54
+Rio de Janeiro,695.0,Quarta,Remota,Sim,108.68
+Rio de Janeiro,845.0,Quinta,Remota,Não,355.64
+Curitiba,77.0,Domingo,Online,Não,10.0
+Curitiba,669.0,Quinta,Online,Não,330.99
+São Paulo,605.0,Segunda,Remota,Não,247.38
+Porto Alegre,389.0,Segunda,Remota,Não,69.82
+Porto Alegre,847.0,Domingo,Online,Não,86.57
+Rio de Janeiro,380.0,Terça,Remota,Sim,161.95
+Porto Alegre,689.0,Segunda,Online,Sim,263.71
+Rio de Janeiro,555.0,Quarta,Remota,Sim,217.34
+São Paulo,397.0,Quinta,Online,Não,162.18
+Curitiba,522.0,Segunda,Remota,Não,67.66
+Curitiba,280.0,Segunda,Online,Não,68.15
+Curitiba,239.0,Terça,Remota,Não,34.98
+Porto Alegre,274.0,Domingo,Remota,Sim,122.0
+São Paulo,434.0,Domingo,Online,Sim,151.6
+Porto Alegre,426.0,Sábado,Remota,Não,98.99
+Porto Alegre,332.0,Terça,Online,Sim,41.64
+São Paulo,682.0,Quarta,Remota,Sim,153.04
+São Paulo,677.0,Domingo,Online,Não,155.76
+São Paulo,794.0,Quinta,Remota,Sim,311.12
+São Paulo,308.0,Terça,Online,Não,109.35
+Curitiba,408.0,Segunda,Remota,Sim,185.59
+Belo Horizonte,759.0,Quinta,Online,Não,219.26
+Belo Horizonte,505.0,Quinta,Remota,Não,74.66
+São Paulo,460.0,Segunda,Online,Não,177.24
+Belo Horizonte,698.0,Terça,Online,Não,282.21
+Belo Horizonte,367.0,Segunda,Online,Sim,119.1
+São Paulo,726.0,Sábado,Remota,Não,296.49
+Belo Horizonte,274.0,Quinta,Online,Não,81.52
+Porto Alegre,868.0,Sexta,Remota,Não,268.29
+Rio de Janeiro,283.0,Sexta,Online,Sim,76.7
+Rio de Janeiro,733.0,Quarta,Remota,Não,80.75
+São Paulo,713.0,Domingo,Online,Sim,102.07
