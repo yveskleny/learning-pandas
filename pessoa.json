@@ -1,0 +1,9 @@
+{
+    "nome": "Ana",
+    "idade": 23,
+    "cidades_visitadas": [
+        "Curitiba",
+        "São Paulo",
+        "Londres"
+    ]
+}
