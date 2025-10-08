@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Teclado",
+        "preco": 659.0,
+        "quantidade": 29
+    },
+    {
+        "nome": "Mouse",
+        "preco": 289.0,
+        "quantidade": 29
+    }
+]
