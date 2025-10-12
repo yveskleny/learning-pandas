@@ -1,0 +1,20 @@
+{
+    "empresa": "TechCode",
+    "funcionarios": [
+        {
+            "nome": "Alice",
+            "idade": 28,
+            "cargo": "Dev"
+        },
+        {
+            "nome": "Rafa",
+            "idade": 35,
+            "cargo": "Gerente"
+        },
+        {
+            "nome": "João",
+            "idade": 22,
+            "cargo": "Estagiário"
+        }
+    ]
+}
